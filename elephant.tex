@@ -1,0 +1,624 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Sample template for MIT Junior Lab Student Written Summaries
+% Available from http://web.mit.edu/8.13/www/Samplepaper/sample-paper.tex
+% Last Updated April 12, 2007
+% Adapted from the American Physical Societies REVTeK-4 Pages
+% at http://publish.aps.org
+%\newcommand{\mjmlegacy}{}
+
+\setlength{\paperheight}{11in}
+% http://tex.stackexchange.com/questions/74636/mla-package-and-thumbpdf
+\makeatletter
+\@namedef{ver@thumbpdf.sty}{}
+\makeatother
+%\documentclass[aps,secnumarabic,balancelastpage,amsmath,amssymb,nofootinbib]{revtex4}
+\input{myrevtexheaders.tex}
+\usepackage[section]{placeins}
+
+
+\input{myskeletonpackages.tex}
+
+\newcolumntype{.}[1]{D{.}{.}{#1}}
+%\usepackage[maxfloats=30]{morefloats}   %mjm   saving up figs for the end   
+% no param on old version stuck at 36
+\usepackage{morefloats}        %mjm   saving up figs for the end   
+\usepackage{graphicx}        %mjm   saving up figs for the end   
+
+% will need modificaitons 
+%mjmlegacy
+%\input{recent_template.tex}
+
+
+
+% https://tex.stackexchange.com/questions/121601/automatically-wrap-the-text-in-verbatim
+\usepackage{listings}
+\lstset{
+basicstyle=\small\ttfamily,
+columns=flexible,
+breaklines=true
+}
+
+% none of this fking fking works for a f F 
+%mjmlegacy
+%\newcommand{\mjmverbatim}{lstlisting} \newcommand{\mjmbeginverbatim}{\begin{lstlisting}} \newcommand{\mjmendverbatim}{\end{lstlisting}} \newcommand{\mjmmangle}[1]{keep/#1}
+
+
+
+%# CHANGE VERSION AND STATUS MANUALLY 
+% need a draft/notes/release flag
+
+% https://tex.stackexchange.com/questions/5894/latex-conditional-expression
+%At the command-line, you can do \def\MYFLAG{} and then test if \MYFLAG is defined in your document (or an included style file) with \ifdefined\MYFLAG ... \else ... \fi.
+% needs trailing space for the sample bibtex doh
+% leading spaces mess up the entry thought 
+\def\xxmjmrelease{0.10 }
+\ifdefined\mjmrelease
+\newcommand{\mjmstatus}{ PUBLIC NOTES }
+\newcommand{\mjmversion}{\mjmrelease} %%%%%%%%%%%%%
+\newcommand{\mjmtrno}{MJM-2026-001}
+\newcommand{\mjmbib}{\mjmtrno-\mjmversion}
+\newcommand{\mjmstatuswarn}{{\bf{  }}   }
+% 2021-09-29 wanted version wth for brownie
+%\newcommand{\mjmbib}{\mjmtrno-\mjmversion-\mjmrelease}
+%\newcommand{\mjmbib}{\mjmtrno}
+\else
+\newcommand{\mjmstatus}{ NOT public NOTES }
+\newcommand{\mjmversion}{0.00} %%%%%%%%%%%%%
+\newcommand{\mjmtrno}{MJM-2026-001}
+%\newcommand{\mjmbib}{\mjmtrno-\mjmversion}
+\newcommand{\mjmbib}{\mjmtrno}
+%\newcommand{\mjmstatuswarn}{  }
+\newcommand{\mjmstatuswarn}{{\bf{This document is a non-public DRAFT and contents may be speculative or undocumented or simple musings and should be read as such.  }}   }
+\fi
+
+%\newcommand{\mjmstatus}{ NOT public NOTES }
+
+
+
+\newcommand{\mjmtitle}{Alzheimer's Disease : 10k maniacs agree its an elephant}
+\begin{comment}
+\newcommand{\xxmjmmakedate}{ }
+\newcommand{\xxmjmauthor}{Mike J Marchywka }
+\newcommand{\xxmjmbasename}{\jobname}
+\newcommand{\xxmjmaddbio}{mjm_tr,releases}
+\newcommand{\xxmjmversion}{ 0.00 }
+\newcommand{\xxmjmtrno}{MJM-2018-009}
+\newcommand{\xxmjmbibday}{12}
+\newcommand{\xxmjmbibmo}{12}
+\newcommand{\xxmjmbibyear}{2018}
+\newcommand{\xxmjmemail}{marchywka@hotmail.com}
+\end{comment}
+
+\input{mycommands.tex}
+
+
+\newcommand{\mjmauthor}{Mike J Marchywka }
+\newcommand{\mjmmakedate}{2026-01-17 }
+\newcommand{\mjmbasename}{\jobname}
+\newcommand{\mjmaddbio}{mjm_tr,releases}
+%\newcommand{\mjmversion}{0.00}
+%\newcommand{\mjmtrno}{MJM-2026-001}
+%\newcommand{\mjmbibday}{17}
+%\newcommand{\mjmbibmo}{01}
+%\newcommand{\mjmbibyear}{2026}
+
+% the build script changes these to creation day doh 
+\newcommand{\mjmbibday}{17}
+\newcommand{\mjmbibmo}{01}
+\newcommand{\mjmbibyear}{2026}
+
+
+\newcommand{\mjmmakebibday}{\number\day}
+\newcommand{\mjmmakebibmo}{\number\month}
+\newcommand{\mjmmakebibyear}{\number\year}
+
+\newcommand{\mjmbibtype}{techreport}
+
+\newcommand{\mjmbibname}{marchywka-\mjmbib}
+\mjmstartbib{\mjmbibtype}{\mjmbibname}
+
+
+\newcommand{\mjmemail}{marchywka@hotmail.com}
+%\newcommand{\mjmaddr}{157 Zachary Dr Talking Rock GA 30175 USA}
+\newcommand{\mjmaddr}{157 Zachary Dr Talking Rock GA 30175 USA}
+\mjmaddbib{title}{\mjmtitle}
+\mjmaddbib{author}{\mjmauthor}
+\mjmaddbib{type}{\mjmbibtype}
+%\mjmaddbib{name}{marchywka-\mjmbib}
+\mjmaddbib{name}{\mjmbibname}
+\mjmaddbib{number}{\mjmtrno}
+\mjmaddbib{version}{\mjmversion}
+\mjmaddbib{institution}{not institutionalized, independent }
+\mjmaddbib{address}{ \mjmaddr}
+\mjmaddbib{date}{\today}
+\mjmaddbib{startdate}{\mjmbibyear -\mjmbibmo -\mjmbibday }
+%\mjmaddbib{day}{\mjmbibday}
+%\mjmaddbib{month}{\mjmbibmo}
+%\mjmaddbib{year}{\mjmbibyear}
+\mjmaddbib{day}{\mjmmakebibday}
+\mjmaddbib{month}{\mjmmakebibmo}
+\mjmaddbib{year}{\mjmmakebibyear}
+
+\mjmaddbib{author1email}{\mjmemail}
+\mjmaddbib{contact}{\mjmemail}
+\mjmaddbib{author1id}{orcid.org/0000-0001-9237-455X}
+\CatchFileEdef\mjmpages{\mjmbasename.last_page}{\endlinechar=-1\relax}
+% TODO FIXME add this to the skeleton text 
+%\mjmaddbib{pages}{ \input{\mjmbasename.last_page}}
+\mjmaddbib{pages}{ \mjmpages}
+%\mjmaddbib{filename}{\mjmbasename}
+
+\begin{comment}
+\newcommand{\checkfortwo}[1]{%
+  \ifcsname#1\endcsname%
+  VERSION =        \{\mjmversion \today \mjmstatus \},
+  \else%
+  VERSION =        \{\mjmversion\},
+  \fi%
+}
+
+\end{comment}
+%\mjmaddbib{bibtex}{\mjmfullbib}
+
+\mjmdonebib
+
+
+
+\lhead{\mjmauthor,  \mjmtrno }
+
+
+%\lhead{M Marchywka,  \mjmtrno }
+%\rhead{ \mjmversion not for public release}
+%\rhead{ { \today }  v. \mjmversion for release without review }
+%\rhead{ { \today }  v. \mjmversion NOT public DRAFT }
+%\rhead{ { \today }  v. \mjmversion { }  NOT public NOTES }
+\rhead{ { \today }  v. \mjmversion { }  \mjmstatus }
+
+\newfloatcommand{capbtabbox}{table}[][\FBwidth]
+
+
+%%%% build flags 
+%\newlength{\desttabw}  \setlength{\desttabw}{4in}
+\newlength{\desttabw}  \setlength{\desttabw}{\textwidth}
+\newlength{\chainwidth}  \setlength{\chainwidth}{.4\textwidth }
+\newlength{\slantwidth}  \setlength{\slantwidth}{.2\textwidth }
+\newlength{\subfigwidth}  \setlength{\subfigwidth}{.3\textwidth }
+\newlength{\fullfigwidth}  \setlength{\fullfigwidth}{.8\textwidth }
+\newlength{\subwfigwidth}  \setlength{\subwfigwidth}{.75\textwidth }
+\newlength{\subwfigwidthrot}  \setlength{\subwfigwidthrot}{\textwidth }
+\newlength{\myboxwidth}  \setlength{\myboxwidth}{.3\textwidth }
+\newlength{\picwidth}  \setlength{\picwidth}{.4\textwidth }
+% set to center for nowmal output 
+\newcommand{\destflushtab}{flushleft}
+\includecomment{mdpicomment}
+\excludecomment{draftcomment}
+\excludecomment{badmathcomment}
+\excludecomment{showworkcomment}
+% this does not fing work ... 
+
+\newcommand{\mjmed}[1]{
+%\begin{mjmedx} 
+[ mjm : #1   ]
+%\end{mjmedx} 
+}  
+
+% thinking outload
+\newcommand{\mjmtolx}[1]{}
+\newcommand{\mjmtolxx}[1]{}
+\newcommand{\mjmtol}[1]{
+ \fbox{  
+% thi does not ing work right 
+\begin{minipage}[t]{\textwidth}
+{ \centering{\bf{Thinking outloud}} }
+\par   
+#1 
+\end{minipage} 
+}
+}
+
+\newcommand{\mjmpicture}[3]
+{
+\begin{figure}[H]
+{ \includegraphics[height=3in,width=4in]{keep/#1} }
+\caption{#2}
+\label{fig:#3}
+\end{figure}
+} % mjmpicture
+
+
+\newcommand{\mjmaside}[1]{
+ \fbox{  
+% thi does not ing work right 
+\begin{minipage}[t]{\textwidth}
+{ \centering{\bf{Aside: }} }
+\par   
+#1 
+\end{minipage} 
+}
+}
+
+
+
+
+\newcommand{\mjmgraphics}[1]{#1 }
+\newcommand{\mjmfullplot}[1]{\includegraphics[width=\fullfigwidth]{#1}}
+%\newcommand{\mjmincludeplot}[1]{\includegraphics[width=\fullfigwidth]{#1}}
+%\newcommand{\mjmincludeplot}[1]{\includegraphics[width=\subfigwidth]{#1}}
+\newcommand{\mjmincludeplot}[1]{\includegraphics[height=3in,width=\fullfigwidth]{#1}}
+
+% include here as likely to be doc specific 
+%\newcommand{\mjmreffig}[1]{Fig. \ref{#1}}
+\newcommand{\mjmreffig}[1]{Fig. \ref{fig:#1}}
+\newcommand{\mjmreftab}[1]{Table  \ref{tab:#1}}
+\newcommand{\mjmrefeqn}[1]{Eqn  \ref{eqn:#1}}
+
+
+%cp yyy2.pdf ~/d/latex/keep/pp20171124biotin.pdf
+\newcommand{\mjmdatedplot}[1] 
+{ \includegraphics[height=3in,width=\fullfigwidth]{keep/pp20171124#1} }
+% right now there are too many figs to save for the end apaprently
+% hard limit is 36
+\newcommand{\mjmbeginfigure}{\begin{figure}[H] }
+%\newcommand{\mjmbeginfigure}{\begin{figure}[p] }
+\newcommand{\mjmfigure}[1]{
+%\begin{figure}[H]
+\mjmbeginfigure
+
+#1 
+
+\end{figure}
+}
+%\extrafloats{100}
+
+\newcommand{\mjmlisting}[1]
+{
+\begin{lstlisting} 
+#1 
+\end{lstlisting}
+}
+
+\newcommand{\mjmold}[1]{ } 
+
+
+
+\newcommand{\mjmeqn}[1]{\begin{equation} #1 \end{equation}  } 
+
+
+
+
+
+\begin{document}
+
+\title{\mjmtitle}
+\author         {Mike Marchywka}
+\email          {\mjmemail}
+\thanks{ to cite  or credit this work, see bibtex in \ref{appendix:citing} } 
+\date{\today}
+\affiliation{\mjmaddr}
+
+\mjmblackboxno{Release Notes  xxxx-xx-xx : }{
+not ready at all
+The AD literature seems to go from miracle to failed miracle almost
+daily with little attempt to integrate the observations and try
+to put them together with cause and effect like any TV detective
+or old wisdom fables like the blind men and the elephant even as
+done by Natalie Merchant lol. This work tries to fix that 
+and finds that all these things are logically explained by 
+well known issues such as age related digestive decay.
+Suggestions are further supported by in-house work on 
+optimization of dog diets demonstrating apparent safety
+and utility of out of favor vitamins that could be impacted
+by changes in stomach chemistry. 
+Another problem may be politics. One issue may be related
+to tyrosine metabolism and increased relative
+abundance of analogs capable of become toxic. This immediately
+jumps out as a contributor to race based AD differences not
+just social aspects that are touted to be politically correct.
+To be sure, constituitive tyrosine metabolizers may have adaptive
+responses which support this flux with no net "bad" effects
+elsewhere and theere may turn out not to be any anwyay. 
+In any case, its an important issue and like any other
+law of nature will not yield to human desire and the only way
+for people to benefit is follow the data. 
+If you want to fool society insead of solve problems for everyone
+turn back now to your safe space...
+
+\mjmreleasewarning
+\mjmstatuswarn
+}
+
+\begin{abstract}
+Effective treatments for Alzheimer's Disease have been difficult
+to create. Much effort has been directed at amyloid beta removal
+with minimal clinical benefits.
+Several alternative approaches have become popular including
+the infection hypothesis although many pathogens appear to 
+ce possible causes. 
+An age related vulnerability rather than a small group of pathogens
+may be a better focus for attention. 
+ Recently, a series of headlines
+has emerged claiming benefits for various nutrients or supplements
+such as choline, lithium, or NAD+. Taking  these and other  observations
+together it is likely that, similar to the fable of the blind men
+grasping different part of an elephant, a plausible unifying
+theme is nutrient deficiency with adaptive and malapative 
+responses making this initial cause difficult to discern.
+This work explains all of these disparate observations as
+the result of age related GI decay. If this analysis accurately
+captures cause and effect in the real disease, correction
+or prevention may be fairly easy with well known small 
+nutrient molecules or addition of acid or chloride to meals.
+Isolated profound nutrient deficiencies will not likely exist
+so obvious attribution of disease to single molecular entity is not
+appropriate.  Individual responses to nutrient details will 
+appear to make each case different but still possibly treatable
+with similar simple remedies. 
+Indeed, there has been some limited success with dietary interventions
+but these fail to be designed around likely age related causes.
+Cations such as metals, protein components, and lipophilic nutrients
+would likely be the first suspects. In particular, its likely that
+vitamin K and copper, along with more accepted components such
+as amino acids and SMVT substrates all need to be included
+to replace the younger absorption profile.  
+
+\end{abstract}
+
+\maketitle
+\tableofcontents
+
+\vspace{.5in}
+Citing information should also be available in machine readable
+form in the pdf extended information unless modified by the hosting
+web site ,
+
+\vspace{.3in}
+
+\begin{minipage}{\linewidth}
+%\input{bibtex2.txt}
+%\input{bibtex3.txt}
+\mjmshowbib
+\end{minipage}
+
+
+
+\newpage
+
+
+\section{Introduction  }
+Alzheimer's disease remains an unresolved problem despite
+all the money and effort directed at it for the last
+several decades.  
+Despite decades of development, anti-amyloid products continue
+to show questionable net clinical benefit and do not always
+get FDA approval even with creative trial design.
+Headlines sometimes appear about new scientific or anecdotal
+evidence pointing to a new treatment but rarely do these
+translate into useful therapies. The thesis of this work
+is that many of these results are useful but tend to be
+interpretted in isolation and without regard for cause
+and effect in real disease.
+"Animal models" may mimic some features of real disease but
+are predicated on a cause unlikely to be relevant to 
+the pathology being treated. By coincidence, sometimes however
+results may be transferable but don't seem to add to understanding.
+
+
+In the search for alternatives to the amyloid hypotheses,
+a number of other ideas have been generated. 
+A variety of metabolic ideas have been considered.
+
+Genetics have been investigated too with APOE contuining
+to get most of the attention. 
+
+As no particularly good suspect has emerged, it may be worth
+lookin at all the data and trying to guess at age related
+vulnerabilities that cause more infections to lead to dementia
+and classic symptoms such as amyloid build ups. Nutritional 
+defects make some sense as frailty, more than age per se,
+may be a correlate of age related diseases.
+
+The GLP-1 data may also motivate an interest. GLP-1's apparently
+are causing non-specific nutrient deficiencies maybe similar to
+problems common in old age. Clinical trials showed either no
+benefit in AD or a positive trial
+\cite{Edison_Femminella_Ritchie_Liraglutide_mild_2025}
+ appeared to be cherry picked.
+Meanwhile anecdotes about an aged appearance ( " Ozempic face" )
+and brain fog persist. There are a lot of lessons here but the
+immediate thing of relevance is that nutrient limitation that
+is can be "plausibly denied" appears to generate some symptoms
+of agining and more to the point frailty.
+
+Women and blacks appear to be at higher risk of AD 
+than European males. 
+Factors unrelated to the disease per se may confound results
+but that is the case with even politically correct association
+studies. 
+
+One obvious issue with skin pigment is tryosine metabolism.
+Both the depltion of tyrosine and generation of toxic analogs
+could be considered.
+
+Tyrosine anecdotes around menopause may be one indicator.
+While not considered essential as it can be derived from 
+phenyalanine, it is possible that overall supply of the precursor
+and regulatory systems reduce tyrosine production pathologically.
+
+
+Copper has a lot of motivation behind it but its rich chemistry
+may make it one of the more difficult to study.
+
+For whatever reason, vitamin K is often ignored even though 
+interactions with APOE and appearance in "healthy" foods
+motivates at least an association with health.
+
+
+\mjmtol{
+}
+
+A 2025 article found ADAMTS2 to be one of the  genes
+robustly  increased  in black and European Alzheimer's brains 
+\cite{Teich_Tobunluepop_Troncoso_Novel_differentially_expressed_genes_2025}.
+
+APOE is associated with many vitamins including vitamin K.
+
+
+\section{Conclusions}
+
+
+\section{Supplemental Information}
+
+\subsection{Computer Code}
+
+
+\begin{lstlisting}
+
+
+\end{lstlisting}
+\section{Bibliography}
+
+
+\bibliography{\mjmbasename,\mjmaddbio}
+\bibliographystyle{plainurl}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{acknowledgments} 
+
+% \input{generalack.tex}
+\begin{enumerate}
+\item Pubmed eutils facilities and the basic research it provides. 
+\item Free software including Linux, R, LaTex  etc.
+\item Thanks everyone who contributed incidental support. 
+\end{enumerate}
+
+\end{acknowledgments}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\clearpage
+\appendix
+
+\begin{mdpicomment}
+
+\section{ Statement of Conflicts }
+ No specific funding was used in this effort and there are no relationships
+with others that could create a conflict of interest. I would like to develop
+these ideas further and have obvious bias towards making them appear 
+successful. Barbara Cade, the dog owner, has worked in the pet food industry
+but this does not likely create a conflict. We have no interest in the
+makers of any of the products named in this work.  
+
+\end{mdpicomment}
+
+\begin{mdpicomment}
+\section{About the Authors and Facility}
+This work was performed at a dog rescue run by Barbara Cade and
+housed in rural Georgia.  The author of this report 
+,Mike Marchywka,
+has a background in electrical engineering and 
+has done extensive research using free online literature sources.  
+I hope to find additional people interested in critically 
+examining the results and verify that they can be reproduced
+effectively to treat other dogs.
+
+\begin{comment}
+\begin{figure}[htb] 
+\centering
+\mjmed{ picture commented out to save space in drafts...  } 
+%\includegraphics[width=\picwidth]{me_on_brick.jpg}
+\caption{ 
+ }
+\end{figure}
+
+\end{comment}
+
+
+\section{Symbols, Abbreviations and Colloquialisms}
+
+\begin{comment}
+% grep "[A-Z][A-Z]" paradox.tex | sed -e 's/[^A-Z]/\n/g' | grep "[A-Z]" | sort | uniq -c
+% cat  paradox.tex | sed -e 's/  */\n/g' | grep "[A-Z][A-Z]"  | grep -v "[^A-Z]" | sort | uniq  |awk '{print $0" &   \\\\"; }'
+\end{comment}
+
+
+%\abbreviations{The following abbreviations are used in this manuscript:\\
+%\begin{table}
+\noindent
+\begin{tabular}{@{}ll}
+%SMVT & Sodium dependent Multi-Vitamin Transporter\\
+TERM & definition and meaning   \\
+\hline
+%TLA & Three letter acronym\\
+%LD & linear dichroism
+\end{tabular} % }
+%\end{table}
+
+% https://tex.stackexchange.com/questions/5957/bibtex-entry-for-white-papers-and-technical-reports
+
+\section{General caveats and disclaimer }
+\label{appendix:caveats}
+
+%\input{disclaimer-informal.tex}
+\input{disclaimer-gaslight.tex}
+\input{disclaimer-status.tex}
+
+\section{Citing this as a tech report or white paper }
+\label{appendix:citing}
+
+Note: This is mostly manually entered and not assured to be error free.
+
+This is tech report \mjmtrno. 
+
+\begin{table}[H] \centering
+\begin{tabular}{r|r|c|r}
+Version & Date & Comments  &  \\
+0.01 & \mjmmakedate  &  Create from empty.tex template  &  \\
+-  & \today & version  \mjmversion { }   \mjmtrno  &  \\
+1.0 & 20xx-xx-xx & First revision for distribution &  \\
+\end{tabular}
+\end{table}
+
+
+Released versions,
+
+build script needs to include empty releases.tex
+\begin{table}[H] \centering
+\begin{tabular}{|r|r|l|}
+Version & Date & URL    \\
+\hline
+\expandableinput{releases.tex}
+%\input{releases.tex}
+\hline
+\end{tabular}
+\end{table}
+
+
+
+
+
+% 2020-11-30 keep on same page 
+%\input{bibtex2.txt}
+
+\begin{minipage}{\linewidth}
+%\input{bibtex2.txt}
+%\input{bibtex3.txt}
+\mjmshowbib
+\end{minipage}
+
+
+
+
+\begin{comment}
+
+\end{comment}
+\vspace{1cm}
+Supporting files. Note that some dates,sizes, and md5's will change as this is
+rebuilt.
+
+This really needs to include the data analysis code 
+but right now it is auto generated picking up things from prior
+build in many cases 
+\lstinputlisting{\mjmbasename.bundle_checksums}
+\end{mdpicomment}
+\end{document}
