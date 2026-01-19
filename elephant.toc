@@ -1,14 +1,14 @@
 \contentsline {title}{Alzheimer's Disease : 10k maniacs agree its an elephant}{1}{section*.2}%
 \contentsline {abstract}{Abstract}{1}{section*.1}%
 \tocdepth@munge 
-\contentsline {section}{\numberline {}Contents}{1}{section*.3}%
+\contentsline {section}{\numberline {}Contents}{2}{section*.3}%
 \tocdepth@restore 
 \contentsline {section}{\numberline {I}Introduction }{3}{section*.4}%
 \contentsline {section}{\numberline {II}Conclusions}{3}{section*.5}%
 \contentsline {section}{\numberline {III}Supplemental Information}{3}{section*.6}%
 \contentsline {subsection}{\numberline {III.1}Computer Code}{3}{section*.7}%
-\contentsline {section}{\numberline {IV}Bibliography}{3}{section*.8}%
-\contentsline {section}{\numberline {}References}{3}{section*.9}%
+\contentsline {section}{\numberline {IV}Bibliography}{4}{section*.8}%
+\contentsline {section}{\numberline {}References}{4}{section*.9}%
 \contentsline {section}{\numberline {}Acknowledgments}{4}{section*.10}%
 \appendix 
 \contentsline {section}{\numberline {A} Statement of Conflicts }{5}{section*.11}%

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  17 JAN 2026 16:59
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  19 JAN 2026 13:12
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1243,42 +1243,41 @@ Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 291.
 
 \openout3 = elephantNotes.bib
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 329--330
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 340--341
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 367
+LaTeX Font Info:    Trying to load font information for U+msa on input line 378
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 367
+LaTeX Font Info:    Trying to load font information for U+msb on input line 378
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./elephant.toc
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./elephant.toc)
 \tf@toc=\write7
 
 \openout7 = elephant.toc
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 377--382
+Overfull \hbox (10.0pt too wide) in paragraph at lines 388--393
 []$[]$ 
  []
 
 [2]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 458--459
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 491--492
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--459
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
 
  []
 
@@ -1299,7 +1298,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 89--94
 Excluding 'comment' comment. [5]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 108.
- (./elephant.bundle_checksums)) [6]
+ (./elephant.bundle_checksums) [6]) [7]
 (./elephant.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1310,16 +1309,16 @@ Package rerunfilecheck Info: File `elephant.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 34849 strings out of 475512
- 156267,1373583 words of node,token memory allocated
- 695 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 13 attribute, 79 glue_spe
-c, 13 attribute_list, 1 pdf_action nodes
-   avail lists: 1:1,2:585,3:306,4:69,5:871,6:112,7:14203,8:50,9:562,10:17,11:109
-0
- 56899 multiletter control sequences out of 65536+600000
+ 34905 strings out of 475512
+ 745251,1373583 words of node,token memory allocated
+ 735 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 17 attribute, 79 glue_spe
+c, 17 attribute_list, 5 pdf_action nodes
+   avail lists: 1:2,2:5688,3:634,4:143,5:17580,6:181,7:24128,8:67,9:35626,10:30,
+11:2049
+ 56916 multiletter control sequences out of 65536+600000
  79 fonts using 5386151 bytes
- 124i,12n,116p,553b,1102s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,553b,1099s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-
@@ -1329,10 +1328,10 @@ regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-italic.otf></usr
 c/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on elephant.pdf (6 pages, 88571 bytes).
+Output written on elephant.pdf (7 pages, 101054 bytes).
 
-PDF statistics: 196 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 131072)
+PDF statistics: 260 PDF objects out of 1000 (max. 8388607)
+ 221 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 131072)
  136 words of extra memory for PDF output out of 10000 (max. 100000000)
 

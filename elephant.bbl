@@ -1,5 +1,14 @@
 \begin{thebibliography}{1}
 
+\bibitem{PMC3286726}
+Akila De~Silva and Stephen~R Bloom.
+\newblock Gut hormones and appetite control: A focus on pyy and glp-1 as
+  therapeutic targets in obesity.
+\newblock {\em Gut and liver}, pages 10--20, 01 2012.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC3286726/}, \href
+  {https://doi.org/10.5009/gnl.2012.6.1.10}
+  {\path{doi:10.5009/gnl.2012.6.1.10}}.
+
 \bibitem{Edison_Femminella_Ritchie_Liraglutide_mild_2025}
 Paul Edison, Grazia~Daniela Femminella, Craig Ritchie, Joseph Nowell, Clive
   Holmes, Zuzana Walker, Basil Ridha, Sanara Raza, Nicholas~R. Livingston,
@@ -19,6 +28,35 @@ Paul Edison, Grazia~Daniela Femminella, Craig Ritchie, Joseph Nowell, Clive
   {https://doi.org/10.1038/s41591-025-04106-7}
   {\path{doi:10.1038/s41591-025-04106-7}}.
 
+\bibitem{Kang_Mullen_Miranda_Utilization_tyrosine_2012}
+Sohye Kang, Johanna Mullen, Les~P. Miranda, and Rohini Deshpande.
+\newblock Utilization of tyrosine and histidinecontaining dipeptides to enhance
+  productivity and culture viability.
+\newblock {\em Biotechnology and Bioengineering}, 109, 09 2012.
+\newblock \href {https://doi.org/10.1002/bit.24507}
+  {\path{doi:10.1002/bit.24507}}.
+
+\bibitem{MAHER1990685}
+Timoth~J. Maher, Paul~J. Kiritsy, Fernando~A. Moya-Huff, Franco Casacci, Franco
+  {De Marchi}, and Richard~J. Wurtman.
+\newblock Use of parenteral dipeptides to increase serum tyrosine levels and to
+  enhance catecholamine-mediated neurotransmission.
+\newblock {\em Journal of Pharmaceutical Sciences}, 79(8):685--687, 1990.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0022354915483078},
+  \href {https://doi.org/10.1002/jps.2600790807}
+  {\path{doi:10.1002/jps.2600790807}}.
+
+\bibitem{PMC3336020}
+Sabrina Mitchell, Teresa Welch-Burke, Logan Dumitrescu, Jefferson~P Lomenick,
+  Deborah~G Murdock, Dana~C Crawford, and Marshall Summar.
+\newblock Peptide tyrosine tyrosine levels are increased in patients with urea
+  cycle disorders.
+\newblock {\em Molecular genetics and metabolism}, pages 39--42, 02 2012.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC3336020/}, \href
+  {https://doi.org/10.1016/j.ymgme.2012.02.011}
+  {\path{doi:10.1016/j.ymgme.2012.02.011}}.
+
 \bibitem{Teich_Tobunluepop_Troncoso_Novel_differentially_expressed_genes_2025}
 Andrew~F. Teich, Katarnut Tobunluepop, Juan~C. Troncoso, ShihHsiu Wang, Zihan
   Wang, Benjamin Wolozin, Jesse Mez, Lindsay~A. Farrer, Mark~W. Logue, Adam
@@ -32,5 +70,14 @@ Andrew~F. Teich, Katarnut Tobunluepop, Juan~C. Troncoso, ShihHsiu Wang, Zihan
 \newblock {\em Alzheimer's \&amp; Dementia}, 21, 10 2025.
 \newblock \href {https://doi.org/10.1002/alz.70629}
   {\path{doi:10.1002/alz.70629}}.
+
+\bibitem{PMC7481768}
+Natascha Verhagen, Andy~Wiranata Wijaya, Attila Teleki, Muhammad Fadhlullah,
+  Andreas Unsld, Martin Schilling, Christoph Heinrich, and Ralf Takors.
+\newblock Comparison of l-tyrosine containing dipeptides reveals maximum atp
+  availability for l-prolyl-l-tyrosine in cho cells.
+\newblock {\em Engineering in life sciences}, pages 384--394, 06 2020.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC7481768/}, \href
+  {https://doi.org/10.1002/elsc.202000017} {\path{doi:10.1002/elsc.202000017}}.
 
 \end{thebibliography}
