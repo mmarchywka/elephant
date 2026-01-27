@@ -11,44 +11,47 @@ Database file #1: elephantNotes.bib
 Database file #2: elephant.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
-You've used 21 entries,
+Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
+Warning--can't use both author and editor fields in Varma2023
+You've used 29 entries,
             2943 wiz_defined-function locations,
-            838 strings with 15188 characters,
-and the built_in function-call counts, 13297 in all, are:
-= -- 1327
-> -- 890
-< -- 4
-+ -- 341
-- -- 316
-* -- 1037
-:= -- 2071
-add.period$ -- 84
-call.type$ -- 21
-change.case$ -- 221
+            912 strings with 18256 characters,
+and the built_in function-call counts, 17048 in all, are:
+= -- 1736
+> -- 1056
+< -- 6
++ -- 401
+- -- 368
+* -- 1274
+:= -- 2623
+add.period$ -- 116
+call.type$ -- 29
+change.case$ -- 270
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 276
-empty$ -- 864
-format.name$ -- 316
-if$ -- 3131
+cite$ -- 31
+duplicate$ -- 369
+empty$ -- 1162
+format.name$ -- 368
+if$ -- 4081
 int.to.chr$ -- 0
-int.to.str$ -- 21
-missing$ -- 21
-newline$ -- 129
-num.names$ -- 42
-pop$ -- 297
+int.to.str$ -- 29
+missing$ -- 29
+newline$ -- 177
+num.names$ -- 58
+pop$ -- 372
 preamble$ -- 1
-purify$ -- 200
+purify$ -- 242
 quote$ -- 0
-skip$ -- 760
+skip$ -- 1039
 stack$ -- 0
-substring$ -- 317
-swap$ -- 97
-text.length$ -- 48
+substring$ -- 405
+swap$ -- 131
+text.length$ -- 66
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 84
-warning$ -- 0
-while$ -- 54
-width$ -- 23
-write$ -- 283
+type$ -- 114
+warning$ -- 2
+while$ -- 73
+width$ -- 31
+write$ -- 389
+(There were 2 warnings)

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  26 JAN 2026 19:16
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  27 JAN 2026 14:25
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1252,12 +1252,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 340--341
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 389
+LaTeX Font Info:    Trying to load font information for U+msa on input line 396
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 389
+LaTeX Font Info:    Trying to load font information for U+msb on input line 396
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1267,33 +1267,33 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 \openout7 = elephant.toc
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 399--404
+Overfull \hbox (10.0pt too wide) in paragraph at lines 406--411
 []$[]$ 
  []
 
 [2] [3] [4]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 577--578
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 620--621
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--578
+Underfull \hbox (badness 10000) in paragraph at lines 620--621
 
  []
 
 (./elephant.bbl [5]
-Underfull \hbox (badness 3679) in paragraph at lines 116--121
+Underfull \hbox (badness 3679) in paragraph at lines 132--137
 []\TU/lmr/m/n/9 Jule Klot-ter.  Niaci-namide (nicoti-namide) and alzheimer’s 
 dis-ease.  \TU/lmr/m/it/9 Townsend Let-ter\TU/lmr/m/n/9 , 12 2010.  URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--121
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
 [][]$\TU/lmtt/m/n/9 https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleS
 cholar&v=2.1&it=r&linkaccess=abs&issn=
  []
 
-) [6] Including 'mdpicomment' comment.
+[6]) [7] Including 'mdpicomment' comment.
 \openout4 = comment.cut
  Straight input of comment.cut.
 (./comment.cut) Including 'mdpicomment' comment.
@@ -1307,10 +1307,10 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 89--94
 []$[]$ 
  []
 
-Excluding 'comment' comment. [7]
+Excluding 'comment' comment. [8]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 108.
- (./elephant.bundle_checksums [8])) [9]
+ (./elephant.bundle_checksums [9])) [10]
 (./elephant.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1321,14 +1321,14 @@ Package rerunfilecheck Info: File `elephant.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 34963 strings out of 475512
- 745241,1373583 words of node,token memory allocated
- 805 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 24 attribute, 79 glue_spe
-c, 24 attribute_list, 12 pdf_action nodes
-   avail lists: 2:5687,3:965,4:234,5:17373,6:182,7:24750,8:167,9:35212,10:30,11:
-2026
- 56957 multiletter control sequences out of 65536+600000
+ 34997 strings out of 475512
+ 745234,1373583 words of node,token memory allocated
+ 835 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 27 attribute, 79 glue_spe
+c, 27 attribute_list, 15 pdf_action nodes
+   avail lists: 1:1,2:5710,3:1211,4:308,5:17454,6:182,7:25110,8:166,9:35374,10:3
+2,11:2035
+ 56982 multiletter control sequences out of 65536+600000
  79 fonts using 5386151 bytes
  124i,12n,116p,553b,1406s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
@@ -1340,10 +1340,10 @@ regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-italic.otf></usr
 c/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on elephant.pdf (9 pages, 115697 bytes).
+Output written on elephant.pdf (10 pages, 122560 bytes).
 
-PDF statistics: 324 PDF objects out of 1000 (max. 8388607)
- 283 compressed objects within 3 object streams
- 86 named destinations out of 1000 (max. 131072)
+PDF statistics: 358 PDF objects out of 1000 (max. 8388607)
+ 315 compressed objects within 4 object streams
+ 95 named destinations out of 1000 (max. 131072)
  136 words of extra memory for PDF output out of 10000 (max. 100000000)
 
