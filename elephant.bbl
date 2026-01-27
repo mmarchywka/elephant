@@ -1,4 +1,45 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{ALLISON_STEWART_Reduced_Brain_Inositol_1971}
+J.~H. ALLISON and M.~A. STEWART.
+\newblock Reduced brain inositol in lithium-treated rats.
+\newblock {\em Nature New Biology}, 233, 10 1971.
+\newblock URL: \url{https://www.nature.com/articles/newbio233267a0}, \href
+  {https://doi.org/10.1038/newbio233267a0} {\path{doi:10.1038/newbio233267a0}}.
+
+\bibitem{Aron_Ngian_Qiu_Lithium_deficiency_2025}
+Liviu Aron, Zhen~Kai Ngian, Chenxi Qiu, Jaejoon Choi, Marianna Liang, Derek~M.
+  Drake, Sara~E. Hamplova, Ella~K. Lacey, Perle Roche, Monlan Yuan, Saba~S.
+  Hazaveh, Eunjung~A. Lee, David~A. Bennett, and Bruce~A. Yankner.
+\newblock Lithium deficiency and the onset of alzheimer's disease.
+\newblock {\em Nature}, 645, 09 2025.
+\newblock URL: \url{https://www.nature.com/articles/s41586-025-09335-x}, \href
+  {https://doi.org/10.1038/s41586-025-09335-x}
+  {\path{doi:10.1038/s41586-025-09335-x}}.
+
+\bibitem{Dementia_CognitiveImprovementGroup_Cholinesterase_inhibitors_Alzheimer_2016}
+Jacqueline~S Birks.
+\newblock Cholinesterase inhibitors for alzheimer's disease.
+\newblock {\em Cochrane Database of Systematic Reviews}, 2016, 03 2016.
+\newblock \href {https://doi.org/10.1002/14651858.cd005593}
+  {\path{doi:10.1002/14651858.cd005593}}.
+
+\bibitem{Blass_Thiamine_Alzheimer_1988}
+John~P. Blass.
+\newblock Thiamine and alzheimer's disease.
+\newblock {\em Archives of Neurology}, 45, 08 1988.
+\newblock \href {https://doi.org/10.1001/archneur.1988.00520320019008}
+  {\path{doi:10.1001/archneur.1988.00520320019008}}.
+
+\bibitem{10.7554/eLife.89889}
+Elissavet Chartampila, Karim~S Elayouby, Paige Leary, John~J LaFrancois, David
+  Alcantara-Gonzalez, Swati Jain, Kasey Gerencer, Justin~J Botterill, Stephen~D
+  Ginsberg, and Helen~E Scharfman.
+\newblock Choline supplementation in early life improves and low levels of
+  choline can impair outcomes in a mouse model of alzheimer's disease.
+\newblock {\em eLife}, 12:RP89889, jun 2024.
+\newblock \href {https://doi.org/10.7554/eLife.89889}
+  {\path{doi:10.7554/eLife.89889}}.
 
 \bibitem{PMC3286726}
 Akila De~Silva and Stephen~R Bloom.
@@ -37,6 +78,32 @@ Jeffrey Fessel.
 \newblock \href {https://doi.org/10.1002/trc2.12199}
   {\path{doi:10.1002/trc2.12199}}.
 
+\bibitem{Forlenza2012}
+Orestes~V. Forlenza, Vanessa~J. de~Paula, Rodrigo Machado-Vieira, Breno~S.
+  Diniz, and Wagner~F. Gattaz.
+\newblock Does lithium prevent alzheimer's disease?
+\newblock {\em Drugs {\&} Aging}, 29(5):335--342, May 2012.
+\newblock \href {https://doi.org/10.2165/11599180-000000000-00000}
+  {\path{doi:10.2165/11599180-000000000-00000}}.
+
+\bibitem{FU2004258}
+Ai~Ling Fu, Qian Li, Zhao~Hui Dong, Shi~Jie Huang, Yu~Xia Wang, and Man~Ji Sun.
+\newblock Alternative therapy of alzheimer's disease via supplementation with
+  choline acetyltransferase.
+\newblock {\em Neuroscience Letters}, 368(3):258--262, 2004.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0304394004007153},
+  \href {https://doi.org/10.1016/j.neulet.2004.05.116}
+  {\path{doi:10.1016/j.neulet.2004.05.116}}.
+
+\bibitem{Harwood_Lithium_bipolar_mood_2005}
+A~J Harwood.
+\newblock Lithium and bipolar mood disorder: the inositol-depletion hypothesis
+  revisited.
+\newblock {\em Molecular Psychiatry}, 10, 01 2005.
+\newblock URL: \url{https://www.nature.com/articles/4001618}, \href
+  {https://doi.org/10.1038/sj.mp.4001618} {\path{doi:10.1038/sj.mp.4001618}}.
+
 \bibitem{Kang_Mullen_Miranda_Utilization_tyrosine_2012}
 Sohye Kang, Johanna Mullen, Les~P. Miranda, and Rohini Deshpande.
 \newblock Utilization of tyrosine and histidinecontaining dipeptides to enhance
@@ -44,6 +111,13 @@ Sohye Kang, Johanna Mullen, Les~P. Miranda, and Rohini Deshpande.
 \newblock {\em Biotechnology and Bioengineering}, 109, 09 2012.
 \newblock \href {https://doi.org/10.1002/bit.24507}
   {\path{doi:10.1002/bit.24507}}.
+
+\bibitem{Klotter_Niacinamide_nicotinamide_Alzheimer_2010}
+Jule Klotter.
+\newblock Niacinamide (nicotinamide) and alzheimer's disease.
+\newblock {\em Townsend Letter}, 12 2010.
+\newblock URL:
+  \url{https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=19405464&p=HRCA&sw=w&userGroupName=anon%7E7071297&aty=open-web-entry}.
 
 \bibitem{PMC12811047}
 Satoshi Kurisu and Hitoshi Fujiwara.
@@ -64,6 +138,15 @@ Timoth~J. Maher, Paul~J. Kiritsy, Fernando~A. Moya-Huff, Franco Casacci, Franco
   \href {https://doi.org/10.1002/jps.2600790807}
   {\path{doi:10.1002/jps.2600790807}}.
 
+\bibitem{Matsunaga_Kishi_Annas_Lithium_Treatment_2015}
+Shinji Matsunaga, Taro Kishi, Peter Annas, Hans Basun, Harald Hampel, and Nakao
+  Iwata.
+\newblock Lithium as a treatment for alzheimer's disease: A systematic review
+  and meta-analysis.
+\newblock {\em Journal of Alzheimer's Disease}, 48, 09 2015.
+\newblock \href {https://doi.org/10.3233/jad-150437}
+  {\path{doi:10.3233/jad-150437}}.
+
 \bibitem{PMC3336020}
 Sabrina Mitchell, Teresa Welch-Burke, Logan Dumitrescu, Jefferson~P Lomenick,
   Deborah~G Murdock, Dana~C Crawford, and Marshall Summar.
@@ -73,6 +156,15 @@ Sabrina Mitchell, Teresa Welch-Burke, Logan Dumitrescu, Jefferson~P Lomenick,
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC3336020/}, \href
   {https://doi.org/10.1016/j.ymgme.2012.02.011}
   {\path{doi:10.1016/j.ymgme.2012.02.011}}.
+
+\bibitem{quUx1ed1badcharvv7889cLuong_Hoang_Role_Thiamine_2011}
+Khanh~vinh quUx1ed1[bad char~vv=7889]c Lu'o'ng and Lan~Thi Ho\`{a}ng
+  NguyUx1ec5[bad~char vv=7877]n.
+\newblock Role of thiamine in alzheimer's disease.
+\newblock {\em American Journal of Alzheimer's Disease \&amp; Other
+  Dementias\textrm{\small\textregistered}}, 26, 12 2011.
+\newblock \href {https://doi.org/10.1177/1533317511432736}
+  {\path{doi:10.1177/1533317511432736}}.
 
 \bibitem{Teich_Tobunluepop_Troncoso_Novel_differentially_expressed_genes_2025}
 Andrew~F. Teich, Katarnut Tobunluepop, Juan~C. Troncoso, ShihHsiu Wang, Zihan
@@ -87,6 +179,16 @@ Andrew~F. Teich, Katarnut Tobunluepop, Juan~C. Troncoso, ShihHsiu Wang, Zihan
 \newblock {\em Alzheimer's \&amp; Dementia}, 21, 10 2025.
 \newblock \href {https://doi.org/10.1002/alz.70629}
   {\path{doi:10.1002/alz.70629}}.
+
+\bibitem{Velazquez_Ferreira_Knowles_Lifelong_choline_supplementation_ameliorates_2019}
+Ramon Velazquez, Eric Ferreira, Sara Knowles, Chaya Fux, Alexis Rodin, Wendy
+  Winslow, and Salvatore Oddo.
+\newblock Lifelong choline supplementation ameliorates alzheimer's disease
+  pathology and associated cognitive deficits by attenuating microglia
+  activation.
+\newblock {\em Aging Cell}, 18, 12 2019.
+\newblock \href {https://doi.org/10.1111/acel.13037}
+  {\path{doi:10.1111/acel.13037}}.
 
 \bibitem{PMC7481768}
 Natascha Verhagen, Andy~Wiranata Wijaya, Attila Teleki, Muhammad Fadhlullah,

@@ -11,44 +11,44 @@ Database file #1: elephantNotes.bib
 Database file #2: elephant.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
-You've used 9 entries,
+You've used 21 entries,
             2943 wiz_defined-function locations,
-            726 strings with 10720 characters,
-and the built_in function-call counts, 7125 in all, are:
-= -- 681
-> -- 554
+            838 strings with 15188 characters,
+and the built_in function-call counts, 13297 in all, are:
+= -- 1327
+> -- 890
 < -- 4
-+ -- 215
-- -- 204
-* -- 598
-:= -- 1135
-add.period$ -- 36
-call.type$ -- 9
-change.case$ -- 129
++ -- 341
+- -- 316
+* -- 1037
+:= -- 2071
+add.period$ -- 84
+call.type$ -- 21
+change.case$ -- 221
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 143
-empty$ -- 400
-format.name$ -- 204
-if$ -- 1618
+cite$ -- 21
+duplicate$ -- 276
+empty$ -- 864
+format.name$ -- 316
+if$ -- 3131
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 9
-newline$ -- 57
-num.names$ -- 18
-pop$ -- 170
+int.to.str$ -- 21
+missing$ -- 21
+newline$ -- 129
+num.names$ -- 42
+pop$ -- 297
 preamble$ -- 1
-purify$ -- 120
+purify$ -- 200
 quote$ -- 0
-skip$ -- 353
+skip$ -- 760
 stack$ -- 0
-substring$ -- 166
-swap$ -- 63
-text.length$ -- 24
+substring$ -- 317
+swap$ -- 97
+text.length$ -- 48
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 36
+type$ -- 84
 warning$ -- 0
-while$ -- 26
-width$ -- 10
-write$ -- 124
+while$ -- 54
+width$ -- 23
+write$ -- 283
