@@ -94,6 +94,14 @@ Orestes~V. Forlenza, Vanessa~J. de~Paula, Rodrigo Machado-Vieira, Breno~S.
 \newblock \href {https://doi.org/10.2165/11599180-000000000-00000}
   {\path{doi:10.2165/11599180-000000000-00000}}.
 
+\bibitem{Forlenza_AlencarPiresBarbosa_What_reasons_2025}
+Orestes~Vicente Forlenza and Breno~Jos\'{e} Alencar Pires~Barbosa.
+\newblock What are the reasons for the repeated failures of clinical trials
+  with anti-amyloid drugs for ad treatment?
+\newblock {\em Dementia \&amp; Neuropsychologia}, 19, 2025.
+\newblock \href {https://doi.org/10.1590/1980-5764-dn-2025-e001}
+  {\path{doi:10.1590/1980-5764-dn-2025-e001}}.
+
 \bibitem{FU2004258}
 Ai~Ling Fu, Qian Li, Zhao~Hui Dong, Shi~Jie Huang, Yu~Xia Wang, and Man~Ji Sun.
 \newblock Alternative therapy of alzheimer's disease via supplementation with
@@ -104,6 +112,18 @@ Ai~Ling Fu, Qian Li, Zhao~Hui Dong, Shi~Jie Huang, Yu~Xia Wang, and Man~Ji Sun.
   \href {https://doi.org/10.1016/j.neulet.2004.05.116}
   {\path{doi:10.1016/j.neulet.2004.05.116}}.
 
+\bibitem{FUNK2026100402}
+Cory~C. Funk, Tom Paterson, Alex Bangs, David~M. Cannon, George Savage, Eric
+  Ringger, and Lee Hood.
+\newblock Mining the gaps: Deciphering alzheimer's biology through ai-driven
+  reconciliation.
+\newblock {\em The Journal of Prevention of Alzheimer's Disease}, 13(1):100402,
+  2026.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S2274580725003449},
+  \href {https://doi.org/10.1016/j.tjpad.2025.100402}
+  {\path{doi:10.1016/j.tjpad.2025.100402}}.
+
 \bibitem{Harwood_Lithium_bipolar_mood_2005}
 A~J Harwood.
 \newblock Lithium and bipolar mood disorder: the inositol-depletion hypothesis
@@ -111,6 +131,17 @@ A~J Harwood.
 \newblock {\em Molecular Psychiatry}, 10, 01 2005.
 \newblock URL: \url{https://www.nature.com/articles/4001618}, \href
   {https://doi.org/10.1038/sj.mp.4001618} {\path{doi:10.1038/sj.mp.4001618}}.
+
+\bibitem{Hein2025}
+Zaw~Myo Hein, Barani Karikalan, Prarthana~Kalerammana Gopalakrishna, Krina
+  Dhevi, Aisyah Alkatiri, Farida Hussan, Mohamad~Aris Mohd~Moklas, Saravanan
+  Jagadeesan, Muhammad~Danial Che~Ramli, Che~Nasril Che Mohd~Nassir, and
+  Thirupathirao Vishnumukkala.
+\newblock Toward a unified framework in molecular neurobiology of alzheimer's
+  disease: Revisiting the pathophysiological hypotheses.
+\newblock {\em Molecular Neurobiology}, 63(1):282, Dec 2025.
+\newblock \href {https://doi.org/10.1007/s12035-025-05602-0}
+  {\path{doi:10.1007/s12035-025-05602-0}}.
 
 \bibitem{Kang_Mullen_Miranda_Utilization_tyrosine_2012}
 Sohye Kang, Johanna Mullen, Les~P. Miranda, and Rohini Deshpande.
@@ -192,6 +223,25 @@ Sabrina Mitchell, Teresa Welch-Burke, Logan Dumitrescu, Jefferson~P Lomenick,
   {https://doi.org/10.1016/j.ymgme.2012.02.011}
   {\path{doi:10.1016/j.ymgme.2012.02.011}}.
 
+\bibitem{Mudher_Lovestone_Alzheimer_disease_2002}
+Amritpal Mudher and Simon Lovestone.
+\newblock Alzheimer's disease - do tauists and baptists finally shake hands?
+\newblock {\em Trends in Neurosciences}, 25, 01 2002.
+\newblock \href {https://doi.org/10.1016/s0166-2236(00)02031-2}
+  {\path{doi:10.1016/s0166-2236(00)02031-2}}.
+
+\bibitem{Panza_Dibello_Sardone_Successes_failures_2025}
+Francesco Panza, Vittorio Dibello, Rodolfo Sardone, Roberta Zupo, Fabio
+  Castellana, Ivana Leccisotti, Maria~Claudia Moretti, Mario Altamura,
+  Antonello Bellomo, Antonio Daniele, Vincenzo Solfrizzi, Emanuela Resta, and
+  Madia Lozupone.
+\newblock Successes and failures: the latest advances in the clinical
+  development of amyloid-upbeta-targeting monoclonal antibodies for treating
+  alzheimer's disease.
+\newblock {\em Expert Opinion on Biological Therapy}, 25, 03 2025.
+\newblock \href {https://doi.org/10.1080/14712598.2025.2463963}
+  {\path{doi:10.1080/14712598.2025.2463963}}.
+
 \bibitem{quUx1ed1badcharvv7889cLuong_Hoang_Role_Thiamine_2011}
 Khanh~vinh quUx1ed1[bad char~vv=7889]c Lu'o'ng and Lan~Thi Ho\`{a}ng
   NguyUx1ec5[bad~char vv=7877]n.
@@ -260,6 +310,17 @@ Natascha Verhagen, Andy~Wiranata Wijaya, Attila Teleki, Muhammad Fadhlullah,
 \newblock {\em Engineering in life sciences}, pages 384--394, 06 2020.
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC7481768/}, \href
   {https://doi.org/10.1002/elsc.202000017} {\path{doi:10.1002/elsc.202000017}}.
+
+\bibitem{WELCHMAN2026100397}
+Andrew~E. Welchman and Zoe Kourtzi.
+\newblock Solving the 'goldilocks problem' in dementia clinical trials with
+  multimodal ai.
+\newblock {\em The Journal of Prevention of Alzheimer's Disease}, 13(1):100397,
+  2026.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S2274580725003395},
+  \href {https://doi.org/10.1016/j.tjpad.2025.100397}
+  {\path{doi:10.1016/j.tjpad.2025.100397}}.
 
 \bibitem{You_Rosenfield_Knipple_Ethanol_Tolerance_2003}
 Kyung~Man You, Claire-Lise Rosenfield, and Douglas~C. Knipple.

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  27 JAN 2026 14:25
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  28 JAN 2026 14:59
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1243,21 +1243,21 @@ Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 291.
 
 \openout3 = elephantNotes.bib
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 340--341
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 344--345
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 396
+LaTeX Font Info:    Trying to load font information for U+msa on input line 402
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 396
+LaTeX Font Info:    Trying to load font information for U+msb on input line 402
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1267,33 +1267,43 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 \openout7 = elephant.toc
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 406--411
+Overfull \hbox (10.0pt too wide) in paragraph at lines 412--417
 []$[]$ 
  []
 
-[2] [3] [4]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 620--621
+[2] [3]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 444--445
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 620--621
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
 
  []
 
-(./elephant.bbl [5]
-Underfull \hbox (badness 3679) in paragraph at lines 132--137
+[4]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 651--652
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 651--652
+
+ []
+
+[5] (./elephant.bbl [6]
+Underfull \hbox (badness 3679) in paragraph at lines 163--168
 []\TU/lmr/m/n/9 Jule Klot-ter.  Niaci-namide (nicoti-namide) and alzheimer’s 
 dis-ease.  \TU/lmr/m/it/9 Townsend Let-ter\TU/lmr/m/n/9 , 12 2010.  URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--137
+Underfull \hbox (badness 10000) in paragraph at lines 163--168
 [][]$\TU/lmtt/m/n/9 https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleS
 cholar&v=2.1&it=r&linkaccess=abs&issn=
  []
 
-[6]) [7] Including 'mdpicomment' comment.
+[7]) [8] Including 'mdpicomment' comment.
 \openout4 = comment.cut
  Straight input of comment.cut.
 (./comment.cut) Including 'mdpicomment' comment.
@@ -1307,28 +1317,28 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 89--94
 []$[]$ 
  []
 
-Excluding 'comment' comment. [8]
+Excluding 'comment' comment. [9]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 108.
- (./elephant.bundle_checksums [9])) [10]
+ (./elephant.bundle_checksums [10])) [11]
 (./elephant.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `elephant.out' has not changed.
-(rerunfilecheck)             Checksum: 259B3BD7FA4400411750288199170817;2612.
+(rerunfilecheck)             Checksum: F7C484D704A01D06D42741CCD9F1291F;3001.
 )
 
 Here is how much of LuaTeX's memory you used:
- 34997 strings out of 475512
- 745234,1373583 words of node,token memory allocated
- 835 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 27 attribute, 79 glue_spe
-c, 27 attribute_list, 15 pdf_action nodes
-   avail lists: 1:1,2:5710,3:1211,4:308,5:17454,6:182,7:25110,8:166,9:35374,10:3
+ 35026 strings out of 475512
+ 745257,1373583 words of node,token memory allocated
+ 865 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 30 attribute, 79 glue_spe
+c, 30 attribute_list, 18 pdf_action nodes
+   avail lists: 1:1,2:5710,3:1118,4:289,5:17454,6:182,7:25482,8:167,9:35374,10:3
 2,11:2035
- 56982 multiletter control sequences out of 65536+600000
+ 57002 multiletter control sequences out of 65536+600000
  79 fonts using 5386151 bytes
  124i,12n,116p,553b,1406s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
@@ -1340,10 +1350,10 @@ regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-italic.otf></usr
 c/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on elephant.pdf (10 pages, 122560 bytes).
+Output written on elephant.pdf (11 pages, 129293 bytes).
 
-PDF statistics: 358 PDF objects out of 1000 (max. 8388607)
- 315 compressed objects within 4 object streams
- 95 named destinations out of 1000 (max. 131072)
- 136 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 399 PDF objects out of 1000 (max. 8388607)
+ 355 compressed objects within 4 object streams
+ 104 named destinations out of 1000 (max. 131072)
+ 152 words of extra memory for PDF output out of 10000 (max. 100000000)
 
