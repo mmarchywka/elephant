@@ -1,5 +1,16 @@
 \begin{thebibliography}{10}
 
+\bibitem{ALLISON2001151}
+A.C. Allison.
+\newblock The possible role of vitamin k deficiency in the pathogenesis of
+  alzheimer's disease and in augmenting brain damage associated with
+  cardiovascular disease.
+\newblock {\em Medical Hypotheses}, 57(2):151--155, 2001.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0306987701913076},
+  \href {https://doi.org/10.1054/mehy.2001.1307}
+  {\path{doi:10.1054/mehy.2001.1307}}.
+
 \bibitem{ALLISON_STEWART_Reduced_Brain_Inositol_1971}
 J.~H. ALLISON and M.~A. STEWART.
 \newblock Reduced brain inositol in lithium-treated rats.
@@ -17,6 +28,15 @@ Liviu Aron, Zhen~Kai Ngian, Chenxi Qiu, Jaejoon Choi, Marianna Liang, Derek~M.
   {https://doi.org/10.1038/s41586-025-09335-x}
   {\path{doi:10.1038/s41586-025-09335-x}}.
 
+\bibitem{Bell_Rodrigues_Antoniadou_Update_Drug_2023}
+Victoria Bell, Ana Rodrigues, Maria Antoniadou, Marios Peponis, Theodoros
+  Varzakas, and Tito Fernandes.
+\newblock An update on drug-nutrient interactions and dental decay in older
+  adults.
+\newblock {\em Nutrients}, 15, 12 2023.
+\newblock \href {https://doi.org/10.3390/nu15234900}
+  {\path{doi:10.3390/nu15234900}}.
+
 \bibitem{Dementia_CognitiveImprovementGroup_Cholinesterase_inhibitors_Alzheimer_2016}
 Jacqueline~S Birks.
 \newblock Cholinesterase inhibitors for alzheimer's disease.
@@ -30,6 +50,17 @@ John~P. Blass.
 \newblock {\em Archives of Neurology}, 45, 08 1988.
 \newblock \href {https://doi.org/10.1001/archneur.1988.00520320019008}
   {\path{doi:10.1001/archneur.1988.00520320019008}}.
+
+\bibitem{Booth_Shea_Barger_Association_vitamin_2022}
+Sarah~L. Booth, M.~Kyla Shea, Kathryn Barger, Sue~E. Leurgans, Bryan~D. James,
+  Thomas~M. Holland, Puja Agarwal, Xueyan Fu, Jifan Wang, Gregory Matuszek, and
+  Julie~A. Schneider.
+\newblock Association of vitamin k with cognitive decline and neuropathology in
+  communitydwelling older persons.
+\newblock {\em Alzheimer's \&amp; Dementia: Translational Research \&amp;
+  Clinical Interventions}, 8, 01 2022.
+\newblock \href {https://doi.org/10.1002/trc2.12255}
+  {\path{doi:10.1002/trc2.12255}}.
 
 \bibitem{10.7554/eLife.89889}
 Elissavet Chartampila, Karim~S Elayouby, Paige Leary, John~J LaFrancois, David
@@ -58,6 +89,14 @@ Akila De~Silva and Stephen~R Bloom.
   {https://doi.org/10.5009/gnl.2012.6.1.10}
   {\path{doi:10.5009/gnl.2012.6.1.10}}.
 
+\bibitem{Dryden2004}
+Gerald~W. Dryden and Stephen~A. McClave.
+\newblock {\em Gastrointestinal Senescence and Digestive Diseases of the
+  Elderly}, pages 569--581.
+\newblock Humana Press, Totowa, NJ, 2004.
+\newblock \href {https://doi.org/10.1007/978-1-59259-391-0_25}
+  {\path{doi:10.1007/978-1-59259-391-0_25}}.
+
 \bibitem{Edison_Femminella_Ritchie_Liraglutide_mild_2025}
 Paul Edison, Grazia~Daniela Femminella, Craig Ritchie, Joseph Nowell, Clive
   Holmes, Zuzana Walker, Basil Ridha, Sanara Raza, Nicholas~R. Livingston,
@@ -76,6 +115,14 @@ Paul Edison, Grazia~Daniela Femminella, Craig Ritchie, Joseph Nowell, Clive
 \newblock URL: \url{https://www.nature.com/articles/s41591-025-04106-7}, \href
   {https://doi.org/10.1038/s41591-025-04106-7}
   {\path{doi:10.1038/s41591-025-04106-7}}.
+
+\bibitem{Emekli-Alturfan2023}
+Ebru Emekli-Alturfan and A.~Ata Alturfan.
+\newblock The emerging relationship between vitamin k and neurodegenerative
+  diseases: a review of current evidence.
+\newblock {\em Molecular Biology Reports}, 50(1):815--828, Jan 2023.
+\newblock \href {https://doi.org/10.1007/s11033-022-07925-w}
+  {\path{doi:10.1007/s11033-022-07925-w}}.
 
 \bibitem{Fessel_Supplemental_thiamine_2021}
 Jeffrey Fessel.
@@ -124,6 +171,15 @@ Cory~C. Funk, Tom Paterson, Alex Bangs, David~M. Cannon, George Savage, Eric
   \href {https://doi.org/10.1016/j.tjpad.2025.100402}
   {\path{doi:10.1016/j.tjpad.2025.100402}}.
 
+\bibitem{Grimaldi_Cavallaro_Angelis_Vitamin_Properties_2025}
+Lorenzo Grimaldi, Rosaria~A. Cavallaro, Domenico~De Angelis, Andrea Fuso, and
+  Giulia Sancesario.
+\newblock Vitamin k properties in stroke and alzheimer's disease: A janus
+  bifrons in protection and prevention.
+\newblock {\em Molecules}, 30, 03 2025.
+\newblock \href {https://doi.org/10.3390/molecules30051027}
+  {\path{doi:10.3390/molecules30051027}}.
+
 \bibitem{Harwood_Lithium_bipolar_mood_2005}
 A~J Harwood.
 \newblock Lithium and bipolar mood disorder: the inositol-depletion hypothesis
@@ -143,6 +199,28 @@ Zaw~Myo Hein, Barani Karikalan, Prarthana~Kalerammana Gopalakrishna, Krina
 \newblock \href {https://doi.org/10.1007/s12035-025-05602-0}
   {\path{doi:10.1007/s12035-025-05602-0}}.
 
+\bibitem{Holt_Intestinal_Malabsorption_2007}
+Peter~R. Holt.
+\newblock Intestinal malabsorption in the elderly.
+\newblock {\em Digestive Diseases}, 25, 04 2007.
+\newblock \href {https://doi.org/10.1159/000099479}
+  {\path{doi:10.1159/000099479}}.
+
+\bibitem{Hurwitz_Gastric_Acidity_Older_1997}
+Aryeh Hurwitz.
+\newblock Gastric acidity in older adults.
+\newblock {\em JAMA: The Journal of the American Medical Association}, 278, 08
+  1997.
+\newblock \href {https://doi.org/10.1001/jama.1997.03550080069041}
+  {\path{doi:10.1001/jama.1997.03550080069041}}.
+
+\bibitem{PMC11676630}
+Julia Kamierczak-Baraska and Bolesaw~T Karwowski.
+\newblock The protective role of vitamin k in aging and age-related diseases.
+\newblock {\em Nutrients}, 12 2024.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC11676630/}, \href
+  {https://doi.org/10.3390/nu16244341} {\path{doi:10.3390/nu16244341}}.
+
 \bibitem{Kang_Mullen_Miranda_Utilization_tyrosine_2012}
 Sohye Kang, Johanna Mullen, Les~P. Miranda, and Rohini Deshpande.
 \newblock Utilization of tyrosine and histidinecontaining dipeptides to enhance
@@ -159,12 +237,31 @@ Chrysoula-Evangelia Karachaliou and Evangelia Livaniou.
 \newblock \href {https://doi.org/10.3390/ijms25126578}
   {\path{doi:10.3390/ijms25126578}}.
 
+\bibitem{Kaye_Thomassen_Mashaw_Vitamin_upalpha_Tocopherol_2025}
+Alan~D Kaye, Austin~S Thomassen, Sydney~A Mashaw, Ellie~M MacDonald, Aubert
+  Waguespack, Lily Hickey, Anushka Singh, Deniz Gungor, Anusha Kallurkar,
+  Adam~M Kaye, Sahar Shekoohi, and Giustino Varrassi.
+\newblock Vitamin e (upalpha-tocopherol): Emerging clinical role and adverse
+  risks of supplementation in adults.
+\newblock {\em Cureus}, 02 2025.
+\newblock \href {https://doi.org/10.7759/cureus.78679}
+  {\path{doi:10.7759/cureus.78679}}.
+
 \bibitem{Klotter_Niacinamide_nicotinamide_Alzheimer_2010}
 Jule Klotter.
 \newblock Niacinamide (nicotinamide) and alzheimer's disease.
 \newblock {\em Townsend Letter}, 12 2010.
 \newblock URL:
   \url{https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=19405464&p=HRCA&sw=w&userGroupName=anon%7E7071297&aty=open-web-entry}.
+
+\bibitem{KOHLMEIER19961192S}
+Martin Kohlmeier, Andreas Salomon, J\"{o}rg Saupe, and Martin~J. Shearer.
+\newblock Transport of vitamin k to bone in humans.
+\newblock {\em The Journal of Nutrition}, 126:1192S--1196S, 1996.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0022316622017527},
+  \href {https://doi.org/10.1093/jn/126.suppl_4.1192S}
+  {\path{doi:10.1093/jn/126.suppl_4.1192S}}.
 
 \bibitem{PMC12811047}
 Satoshi Kurisu and Hitoshi Fujiwara.
@@ -204,6 +301,17 @@ Mike~J Marchywka.
   \href {https://doi.org/10.5281/zenodo.10038912}
   {\path{doi:10.5281/zenodo.10038912}}.
 
+\bibitem{marchywka-MJM-2024-010-0.01rg}
+Mike~J Marchywka.
+\newblock Copper supplementation in dogs: Listen to her heart everybody's got a
+  hungry heart.
+\newblock techreport MJM-2024-010, not institutionalized, independent, 157
+  Zachary Drive Talking Rock GA 30175 GA, 7 2025.
+\newblock URL:
+  \url{https://www.researchgate.net/publication/393240388_Copper_Supplementation_in_Dogs},
+  \href {https://doi.org/10.5281/zenodo.15785347}
+  {\path{doi:10.5281/zenodo.15785347}}.
+
 \bibitem{Matsunaga_Kishi_Annas_Lithium_Treatment_2015}
 Shinji Matsunaga, Taro Kishi, Peter Annas, Hans Basun, Harald Hampel, and Nakao
   Iwata.
@@ -242,6 +350,15 @@ Francesco Panza, Vittorio Dibello, Rodolfo Sardone, Roberta Zupo, Fabio
 \newblock \href {https://doi.org/10.1080/14712598.2025.2463963}
   {\path{doi:10.1080/14712598.2025.2463963}}.
 
+\bibitem{Qiu2025}
+Lili Qiu, Qianqian Huang, Wenhao Li, Qian Zhang, Jun Zhou, Juan Chen, Yixuan
+  Li, Ran Wang, Pengjie Wang, Siyuan Liu, Bing Fang, and Xiaoyu Wang.
+\newblock Aging influences protein digestion, absorption and amino acid
+  metabolism.
+\newblock {\em Biogerontology}, 26(4):146, Jul 2025.
+\newblock \href {https://doi.org/10.1007/s10522-025-10289-w}
+  {\path{doi:10.1007/s10522-025-10289-w}}.
+
 \bibitem{quUx1ed1badcharvv7889cLuong_Hoang_Role_Thiamine_2011}
 Khanh~vinh quUx1ed1[bad char~vv=7889]c Lu'o'ng and Lan~Thi Ho\`{a}ng
   NguyUx1ec5[bad~char vv=7877]n.
@@ -250,6 +367,16 @@ Khanh~vinh quUx1ed1[bad char~vv=7889]c Lu'o'ng and Lan~Thi Ho\`{a}ng
   Dementias\textrm{\small\textregistered}}, 26, 12 2011.
 \newblock \href {https://doi.org/10.1177/1533317511432736}
   {\path{doi:10.1177/1533317511432736}}.
+
+\bibitem{RUSSELL19921203S}
+RM~Russell.
+\newblock Changes in gastrointestinal function attributed to aging.
+\newblock {\em The American Journal of Clinical Nutrition}, 55(6):1203S--1207S,
+  1992.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0002916523317222},
+  \href {https://doi.org/10.1093/ajcn/55.6.1203S}
+  {\path{doi:10.1093/ajcn/55.6.1203S}}.
 
 \bibitem{Sang_Philbert_Hartland_Coenzyme_Dependent_Tricarboxylic_2022}
 Crystal Sang, Sasha~A. Philbert, Danielle Hartland, Richard.~D Unwin, Andrew~W.
@@ -321,6 +448,25 @@ Andrew~E. Welchman and Zoe Kourtzi.
   \url{https://www.sciencedirect.com/science/article/pii/S2274580725003395},
   \href {https://doi.org/10.1016/j.tjpad.2025.100397}
   {\path{doi:10.1016/j.tjpad.2025.100397}}.
+
+\bibitem{Yan_Zhou_Nigdikar_Effect_apolipoprotein_2005}
+Liya Yan, Bo. Zhou, Shailja Nigdikar, Xiaohong Wang, Janet Bennett, and Ann
+  Prentice.
+\newblock Effect of apolipoprotein e genotype on vitamin k status in healthy
+  older adults from china and the uk.
+\newblock {\em British Journal of Nutrition}, 94, 12 2005.
+\newblock \href {https://doi.org/10.1079/bjn20051578}
+  {\path{doi:10.1079/bjn20051578}}.
+
+\bibitem{YE2023102111}
+Lian Ye, Rui Liang, Xiaolei Liu, Jun Li, Jirong Yue, and Xinjun Zhang.
+\newblock Frailty and sarcopenia: A bibliometric analysis of their association
+  and potential targets for intervention.
+\newblock {\em Ageing Research Reviews}, 92:102111, 2023.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S1568163723002702},
+  \href {https://doi.org/10.1016/j.arr.2023.102111}
+  {\path{doi:10.1016/j.arr.2023.102111}}.
 
 \bibitem{You_Rosenfield_Knipple_Ethanol_Tolerance_2003}
 Kyung~Man You, Claire-Lise Rosenfield, and Douglas~C. Knipple.
