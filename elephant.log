@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  29 JAN 2026 20:17
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  30 JAN 2026 13:28
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1291,7 +1291,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 694--695
 
  []
 
-[5] (./elephant.bbl [6] [7]
+[5] (./nutrient_table.tex) [6] (./elephant.bbl [7]
 Underfull \hbox (badness 3679) in paragraph at lines 251--256
 []\TU/lmr/m/n/9 Jule Klot-ter.  Niaci-namide (nicoti-namide) and alzheimer’s 
 dis-ease.  \TU/lmr/m/it/9 Townsend Let-ter\TU/lmr/m/n/9 , 12 2010.  URL:
@@ -1327,19 +1327,19 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `elephant.out' has not changed.
-(rerunfilecheck)             Checksum: 5AE02FBB6745F3751A4B9EAFFDB58050;3254.
+(rerunfilecheck)             Checksum: 7DBA892ADB72CA35322716D379C890FE;3399.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35092 strings out of 475512
+ 35107 strings out of 475512
  745257,1373583 words of node,token memory allocated
- 935 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 37 attribute, 79 glue_spe
+ 940 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 37 attribute, 80 glue_spe
 c, 37 attribute_list, 25 pdf_action nodes
-   avail lists: 1:2,2:5694,3:1176,4:322,5:17400,6:182,7:25480,8:168,9:35266,10:3
-2,11:2029
- 57050 multiletter control sequences out of 65536+600000
- 79 fonts using 5386151 bytes
+   avail lists: 1:2,2:5686,3:1315,4:350,5:17373,6:182,7:25481,8:167,9:35212,10:3
+2,11:2026
+ 57058 multiletter control sequences out of 65536+600000
+ 79 fonts using 5386087 bytes
  124i,12n,116p,553b,1406s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/
@@ -1350,10 +1350,10 @@ regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-italic.otf></usr
 c/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on elephant.pdf (12 pages, 141382 bytes).
+Output written on elephant.pdf (12 pages, 144343 bytes).
 
-PDF statistics: 471 PDF objects out of 1000 (max. 8388607)
- 425 compressed objects within 5 object streams
- 122 named destinations out of 1000 (max. 131072)
- 160 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 477 PDF objects out of 1000 (max. 8388607)
+ 431 compressed objects within 5 object streams
+ 124 named destinations out of 1000 (max. 131072)
+ 168 words of extra memory for PDF output out of 10000 (max. 100000000)
 

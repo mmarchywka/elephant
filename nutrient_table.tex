@@ -1,0 +1,25 @@
+% https://tex.stackexchange.com/questions/231551/using-ifdefined-on-csname-macros
+ \ifdefined\mjmstandalone%
+%
+\else%
+\newcommand{\mjmstandalone}[1]{%
+  \ifdefined\MJMTEXFRAG%
+% \ifcsname\MJMTEXFRAG\endcsname%
+   #1%
+  \fi%
+}
+  \fi%
+
+
+\begin{table}[H] \centering
+\begin{tabular}{|r|r|c|r|}
+\hline
+\multicolumn{4}{c}{Title}\\
+\hline
+Ingredient & Amount & InCompatible &  Remarks \\
+\hline
+\hline
+\end{tabular}
+\caption{}
+%\label{}
+\end{table}
