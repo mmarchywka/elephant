@@ -14,45 +14,45 @@ Database file #4: releases.bib
 Warning--can't use both author and editor fields in Dryden2004
 Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
 Warning--can't use both author and editor fields in Varma2023
-You've used 55 entries,
+You've used 61 entries,
             2943 wiz_defined-function locations,
-            1141 strings with 29576 characters,
-and the built_in function-call counts, 32640 in all, are:
-= -- 3332
-> -- 1994
+            1191 strings with 31779 characters,
+and the built_in function-call counts, 35737 in all, are:
+= -- 3648
+> -- 2179
 < -- 10
-+ -- 769
-- -- 694
-* -- 2464
-:= -- 4976
-add.period$ -- 220
-call.type$ -- 55
-change.case$ -- 510
++ -- 839
+- -- 756
+* -- 2693
+:= -- 5453
+add.period$ -- 244
+call.type$ -- 61
+change.case$ -- 559
 chr.to.int$ -- 0
-cite$ -- 58
-duplicate$ -- 698
-empty$ -- 2255
-format.name$ -- 694
-if$ -- 7813
+cite$ -- 64
+duplicate$ -- 760
+empty$ -- 2472
+format.name$ -- 756
+if$ -- 8560
 int.to.chr$ -- 0
-int.to.str$ -- 55
-missing$ -- 55
-newline$ -- 333
-num.names$ -- 110
-pop$ -- 701
+int.to.str$ -- 61
+missing$ -- 61
+newline$ -- 369
+num.names$ -- 122
+pop$ -- 762
 preamble$ -- 1
-purify$ -- 457
+purify$ -- 500
 quote$ -- 0
-skip$ -- 1962
+skip$ -- 2166
 stack$ -- 0
-substring$ -- 888
-swap$ -- 245
-text.length$ -- 134
+substring$ -- 953
+swap$ -- 263
+text.length$ -- 146
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 216
+type$ -- 240
 warning$ -- 3
-while$ -- 142
-width$ -- 57
-write$ -- 739
+while$ -- 156
+width$ -- 63
+write$ -- 817
 (There were 3 warnings)
