@@ -18,6 +18,18 @@ J.~H. ALLISON and M.~A. STEWART.
 \newblock URL: \url{https://www.nature.com/articles/newbio233267a0}, \href
   {https://doi.org/10.1038/newbio233267a0} {\path{doi:10.1038/newbio233267a0}}.
 
+\bibitem{AndradeGuerrero_SantiagoBalmaseda_JeronimoAguilar_Alzheimer_Disease_2023}
+Jes\'{u}s Andrade-Guerrero, Alberto Santiago-Balmaseda, Paola Jeronimo-Aguilar,
+  Isaac Vargas-Rodr\'{i}guez, Ana~Ruth Cadena-Su\'{a}rez, Carlos
+  S\'{a}nchez-Garibay, Glustein Pozo-Molina, Claudia~Fabiola
+  M\'{e}ndez-Catal\'{a}, Maria-del-Carmen Cardenas-Aguayo, Sof\'{i}a
+  Diaz-Cintra, Mar Pacheco-Herrero, Jos\'{e} Luna-Mu\~{n}oz, and Luis~O.
+  Soto-Rojas.
+\newblock Alzheimer's disease: An updated overview of its genetics.
+\newblock {\em International Journal of Molecular Sciences}, 24, 02 2023.
+\newblock \href {https://doi.org/10.3390/ijms24043754}
+  {\path{doi:10.3390/ijms24043754}}.
+
 \bibitem{Aron_Ngian_Qiu_Lithium_deficiency_2025}
 Liviu Aron, Zhen~Kai Ngian, Chenxi Qiu, Jaejoon Choi, Marianna Liang, Derek~M.
   Drake, Sara~E. Hamplova, Ella~K. Lacey, Perle Roche, Monlan Yuan, Saba~S.
@@ -271,6 +283,20 @@ Satoshi Kurisu and Hitoshi Fujiwara.
 \newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/41552235/}, \href
   {https://doi.org/10.7759/cureus.99487} {\path{doi:10.7759/cureus.99487}}.
 
+\bibitem{doi:10.1161/JAHA.115.003154}
+Bowen Lin, Yu~Hasegawa, Koki Takane, Nobutaka Koibuchi, Cheng Cao, and Shokei
+  KimMitsuyama.
+\newblock High\&\#x2010;fat\&\#x2010;diet intake enhances cerebral amyloid
+  angiopathy and cognitive impairment in a mouse model of alzheimer's disease,
+  independently of metabolic disorders.
+\newblock {\em Journal of the American Heart Association}, 5(6):e003154, 2016.
+\newblock URL:
+  \url{https://www.ahajournals.org/doi/abs/10.1161/JAHA.115.003154}, \href
+  {https://arxiv.org/abs/https://www.ahajournals.org/doi/pdf/10.1161/JAHA.115.003154}
+  {\path{arXiv:https://www.ahajournals.org/doi/pdf/10.1161/JAHA.115.003154}},
+  \href {https://doi.org/10.1161/JAHA.115.003154}
+  {\path{doi:10.1161/JAHA.115.003154}}.
+
 \bibitem{Liu_Ames_Reducing_mitochondrial_decay_with_}
 Jiankang Liu and Bruce~N. Ames.
 \newblock Reducing mitochondrial decay with mitochondrial nutrients to delay
@@ -338,6 +364,20 @@ Amritpal Mudher and Simon Lovestone.
 \newblock \href {https://doi.org/10.1016/s0166-2236(00)02031-2}
   {\path{doi:10.1016/s0166-2236(00)02031-2}}.
 
+\bibitem{PMC8346252}
+Adrian~L Oblak, Peter~B Lin, Kevin~P Kotredes, Ravi~S Pandey, Dylan Garceau,
+  Harriet~M Williams, Asli Uyar, Rita O'Rourke, Sarah O'Rourke, Cynthia
+  Ingraham, Daria Bednarczyk, Melisa Belanger, Zackary~A Cope, Gabriela~J
+  Little, Sean-Paul~G Williams, Carl Ash, Adam Bleckert, Tim Ragan, Benjamin~A
+  Logsdon, Lara~M Mangravite, Stacey~J Sukoff~Rizzo, Paul~R Territo, Gregory~W
+  Carter, Gareth~R Howell, Michael Sasner, and Bruce~T Lamb.
+\newblock Comprehensive evaluation of the 5xfad mouse model for preclinical
+  testing applications: A model-ad study.
+\newblock {\em Frontiers in aging neuroscience}, page 713726, 07 2021.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC8346252/}, \href
+  {https://doi.org/10.3389/fnagi.2021.713726}
+  {\path{doi:10.3389/fnagi.2021.713726}}.
+
 \bibitem{Panza_Dibello_Sardone_Successes_failures_2025}
 Francesco Panza, Vittorio Dibello, Rodolfo Sardone, Roberta Zupo, Fabio
   Castellana, Ivana Leccisotti, Maria~Claudia Moretti, Mario Altamura,
@@ -395,6 +435,15 @@ Melissa Scholefield, Stephanie~J. Church, Jingshu Xu, Stefano Patassini, and
 \newblock {\em Journal of Parkinson's Disease}, 14, 07 2024.
 \newblock \href {https://doi.org/10.3233/jpd-240075}
   {\path{doi:10.3233/jpd-240075}}.
+
+\bibitem{PMC5580905}
+Leon~M Tai, Deebika Balu, Evangelina Avila-Munoz, Laila Abdullah, Riya Thomas,
+  Nicole Collins, Ana~Carolina Valencia-Olvera, and Mary~Jo LaDu.
+\newblock Efad transgenic mice as a human apoe relevant preclinical model of
+  alzheimer's disease.
+\newblock {\em Journal of lipid research}, pages 1733--1755, 04 2017.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC5580905/}, \href
+  {https://doi.org/10.1194/jlr.R076315} {\path{doi:10.1194/jlr.R076315}}.
 
 \bibitem{Teich_Tobunluepop_Troncoso_Novel_differentially_expressed_genes_2025}
 Andrew~F. Teich, Katarnut Tobunluepop, Juan~C. Troncoso, ShihHsiu Wang, Zihan
