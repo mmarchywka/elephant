@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  1 FEB 2026 18:52
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  2 FEB 2026 13:01
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1145,41 +1145,41 @@ Excluding 'comment' comment.
 Excluding comment 'draftcomment' Excluding comment 'badmathcomment'
 Excluding comment 'showworkcomment'
 Class revtex4-2 Info: Unrecognized array package. Please update this document c
-lass! (Proceeding with fingers crossed.) on input line 291.
+lass! (Proceeding with fingers crossed.) on input line 292.
 
 
 Class revtex4-2 Warning: Failed to patch the float package.
 
 Class revtex4-2 Info: Patching unrecognized longtable package. (Proceeding with
- fingers crossed) on input line 291.
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 291.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 291.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 291.
+ fingers crossed) on input line 292.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 292.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 292.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 292.
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 291.
+h' as default language. on input line 292.
 (./elephant.aux)
 \openout1 = elephant.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl
@@ -1187,7 +1187,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 291.
+or `english'. on input line 292.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1219,14 +1219,14 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 291.
+Package hyperref Info: Link coloring ON on input line 292.
 
 (./elephant.out) (./elephant.out)
 \@outlinefile=\write6
 
 \openout6 = elephant.out
 
-Package chemgreek Info: Activating mapping `default' on line 291.
+Package chemgreek Info: Activating mapping `default' on line 292.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -1239,25 +1239,25 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \c@FBLTpage=\count397
 )
 \c@lstlisting=\count398
-Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 291.
+Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 292.
 
 \openout3 = elephantNotes.bib
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 344--345
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 345--346
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 402
+LaTeX Font Info:    Trying to load font information for U+msa on input line 403
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 402
+LaTeX Font Info:    Trying to load font information for U+msb on input line 403
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1267,65 +1267,65 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 \openout7 = elephant.toc
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 412--417
+Overfull \hbox (10.0pt too wide) in paragraph at lines 413--418
 []$[]$ 
  []
 
 [2] [3]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 444--445
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 445--446
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 471--472
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 472--473
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--472
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
 
  []
 
 [4]
-Overfull \hbox (357.37201pt too wide) in paragraph at lines 630--645
+Overfull \hbox (357.37201pt too wide) in paragraph at lines 653--668
 \TU/lmr/m/n/10 ac-tive. In-deed, spec-u-la-tion on ben-e-fi-cial ty-ro-sine anal
 ogs can not be dis-missed.  []
  []
 
 [5]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 797--798
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 820--821
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 797--798
+Underfull \hbox (badness 10000) in paragraph at lines 820--821
 
  []
 
 [6] (./nutrient_table.tex) [7] (./elephant.bbl [8]
-Underfull \hbox (badness 3679) in paragraph at lines 296--301
+Underfull \hbox (badness 3679) in paragraph at lines 323--328
 []\TU/lmr/m/n/9 Jule Klot-ter.  Niaci-namide (nicoti-namide) and alzheimer’s 
 dis-ease.  \TU/lmr/m/it/9 Townsend Let-ter\TU/lmr/m/n/9 , 12 2010.  URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--301
+Underfull \hbox (badness 10000) in paragraph at lines 323--328
 [][]$\TU/lmtt/m/n/9 https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleS
 cholar&v=2.1&it=r&linkaccess=abs&issn=
  []
 
-
-Underfull \hbox (badness 5817) in paragraph at lines 320--332
+[9]
+Underfull \hbox (badness 5817) in paragraph at lines 347--359
 []\TU/lmr/m/n/9 Bowen Lin, Yu Hasegawa, Koki Takane, Nobu-taka Koibuchi, Cheng 
 Cao, and Shokei Kim-Mit-suyama.
  []
 
-[9] [10]) [11] Including 'mdpicomment' comment.
+[10]) [11] Including 'mdpicomment' comment.
 \openout4 = comment.cut
  Straight input of comment.cut.
 (./comment.cut) Including 'mdpicomment' comment.
@@ -1353,14 +1353,14 @@ Package rerunfilecheck Info: File `elephant.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35153 strings out of 475512
- 745257,1373583 words of node,token memory allocated
- 970 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 40 attribute, 80 glue_spe
-c, 40 attribute_list, 28 pdf_action nodes
-   avail lists: 1:2,2:5606,3:1354,4:348,5:17013,6:182,7:25495,8:167,9:34492,10:3
+ 35187 strings out of 475512
+ 745249,1373583 words of node,token memory allocated
+ 980 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 41 attribute, 80 glue_spe
+c, 41 attribute_list, 29 pdf_action nodes
+   avail lists: 1:1,2:5376,3:1215,4:318,5:16216,6:181,7:25495,8:166,9:32852,10:3
 2,11:1993
- 57091 multiletter control sequences out of 65536+600000
+ 57117 multiletter control sequences out of 65536+600000
  79 fonts using 5386087 bytes
  124i,12n,116p,553b,1406s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
@@ -1372,10 +1372,10 @@ regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-italic.otf></usr
 c/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on elephant.pdf (14 pages, 156511 bytes).
+Output written on elephant.pdf (14 pages, 162961 bytes).
 
-PDF statistics: 526 PDF objects out of 1000 (max. 8388607)
- 478 compressed objects within 5 object streams
- 137 named destinations out of 1000 (max. 131072)
+PDF statistics: 553 PDF objects out of 1000 (max. 8388607)
+ 504 compressed objects within 6 object streams
+ 145 named destinations out of 1000 (max. 131072)
  168 words of extra memory for PDF output out of 10000 (max. 100000000)
 
