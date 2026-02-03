@@ -1,5 +1,14 @@
 \begin{thebibliography}{10}
 
+\bibitem{Aichbichler_Zerr_SantaAna_Proton_Pump_Inhibition_1997}
+Berendt~W. Aichbichler, Charles~H. Zerr, Carol~A. Santa~Ana, Jack~L. Porter,
+  and John~S. Fordtran.
+\newblock Proton-pump inhibition of gastric chloride secretion in congenital
+  chloridorrhea.
+\newblock {\em New England Journal of Medicine}, 336, 01 1997.
+\newblock \href {https://doi.org/10.1056/nejm199701093360205}
+  {\path{doi:10.1056/nejm199701093360205}}.
+
 \bibitem{ALLISON2001151}
 A.C. Allison.
 \newblock The possible role of vitamin k deficiency in the pathogenesis of
@@ -127,6 +136,15 @@ Janelle~L. Cooper.
 \newblock {\em Alzheimer's \&amp; Dementia}, 4, 07 2008.
 \newblock \href {https://doi.org/10.1016/j.jalz.2008.05.1970}
   {\path{doi:10.1016/j.jalz.2008.05.1970}}.
+
+\bibitem{Coskun_Baumgartner_Chu_Coordinated_regulation_gastric_2002}
+Tamer Coskun, Heidi~K. Baumgartner, Shaoyou Chu, and Marshall~H. Montrose.
+\newblock Coordinated regulation of gastric chloride secretion with both acid
+  and alkali secretion.
+\newblock {\em American Journal of Physiology-Gastrointestinal and Liver
+  Physiology}, 283, 11 2002.
+\newblock \href {https://doi.org/10.1152/ajpgi.00184.2002}
+  {\path{doi:10.1152/ajpgi.00184.2002}}.
 
 \bibitem{PMID8956372}
 B~Cryer and M~Feldman.
@@ -550,6 +568,14 @@ Khanh~vinh quUx1ed1[bad char~vv=7889]c Lu'o'ng and Lan~Thi Ho\`{a}ng
   Dementias\textrm{\small\textregistered}}, 26, 12 2011.
 \newblock \href {https://doi.org/10.1177/1533317511432736}
   {\path{doi:10.1177/1533317511432736}}.
+
+\bibitem{Raut_Singh_Sanghvi_Chloride_ions_health_2024}
+Satish~K. Raut, Kulwinder Singh, Shridhar Sanghvi, Veronica Loyo-Celis, Liyah
+  Varghese, Ekam~R. Singh, Shubha~Gururaja Rao, and Harpreet Singh.
+\newblock Chloride ions in health and disease.
+\newblock {\em Bioscience Reports}, 44, 05 2024.
+\newblock \href {https://doi.org/10.1042/bsr20240029}
+  {\path{doi:10.1042/bsr20240029}}.
 
 \bibitem{RUSSELL19921203S}
 RM~Russell.
