@@ -227,6 +227,17 @@ Cory~C. Funk, Tom Paterson, Alex Bangs, David~M. Cannon, George Savage, Eric
   \href {https://doi.org/10.1016/j.tjpad.2025.100402}
   {\path{doi:10.1016/j.tjpad.2025.100402}}.
 
+\bibitem{GOLDSCHMIEDT1991977}
+Markus Goldschmiedt, Cora~C. Barnett, Barry~E. Schwarz, William~E. Karnes,
+  Jan~S. Redfern, and Mark Feldman.
+\newblock Effect of age on gastric acid secretion and serum gastrin
+  concentrations in healthy men and women.
+\newblock {\em Gastroenterology}, 101(4):977--990, 1991.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/001650859190724Y},
+  \href {https://doi.org/10.1016/0016-5085(91)90724-Y}
+  {\path{doi:10.1016/0016-5085(91)90724-Y}}.
+
 \bibitem{Grimaldi_Cavallaro_Angelis_Vitamin_Properties_2025}
 Lorenzo Grimaldi, Rosaria~A. Cavallaro, Domenico~De Angelis, Andrea Fuso, and
   Giulia Sancesario.
@@ -319,6 +330,14 @@ Alan~D Kaye, Austin~S Thomassen, Sydney~A Mashaw, Ellie~M MacDonald, Aubert
 \newblock \href {https://doi.org/10.7759/cureus.78679}
   {\path{doi:10.7759/cureus.78679}}.
 
+\bibitem{Kekki_Samloff_Ihamaki_Related_}
+M.~Kekki, I.~M. Samloff, T.~Iham\"{a}ki, K.~Varis, and M.~Siurala.
+\newblock Age- and sex-related behaviour of gastric acid secretion at the
+  population level.
+\newblock {\em Scandinavian Journal of Gastroenterology}, 17.
+\newblock \href {https://doi.org/10.3109/00365528209181087}
+  {\path{doi:10.3109/00365528209181087}}.
+
 \bibitem{Klotter_Niacinamide_nicotinamide_Alzheimer_2010}
 Jule Klotter.
 \newblock Niacinamide (nicotinamide) and alzheimer's disease.
@@ -342,6 +361,17 @@ Satoshi Kurisu and Hitoshi Fujiwara.
 \newblock {\em Cureus}, page e99487, 12 2025.
 \newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/41552235/}, \href
   {https://doi.org/10.7759/cureus.99487} {\path{doi:10.7759/cureus.99487}}.
+
+\bibitem{LAJTERER2022107850}
+Carolina Lajterer, Carmit {Shani Levi}, and Uri Lesmes.
+\newblock An in vitro digestion model accounting for sex differences in
+  gastro-intestinal functions and its application to study differential protein
+  digestibility.
+\newblock {\em Food Hydrocolloids}, 132:107850, 2022.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0268005X22003708},
+  \href {https://doi.org/10.1016/j.foodhyd.2022.107850}
+  {\path{doi:10.1016/j.foodhyd.2022.107850}}.
 
 \bibitem{doi:10.1161/JAHA.115.003154}
 Bowen Lin, Yu~Hasegawa, Koki Takane, Nobutaka Koibuchi, Cheng Cao, and Shokei
@@ -439,6 +469,18 @@ Seyyed~Sam Mehdi~Hosseininasab, Rasoul Ebrahimi, Shirin Yaghoobpoor, Kiarash
 \newblock \href {https://doi.org/10.3389/fnins.2024.1513095}
   {\path{doi:10.3389/fnins.2024.1513095}}.
 
+\bibitem{PMC10527011}
+Raaj~S Mehta, Bharati Kochar, Zhen Zhou, Jonathan~C Broder, Paget Chung, Keming
+  Yang, Jessica Lockery, Michelle Fravel, Joanne Ryan, Suzanne Mahady,
+  Suzanne~G Orchard, John~J McNeil, Anne Murray, Robyn~L Woods, Michael~E
+  Ernst, and Andrew~T Chan.
+\newblock Association of proton pump inhibitor use with incident dementia and
+  cognitive decline in older adults: A prospective cohort study.
+\newblock {\em Gastroenterology}, pages 564--572.e1, 06 2023.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/37315867/}, \href
+  {https://doi.org/10.1053/j.gastro.2023.05.052}
+  {\path{doi:10.1053/j.gastro.2023.05.052}}.
+
 \bibitem{PMC3336020}
 Sabrina Mitchell, Teresa Welch-Burke, Logan Dumitrescu, Jefferson~P Lomenick,
   Deborah~G Murdock, Dana~C Crawford, and Marshall Summar.
@@ -481,6 +523,15 @@ Francesco Panza, Vittorio Dibello, Rodolfo Sardone, Roberta Zupo, Fabio
 \newblock {\em Expert Opinion on Biological Therapy}, 25, 03 2025.
 \newblock \href {https://doi.org/10.1080/14712598.2025.2463963}
   {\path{doi:10.1080/14712598.2025.2463963}}.
+
+\bibitem{Pourhadi_Janbek_JensenDahm_Proton_pump_inhibitors_2024}
+Nelsan Pourhadi, Janet Janbek, Christina JensenDahm, Christiane Gasse,
+  Thomas~Munk Laursen, and Gunhild Waldemar.
+\newblock Proton pump inhibitors and dementia: A nationwide populationbased
+  study.
+\newblock {\em Alzheimer's \&amp; Dementia}, 20, 02 2024.
+\newblock \href {https://doi.org/10.1002/alz.13477}
+  {\path{doi:10.1002/alz.13477}}.
 
 \bibitem{Qiu2025}
 Lili Qiu, Qianqian Huang, Wenhao Li, Qian Zhang, Jun Zhou, Juan Chen, Yixuan
