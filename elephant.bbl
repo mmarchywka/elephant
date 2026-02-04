@@ -245,6 +245,14 @@ Cory~C. Funk, Tom Paterson, Alex Bangs, David~M. Cannon, George Savage, Eric
   \href {https://doi.org/10.1016/j.tjpad.2025.100402}
   {\path{doi:10.1016/j.tjpad.2025.100402}}.
 
+\bibitem{Garibotto_Tessari_Verzola_metabolic_conversion_2002}
+Giacomo Garibotto, Paolo Tessari, Daniela Verzola, and Laura Dertenois.
+\newblock The metabolic conversion of phenylalanine into tyrosine in the human
+  kidney: Does it have nutritional implications in renal patients?
+\newblock {\em Journal of Renal Nutrition}, 12, 01 2002.
+\newblock \href {https://doi.org/10.1053/jren.2002.29600}
+  {\path{doi:10.1053/jren.2002.29600}}.
+
 \bibitem{GOLDSCHMIEDT1991977}
 Markus Goldschmiedt, Cora~C. Barnett, Barry~E. Schwarz, William~E. Karnes,
   Jan~S. Redfern, and Mark Feldman.
@@ -298,6 +306,19 @@ Peter~R. Holt.
 \newblock {\em Digestive Diseases}, 25, 04 2007.
 \newblock \href {https://doi.org/10.1159/000099479}
   {\path{doi:10.1159/000099479}}.
+
+\bibitem{PMC2755914}
+Ya~Hui Hung, Elysia~L Robb, Irene Volitakis, Michael Ho, Genevieve Evin,
+  Qiao-Xin Li, Janetta~G Culvenor, Colin~L Masters, Robert~A Cherny, and
+  Ashley~I Bush.
+\newblock Paradoxical condensation of copper with elevated beta-amyloid in
+  lipid rafts under cellular copper deficiency conditions: implications for
+  alzheimer disease.
+\newblock {\em The Journal of biological chemistry}, pages 21899--21907, 06
+  2009.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC2755914/}, \href
+  {https://doi.org/10.1074/jbc.M109.019521}
+  {\path{doi:10.1074/jbc.M109.019521}}.
 
 \bibitem{Hurwitz_Gastric_Acidity_Older_1997}
 Aryeh Hurwitz.
@@ -551,6 +572,14 @@ Nelsan Pourhadi, Janet Janbek, Christina JensenDahm, Christiane Gasse,
 \newblock \href {https://doi.org/10.1002/alz.13477}
   {\path{doi:10.1002/alz.13477}}.
 
+\bibitem{Prohaska_Brokate_Dietary_Copper_Deficiency_Alters_2001}
+Joseph~R. Prohaska and Bruce Brokate.
+\newblock Dietary copper deficiency alters protein levels of rat dopamine
+  upbeta-monooxygenase and tyrosine monooxygenase.
+\newblock {\em Experimental Biology and Medicine}, 226, 03 2001.
+\newblock \href {https://doi.org/10.1177/153537020122600307}
+  {\path{doi:10.1177/153537020122600307}}.
+
 \bibitem{Qiu2025}
 Lili Qiu, Qianqian Huang, Wenhao Li, Qian Zhang, Jun Zhou, Juan Chen, Yixuan
   Li, Ran Wang, Pengjie Wang, Siyuan Liu, Bing Fang, and Xiaoyu Wang.
@@ -684,6 +713,18 @@ Andrew~E. Welchman and Zoe Kourtzi.
   \url{https://www.sciencedirect.com/science/article/pii/S2274580725003395},
   \href {https://doi.org/10.1016/j.tjpad.2025.100397}
   {\path{doi:10.1016/j.tjpad.2025.100397}}.
+
+\bibitem{10.1039/c7mt00074j}
+Jingshu Xu, Stephanie~J Church, Stefano Patassini, Paul Begley, Henry~J
+  Waldvogel, Maurice~A Curtis, Richard~M Faull, Richard~D Unwin, and Garth~S
+  Cooper.
+\newblock Evidence for widespread, severe brain copper deficiency in
+  alzheimer's dementiadagger.
+\newblock {\em Metallomics}, 9(8):1106--1119, 06 2017.
+\newblock \href
+  {https://arxiv.org/abs/https://academic.oup.com/metallomics/article-pdf/9/8/1106/34732504/c7mt00074j.pdf}
+  {\path{arXiv:https://academic.oup.com/metallomics/article-pdf/9/8/1106/34732504/c7mt00074j.pdf}},
+  \href {https://doi.org/10.1039/c7mt00074j} {\path{doi:10.1039/c7mt00074j}}.
 
 \bibitem{Xu2024}
 Xinming Xu, Guliyeerke Jigeer, David~Andrew Gunn, Yizhou Liu, Xinrui Chen,

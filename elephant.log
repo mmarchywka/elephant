@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  3 FEB 2026 13:10
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  4 FEB 2026 17:52
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1298,39 +1298,39 @@ ogs can not be dis-missed.  []
  []
 
 [5]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 831--832
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 866--867
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--832
+Underfull \hbox (badness 10000) in paragraph at lines 866--867
 
  []
 
 [6] (./nutrient_table.tex) [7]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 990--1016
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1025--1051
 [][]
  []
 
-(./elephant.bbl [8] [9]
-Underfull \hbox (badness 3679) in paragraph at lines 360--365
+[8] (./elephant.bbl [9]
+Underfull \hbox (badness 3679) in paragraph at lines 381--386
 []\TU/lmr/m/n/9 Jule Klot-ter.  Niaci-namide (nicoti-namide) and alzheimer’s 
 dis-ease.  \TU/lmr/m/it/9 Townsend Let-ter\TU/lmr/m/n/9 , 12 2010.  URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--365
+Underfull \hbox (badness 10000) in paragraph at lines 381--386
 [][]$\TU/lmtt/m/n/9 https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleS
 cholar&v=2.1&it=r&linkaccess=abs&issn=
  []
 
-
-Underfull \hbox (badness 5817) in paragraph at lines 395--407
+[10]
+Underfull \hbox (badness 5817) in paragraph at lines 416--428
 []\TU/lmr/m/n/9 Bowen Lin, Yu Hasegawa, Koki Takane, Nobu-taka Koibuchi, Cheng 
 Cao, and Shokei Kim-Mit-suyama.
  []
 
-[10] [11]) [12] Including 'mdpicomment' comment.
+[11] [12]) [13] Including 'mdpicomment' comment.
 \openout4 = comment.cut
 
 Straight input of comment.cut. (./comment.cut)
@@ -1344,10 +1344,10 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 89--94
 []$[]$ 
  []
 
-Excluding 'comment' comment. [13]
+Excluding 'comment' comment. [14]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 108.
- (./elephant.bundle_checksums [14])) [15]
+ (./elephant.bundle_checksums [15])) [16]
 (./elephant.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1358,16 +1358,16 @@ Package rerunfilecheck Info: File `elephant.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35221 strings out of 475512
- 745257,1373583 words of node,token memory allocated
- 1010 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 44 attribute, 80 glue_spe
-c, 44 attribute_list, 32 pdf_action nodes
-   avail lists: 1:1,2:5399,3:1349,4:345,5:16297,6:181,7:25499,8:166,9:33014,10:3
+ 35240 strings out of 475512
+ 745251,1373583 words of node,token memory allocated
+ 1030 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 46 attribute, 80 glue_spe
+c, 46 attribute_list, 34 pdf_action nodes
+   avail lists: 1:1,2:5391,3:1295,4:321,5:16270,6:181,7:25498,8:167,9:32960,10:3
 4,11:1993
- 57141 multiletter control sequences out of 65536+600000
+ 57155 multiletter control sequences out of 65536+600000
  79 fonts using 5386087 bytes
- 124i,12n,116p,553b,1406s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,553b,1416s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-
@@ -1377,10 +1377,10 @@ regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-italic.otf></usr
 c/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on elephant.pdf (15 pages, 171699 bytes).
+Output written on elephant.pdf (16 pages, 176263 bytes).
 
-PDF statistics: 593 PDF objects out of 1000 (max. 8388607)
- 543 compressed objects within 6 object streams
- 155 named destinations out of 1000 (max. 131072)
+PDF statistics: 615 PDF objects out of 1000 (max. 8388607)
+ 564 compressed objects within 6 object streams
+ 160 named destinations out of 1000 (max. 131072)
  176 words of extra memory for PDF output out of 10000 (max. 100000000)
 
