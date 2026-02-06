@@ -15,45 +15,45 @@ Warning--can't use both author and editor fields in Dryden2004
 Warning--empty year in Kekki_Samloff_Ihamaki_Related_
 Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
 Warning--can't use both author and editor fields in Varma2023
-You've used 81 entries,
+You've used 99 entries,
             2943 wiz_defined-function locations,
-            1354 strings with 43333 characters,
-and the built_in function-call counts, 47870 in all, are:
-= -- 4874
-> -- 2949
-< -- 13
-+ -- 1133
-- -- 1024
-* -- 3635
-:= -- 7299
-add.period$ -- 324
-call.type$ -- 81
-change.case$ -- 753
+            1491 strings with 50461 characters,
+and the built_in function-call counts, 58081 in all, are:
+= -- 5937
+> -- 3520
+< -- 14
++ -- 1354
+- -- 1218
+* -- 4420
+:= -- 8829
+add.period$ -- 396
+call.type$ -- 99
+change.case$ -- 904
 chr.to.int$ -- 0
-cite$ -- 85
-duplicate$ -- 1009
-empty$ -- 3284
-format.name$ -- 1024
-if$ -- 11443
+cite$ -- 103
+duplicate$ -- 1221
+empty$ -- 4033
+format.name$ -- 1218
+if$ -- 13918
 int.to.chr$ -- 0
-int.to.str$ -- 81
-missing$ -- 81
-newline$ -- 489
-num.names$ -- 162
-pop$ -- 1015
+int.to.str$ -- 99
+missing$ -- 99
+newline$ -- 597
+num.names$ -- 198
+pop$ -- 1218
 preamble$ -- 1
-purify$ -- 674
+purify$ -- 807
 quote$ -- 0
-skip$ -- 2882
+skip$ -- 3507
 stack$ -- 0
-substring$ -- 1312
-swap$ -- 356
-text.length$ -- 191
+substring$ -- 1635
+swap$ -- 425
+text.length$ -- 234
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 320
+type$ -- 392
 warning$ -- 4
-while$ -- 208
-width$ -- 83
-write$ -- 1081
+while$ -- 255
+width$ -- 101
+write$ -- 1325
 (There were 4 warnings)

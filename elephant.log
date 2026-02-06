@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  4 FEB 2026 17:52
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  5 FEB 2026 19:54
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1292,45 +1292,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 472--473
  []
 
 [4]
-Overfull \hbox (357.37201pt too wide) in paragraph at lines 663--678
+Overfull \hbox (357.37201pt too wide) in paragraph at lines 717--732
 \TU/lmr/m/n/10 ac-tive. In-deed, spec-u-la-tion on ben-e-fi-cial ty-ro-sine anal
 ogs can not be dis-missed.  []
  []
 
-[5]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 866--867
+[5] [6]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 925--926
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 866--867
+Underfull \hbox (badness 10000) in paragraph at lines 925--926
 
  []
 
-[6] (./nutrient_table.tex) [7]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1025--1051
+[7] (./nutrient_table.tex)
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1084--1107
 [][]
  []
 
-[8] (./elephant.bbl [9]
-Underfull \hbox (badness 3679) in paragraph at lines 381--386
+[8] (./elephant.bbl [9] [10]
+Underfull \hbox (badness 3679) in paragraph at lines 443--448
 []\TU/lmr/m/n/9 Jule Klot-ter.  Niaci-namide (nicoti-namide) and alzheimer’s 
 dis-ease.  \TU/lmr/m/it/9 Townsend Let-ter\TU/lmr/m/n/9 , 12 2010.  URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--386
+Underfull \hbox (badness 10000) in paragraph at lines 443--448
 [][]$\TU/lmtt/m/n/9 https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleS
 cholar&v=2.1&it=r&linkaccess=abs&issn=
  []
 
-[10]
-Underfull \hbox (badness 5817) in paragraph at lines 416--428
+[11]
+Underfull \hbox (badness 5817) in paragraph at lines 497--509
 []\TU/lmr/m/n/9 Bowen Lin, Yu Hasegawa, Koki Takane, Nobu-taka Koibuchi, Cheng 
 Cao, and Shokei Kim-Mit-suyama.
  []
 
-[11] [12]) [13] Including 'mdpicomment' comment.
+[12] [13]) [14] Including 'mdpicomment' comment.
 \openout4 = comment.cut
 
 Straight input of comment.cut. (./comment.cut)
@@ -1344,10 +1344,10 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 89--94
 []$[]$ 
  []
 
-Excluding 'comment' comment. [14]
+Excluding 'comment' comment. [15]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 108.
- (./elephant.bundle_checksums [15])) [16]
+ (./elephant.bundle_checksums [16])) [17]
 (./elephant.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1358,16 +1358,16 @@ Package rerunfilecheck Info: File `elephant.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35240 strings out of 475512
- 745251,1373583 words of node,token memory allocated
- 1030 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 46 attribute, 80 glue_spe
-c, 46 attribute_list, 34 pdf_action nodes
-   avail lists: 1:1,2:5391,3:1295,4:321,5:16270,6:181,7:25498,8:167,9:32960,10:3
-4,11:1993
- 57155 multiletter control sequences out of 65536+600000
+ 35312 strings out of 475512
+ 745239,1373583 words of node,token memory allocated
+ 1120 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 55 attribute, 80 glue_spe
+c, 55 attribute_list, 43 pdf_action nodes
+   avail lists: 1:2,2:5383,3:1309,4:335,5:16243,6:181,7:25496,8:167,9:32906,10:3
+2,11:1993
+ 57208 multiletter control sequences out of 65536+600000
  79 fonts using 5386087 bytes
- 124i,12n,116p,553b,1416s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,553b,1454s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-
@@ -1377,10 +1377,10 @@ regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-italic.otf></usr
 c/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on elephant.pdf (16 pages, 176263 bytes).
+Output written on elephant.pdf (17 pages, 190926 bytes).
 
-PDF statistics: 615 PDF objects out of 1000 (max. 8388607)
- 564 compressed objects within 6 object streams
- 160 named destinations out of 1000 (max. 131072)
+PDF statistics: 698 PDF objects out of 1000 (max. 8388607)
+ 645 compressed objects within 7 object streams
+ 179 named destinations out of 1000 (max. 131072)
  176 words of extra memory for PDF output out of 10000 (max. 100000000)
 
