@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{Aichbichler_Zerr_SantaAna_Proton_Pump_Inhibition_1997}
 Berendt~W. Aichbichler, Charles~H. Zerr, Carol~A. Santa~Ana, Jack~L. Porter,
@@ -386,6 +386,14 @@ Alan~Wayne Jones.
   {\path{arXiv:https://academic.oup.com/jat/article-pdf/46/1/e48/42508144/bkab112.pdf}},
   \href {https://doi.org/10.1093/jat/bkab112} {\path{doi:10.1093/jat/bkab112}}.
 
+\bibitem{char_charvv261tarek_Chirumbolo_important_tryptophan_}
+Joanna Kaluzna-Czaplinska, Paulina Gatarek, , Salvatore Chirumbolo, Max~Stanley
+  Chartrand, and Geir Bjorklund.
+\newblock How important is tryptophan in human health?
+\newblock {\em Critical Reviews in Food Science and Nutrition}, 59, 2017.
+\newblock \href {https://doi.org/10.1080/10408398.2017.1357534}
+  {\path{doi:10.1080/10408398.2017.1357534}}.
+
 \bibitem{PMC11676630}
 Julia Kamierczak-Baraska and Bolesaw~T Karwowski.
 \newblock The protective role of vitamin k in aging and age-related diseases.
@@ -722,6 +730,15 @@ Satish~K. Raut, Kulwinder Singh, Shridhar Sanghvi, Veronica Loyo-Celis, Liyah
 \newblock \href {https://doi.org/10.1042/bsr20240029}
   {\path{doi:10.1042/bsr20240029}}.
 
+\bibitem{PMC6866683}
+May~J Reed, Mamatha Damodarasamy, and William~A Banks.
+\newblock The extracellular matrix of the blood-brain barrier: structural and
+  functional roles in health, aging, and alzheimer's disease.
+\newblock {\em Tissue barriers}, page 1651157, 09 2019.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC6866683/}, \href
+  {https://doi.org/10.1080/21688370.2019.1651157}
+  {\path{doi:10.1080/21688370.2019.1651157}}.
+
 \bibitem{RUIZ201618}
 Lina~M. Ruiz, Erik~L. Jensen, Yancing Rossel, German~I. Puas, Alvaro~M.
   Gonzalez-Ibanez, Rodrigo~I. Bustos, David~A. Ferrick, and Alvaro~A. Elorza.
@@ -815,6 +832,13 @@ Omme~Fatema Sultana, Raksa~Andalib Hia, and P.~Hemachandra Reddy.
 \newblock \href {https://doi.org/10.3390/antiox13020202}
   {\path{doi:10.3390/antiox13020202}}.
 
+\bibitem{Sztriha_Betz_Oleic_acid_reversibly_opens_1991}
+Laszlo Sztriha and A.~Lorris Betz.
+\newblock Oleic acid reversibly opens the blood-brain barrier.
+\newblock {\em Brain Research}, 550, 06 1991.
+\newblock \href {https://doi.org/10.1016/0006-8993(91)91326-v}
+  {\path{doi:10.1016/0006-8993(91)91326-v}}.
+
 \bibitem{PMC5580905}
 Leon~M Tai, Deebika Balu, Evangelina Avila-Munoz, Laila Abdullah, Riya Thomas,
   Nicole Collins, Ana~Carolina Valencia-Olvera, and Mary~Jo LaDu.
@@ -823,6 +847,14 @@ Leon~M Tai, Deebika Balu, Evangelina Avila-Munoz, Laila Abdullah, Riya Thomas,
 \newblock {\em Journal of lipid research}, pages 1733--1755, 04 2017.
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC5580905/}, \href
   {https://doi.org/10.1194/jlr.R076315} {\path{doi:10.1194/jlr.R076315}}.
+
+\bibitem{Tang1995}
+Jian-Ping Tang and Srikumaran Melethil.
+\newblock Effect of aging on the kinetics of blood--brain barrier uptake of
+  tryptophan in rats.
+\newblock {\em Pharmaceutical Research}, 12(7):1085--1091, Jul 1995.
+\newblock \href {https://doi.org/10.1023/A:1016283003747}
+  {\path{doi:10.1023/A:1016283003747}}.
 
 \bibitem{Teich_Tobunluepop_Troncoso_Novel_differentially_expressed_genes_2025}
 Andrew~F. Teich, Katarnut Tobunluepop, Juan~C. Troncoso, ShihHsiu Wang, Zihan
