@@ -9,51 +9,56 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: elephantNotes.bib
 Database file #2: elephant.bib
+Warning--entry type for "xxx_Popular_obesity_drug_fails_2025" isn't style-file defined
+--line 5659 of file elephant.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
+Warning--I didn't find a database entry for "O’Mara2026"
+Warning--to sort, need author or key in xxx_Popular_obesity_drug_fails_2025
 Warning--can't use both author and editor fields in Dryden2004
 Warning--empty year in Kekki_Samloff_Ihamaki_Related_
 Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
+Warning--empty journal in team_Semaglutide_Mental_Side_Effects_2026
 Warning--can't use both author and editor fields in Varma2023
-You've used 103 entries,
+You've used 116 entries,
             2943 wiz_defined-function locations,
-            1524 strings with 52100 characters,
-and the built_in function-call counts, 60151 in all, are:
-= -- 6167
-> -- 3605
-< -- 15
-+ -- 1385
-- -- 1244
-* -- 4549
-:= -- 9120
-add.period$ -- 412
-call.type$ -- 103
-change.case$ -- 929
+            1621 strings with 58333 characters,
+and the built_in function-call counts, 66597 in all, are:
+= -- 6839
+> -- 3946
+< -- 16
++ -- 1512
+- -- 1356
+* -- 4985
+:= -- 10072
+add.period$ -- 462
+call.type$ -- 116
+change.case$ -- 1024
 chr.to.int$ -- 0
-cite$ -- 107
-duplicate$ -- 1280
-empty$ -- 4197
-format.name$ -- 1244
-if$ -- 14447
+cite$ -- 122
+duplicate$ -- 1428
+empty$ -- 4688
+format.name$ -- 1356
+if$ -- 16051
 int.to.chr$ -- 0
-int.to.str$ -- 103
-missing$ -- 103
-newline$ -- 621
-num.names$ -- 206
-pop$ -- 1256
+int.to.str$ -- 116
+missing$ -- 115
+newline$ -- 697
+num.names$ -- 230
+pop$ -- 1400
 preamble$ -- 1
-purify$ -- 828
+purify$ -- 910
 quote$ -- 0
-skip$ -- 3663
+skip$ -- 4109
 stack$ -- 0
-substring$ -- 1709
-swap$ -- 452
-text.length$ -- 243
+substring$ -- 1857
+swap$ -- 499
+text.length$ -- 270
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 408
-warning$ -- 4
-while$ -- 266
-width$ -- 106
-write$ -- 1378
-(There were 4 warnings)
+type$ -- 460
+warning$ -- 6
+while$ -- 293
+width$ -- 119
+write$ -- 1542
+(There were 8 warnings)

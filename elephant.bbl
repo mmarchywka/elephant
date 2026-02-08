@@ -1,5 +1,18 @@
 \begin{thebibliography}{100}
 
+\bibitem{xxx_Popular_obesity_drug_fails_2025}
+Popular obesity drug fails in hotly anticipated alzheimer's trials, 11 2025.
+\newblock \href {https://doi.org/10.1126/science.zvgswf0}
+  {\path{doi:10.1126/science.zvgswf0}}.
+
+\bibitem{Adekunle_Balogun_Tryptophan_Supplementation_2025}
+Hakeem Adekunle and Olalekan Balogun.
+\newblock Tryptophan and htp supplementation in the treatment of cognitive and
+  mood disorders: A systematic review and meta-analysis.
+\newblock {\em Journal of Gynecological \&amp; Obstetrical Research}, 06 2025.
+\newblock \href {https://doi.org/10.61440/jgor.2025.v3.33}
+  {\path{doi:10.61440/jgor.2025.v3.33}}.
+
 \bibitem{Aichbichler_Zerr_SantaAna_Proton_Pump_Inhibition_1997}
 Berendt~W. Aichbichler, Charles~H. Zerr, Carol~A. Santa~Ana, Jack~L. Porter,
   and John~S. Fordtran.
@@ -46,6 +59,15 @@ Jes\'{u}s Andrade-Guerrero, Alberto Santiago-Balmaseda, Paola Jeronimo-Aguilar,
 \newblock {\em International Journal of Molecular Sciences}, 24, 02 2023.
 \newblock \href {https://doi.org/10.3390/ijms24043754}
   {\path{doi:10.3390/ijms24043754}}.
+
+\bibitem{PMC6555451}
+Yasuhisa Ano, Yuka Yoshino, Toshiko Kutsukake, Rena Ohya, Takafumi Fukuda,
+  Kazuyuki Uchida, Akihiko Takashima, and Hiroyuki Nakayama.
+\newblock Tryptophan-related dipeptides in fermented dairy products suppress
+  microglial activation and prevent cognitive decline.
+\newblock {\em Aging}, pages 2949--2967, May 2019.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC6555451/}, \href
+  {https://doi.org/10.18632/aging.101909} {\path{doi:10.18632/aging.101909}}.
 
 \bibitem{Aron_Ngian_Qiu_Lithium_deficiency_2025}
 Liviu Aron, Zhen~Kai Ngian, Chenxi Qiu, Jaejoon Choi, Marianna Liang, Derek~M.
@@ -148,6 +170,26 @@ Elissavet Chartampila, Karim~S Elayouby, Paige Leary, John~J LaFrancois, David
 \newblock {\em eLife}, 12:RP89889, jun 2024.
 \newblock \href {https://doi.org/10.7554/eLife.89889}
   {\path{doi:10.7554/eLife.89889}}.
+
+\bibitem{Chen_Liu_Gao_Pharmacovigilance_analysis_neurological_2025}
+He~Chen, Sixing Liu, Shuai Gao, Hangyu Shi, Yan Yan, Yixing Xu, Jiufei Fang,
+  Weiming Wang, Huan Chen, and Zhishun Liu.
+\newblock Pharmacovigilance analysis of neurological adverse events associated
+  with glp-1 receptor agonists based on the fda adverse event reporting system.
+\newblock {\em Scientific Reports}, 15, 05 2025.
+\newblock URL: \url{https://www.nature.com/articles/s41598-025-01206-9}, \href
+  {https://doi.org/10.1038/s41598-025-01206-9}
+  {\path{doi:10.1038/s41598-025-01206-9}}.
+
+\bibitem{Chojnacki_charvv261siorowska_charvv322awski_Beneficial_Effect_Increased_2023}
+Cezary Chojnacki, Anita~GUx0105[bad char vv=261]siorowska, Tomasz~PopUx0142[bad
+  char vv=322]awski, Paulina Konrad, Marcin Chojnacki, Michal Fila, and Janusz
+  Blasiak.
+\newblock Beneficial effect of increased tryptophan intake on its metabolism
+  and mental state of the elderly.
+\newblock {\em Nutrients}, 15, 02 2023.
+\newblock \href {https://doi.org/10.3390/nu15040847}
+  {\path{doi:10.3390/nu15040847}}.
 
 \bibitem{Cooper_P3400_Biotin_deficiency_2008}
 Janelle~L. Cooper.
@@ -447,6 +489,15 @@ M.~Kekki, I.~M. Samloff, T.~Iham\"{a}ki, K.~Varis, and M.~Siurala.
 \newblock \href {https://doi.org/10.3109/00365528209181087}
   {\path{doi:10.3109/00365528209181087}}.
 
+\bibitem{Kita_Obara_Kondo_Effect_Supplementation_2018}
+Masahiro Kita, Kuniaki Obara, Sumio Kondo, Satoshi Umeda, and Yasuhisa Ano.
+\newblock Effect of supplementation of a whey peptide rich in
+  tryptophan-tyrosine-related peptides on cognitive performance in healthy
+  adults: A randomized, double-blind, placebo-controlled study.
+\newblock {\em Nutrients}, 10, 07 2018.
+\newblock \href {https://doi.org/10.3390/nu10070899}
+  {\path{doi:10.3390/nu10070899}}.
+
 \bibitem{Klotter_Niacinamide_nicotinamide_Alzheimer_2010}
 Jule Klotter.
 \newblock Niacinamide (nicotinamide) and alzheimer's disease.
@@ -462,6 +513,15 @@ Martin Kohlmeier, Andreas Salomon, J\"{o}rg Saupe, and Martin~J. Shearer.
   \url{https://www.sciencedirect.com/science/article/pii/S0022316622017527},
   \href {https://doi.org/10.1093/jn/126.suppl_4.1192S}
   {\path{doi:10.1093/jn/126.suppl_4.1192S}}.
+
+\bibitem{Konopelski_Mogilnicka_Biological_Effects_Indole_2022}
+Piotr Konopelski and Izabella Mogilnicka.
+\newblock Biological effects of indole-3-propionic acid, a gut
+  microbiota-derived metabolite, and its precursor tryptophan in mammals'
+  health and disease.
+\newblock {\em International Journal of Molecular Sciences}, 23, 02 2022.
+\newblock \href {https://doi.org/10.3390/ijms23031222}
+  {\path{doi:10.3390/ijms23031222}}.
 
 \bibitem{PMC12811047}
 Satoshi Kurisu and Hitoshi Fujiwara.
@@ -651,6 +711,14 @@ Amritpal Mudher and Simon Lovestone.
 \newblock \href {https://doi.org/10.1016/s0166-2236(00)02031-2}
   {\path{doi:10.1016/s0166-2236(00)02031-2}}.
 
+\bibitem{Neto_Esper_Ux201c_char_2025}
+Thomaz~Funari Neto and Emanuela~Ferreira Esper.
+\newblock "ozempic face": Aesthetic consequence, unintended muscle loss, or a
+  warning sign of maladaptive weight reduction?
+\newblock {\em International Health Sciences Review}, 1, 09 2025.
+\newblock \href {https://doi.org/10.70164/ihsr.v1i4.49}
+  {\path{doi:10.70164/ihsr.v1i4.49}}.
+
 \bibitem{Nolan_Power_Howard_Supplementation_With_Carotenoids_Omega_2022}
 John~M. Nolan, Rebecca Power, Alan~N. Howard, Paula Bergin, Warren Roche,
   Alfonso Prado-Cabrero, George Pope, John Cooke, Tommy Power, and R\'{i}ona
@@ -686,6 +754,24 @@ Francesco Panza, Vittorio Dibello, Rodolfo Sardone, Roberta Zupo, Fabio
 \newblock {\em Expert Opinion on Biological Therapy}, 25, 03 2025.
 \newblock \href {https://doi.org/10.1080/14712598.2025.2463963}
   {\path{doi:10.1080/14712598.2025.2463963}}.
+
+\bibitem{PENG2025284}
+Tzu-Rong Peng, Hung-Hong Lin, Tzu-Ling Tseng, and Ta-Wei Wu.
+\newblock Effectiveness of probiotic supplements on cognitive function in mild
+  cognitive impairment and alzheimer's disease: A meta-analysis of randomized
+  controlled trials.
+\newblock {\em General Hospital Psychiatry}, 97:284--293, 2025.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0163834325002142},
+  \href {https://doi.org/10.1016/j.genhosppsych.2025.11.004}
+  {\path{doi:10.1016/j.genhosppsych.2025.11.004}}.
+
+\bibitem{Poeggeler_Singh_Pappolla_Tryptophan_Nutrition_2022}
+Burkhard Poeggeler, Sandeep~Kumar Singh, and Miguel~A. Pappolla.
+\newblock Tryptophan in nutrition and health.
+\newblock {\em International Journal of Molecular Sciences}, 23, 05 2022.
+\newblock \href {https://doi.org/10.3390/ijms23105455}
+  {\path{doi:10.3390/ijms23105455}}.
 
 \bibitem{Pourhadi_Janbek_JensenDahm_Proton_pump_inhibitors_2024}
 Nelsan Pourhadi, Janet Janbek, Christina JensenDahm, Christiane Gasse,
@@ -771,6 +857,14 @@ Tanya~L. Russell, Rosemary~R. Berardi, Jeffrey~L. Barnett, Lambros~C.
 \newblock \href {https://doi.org/10.1023/A:1018970323716}
   {\path{doi:10.1023/A:1018970323716}}.
 
+\bibitem{Salam_Hyder_Semaglutide_skin_2025}
+Arisha Salam and Mohammed~Salman Hyder.
+\newblock Semaglutide and the skin: A brief review of dermatologic
+  implications.
+\newblock {\em Cosmoderma}, 5, 08 2025.
+\newblock \href {https://doi.org/10.25259/csdm_97_2025}
+  {\path{doi:10.25259/csdm_97_2025}}.
+
 \bibitem{Sang_Philbert_Hartland_Coenzyme_Dependent_Tricarboxylic_2022}
 Crystal Sang, Sasha~A. Philbert, Danielle Hartland, Richard.~D Unwin, Andrew~W.
   Dowsey, Jingshu Xu, and Garth J.~S. Cooper.
@@ -848,6 +942,18 @@ Leon~M Tai, Deebika Balu, Evangelina Avila-Munoz, Laila Abdullah, Riya Thomas,
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC5580905/}, \href
   {https://doi.org/10.1194/jlr.R076315} {\path{doi:10.1194/jlr.R076315}}.
 
+\bibitem{Takada_Tanaka_Tanaka_Effects_essential_2022}
+Michihiro Takada, Shin Tanaka, Koh Tanaka, Tamao Tsukie, Masako TsukamotoYasui,
+  Katsuya Suzuki, Yasushi Noguchi, Akira Imaizumi, Makoto Ishii, and Takeshi
+  Ikeuchi.
+\newblock Effects of an essential amino acid mixture on behavioral and
+  psychological symptoms of dementia and executive function in patients with
+  alzheimer's disease: A doubleblind, randomized, placebocontrolled exploratory
+  clinical trial.
+\newblock {\em International Journal of Geriatric Psychiatry}, 37, 09 2022.
+\newblock \href {https://doi.org/10.1002/gps.5782}
+  {\path{doi:10.1002/gps.5782}}.
+
 \bibitem{Tang1995}
 Jian-Ping Tang and Srikumaran Melethil.
 \newblock Effect of aging on the kinetics of blood--brain barrier uptake of
@@ -855,6 +961,13 @@ Jian-Ping Tang and Srikumaran Melethil.
 \newblock {\em Pharmaceutical Research}, 12(7):1085--1091, Jul 1995.
 \newblock \href {https://doi.org/10.1023/A:1016283003747}
   {\path{doi:10.1023/A:1016283003747}}.
+
+\bibitem{team_Semaglutide_Mental_Side_Effects_2026}
+NeuroLaunch~editorial team.
+\newblock Semaglutide mental side effects: Navigating the psychological impact
+  of weight loss medication.
+\newblock 02 2025.
+\newblock URL: \url{https://neurolaunch.com/semaglutide-mental-side-effects/}.
 
 \bibitem{Teich_Tobunluepop_Troncoso_Novel_differentially_expressed_genes_2025}
 Andrew~F. Teich, Katarnut Tobunluepop, Juan~C. Troncoso, ShihHsiu Wang, Zihan

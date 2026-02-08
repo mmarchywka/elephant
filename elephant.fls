@@ -326,6 +326,7 @@ INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman9-bold.luc
 INPUT ./elephant.toc
 OUTPUT elephant.toc
+INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 INPUT ./nutrient_table.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm

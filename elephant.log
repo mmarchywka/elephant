@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  7 FEB 2026 14:26
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  8 FEB 2026 13:25
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1291,46 +1291,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 472--473
 
  []
 
-[4] [5]
-Overfull \hbox (357.37201pt too wide) in paragraph at lines 741--756
+[4]
+Overfull \hbox (106.36998pt too wide) in paragraph at lines 718--735
+\TU/lmr/m/n/10 Norodisk prod-uct [[]]  []
+ []
+
+
+Overfull \hbox (11.25pt too wide) in paragraph at lines 718--735
+\TU/lmtt/m/n/10 sciencehub.novonordisk.com/content/dam/sciencehub/global/en/cong
+resses-[]and-[]scientific-[]publications/
+ []
+
+[5]
+
+Package natbib Warning: Citation `O’Mara2026' on page 6 undefined on input li
+ne 738.
+
+
+Overfull \hbox (357.37201pt too wide) in paragraph at lines 798--813
 \TU/lmr/m/n/10 ac-tive. In-deed, spec-u-la-tion on ben-e-fi-cial ty-ro-sine anal
 ogs can not be dis-missed.  []
  []
 
 [6]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 949--950
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1006--1007
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 949--950
+Underfull \hbox (badness 10000) in paragraph at lines 1006--1007
 
  []
 
-[7] (./nutrient_table.tex)
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1108--1131
+[7] (./nutrient_table.tex) [8]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1169--1192
 [][]
  []
 
-[8] (./elephant.bbl [9] [10] [11]
-Underfull \hbox (badness 3128) in paragraph at lines 451--456
+[9] (./elephant.bbl [10] [11]
+Underfull \hbox (badness 3128) in paragraph at lines 502--507
 []\TU/lmr/m/n/9 Jule Klot-ter.  Niaci-namide (nicoti-namide) and alzheimer’s 
 dis-ease.  \TU/lmr/m/it/9 Townsend Let-ter\TU/lmr/m/n/9 , 12 2010.  URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--456
+Underfull \hbox (badness 10000) in paragraph at lines 502--507
 [][]$\TU/lmtt/m/n/9 https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleS
 cholar&v=2.1&it=r&linkaccess=abs&issn=
  []
 
-
-Underfull \hbox (badness 4859) in paragraph at lines 505--517
+[12]
+Underfull \hbox (badness 4859) in paragraph at lines 565--577
 []\TU/lmr/m/n/9 Bowen Lin, Yu Hasegawa, Koki Takane, Nobu-taka Koibuchi, Cheng 
 Cao, and Shokei Kim-Mit-suyama.
  []
 
-[12] [13] [14]) [15] Including 'mdpicomment' comment.
+[13] [14] [15]) [16] Including 'mdpicomment' comment.
 \openout4 = comment.cut
 
 Straight input of comment.cut. (./comment.cut)
@@ -1344,11 +1360,14 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 89--94
 []$[]$ 
  []
 
-Excluding 'comment' comment. [16]
+Excluding 'comment' comment. [17]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 108.
- (./elephant.bundle_checksums [17])) [18]
-(./elephant.aux)
+ (./elephant.bundle_checksums [18]))
+
+Package natbib Warning: There were undefined citations.
+
+[19] (./elephant.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1358,29 +1377,29 @@ Package rerunfilecheck Info: File `elephant.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35329 strings out of 475512
- 745247,1373583 words of node,token memory allocated
- 1180 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 61 attribute, 80 glue_spe
-c, 61 attribute_list, 49 pdf_action nodes
-   avail lists: 1:1,2:5384,3:1302,4:326,5:16243,6:181,7:25496,8:166,9:32906,10:3
+ 35385 strings out of 475512
+ 745255,1373583 words of node,token memory allocated
+ 1240 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 67 attribute, 80 glue_spe
+c, 67 attribute_list, 55 pdf_action nodes
+   avail lists: 1:1,2:5367,3:1239,4:316,5:16189,6:181,7:25495,8:185,9:32798,10:3
 2,11:1993
- 57220 multiletter control sequences out of 65536+600000
- 79 fonts using 5386087 bytes
- 124i,12n,116p,553b,1508s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57262 multiletter control sequences out of 65536+600000
+ 80 fonts using 5512239 bytes
+ 124i,12n,116p,553b,1558s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
-/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/
-public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-
-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-italic.otf></usr
-/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts
-/opentype/public/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/publi
-c/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy7.pfb>
-Output written on elephant.pdf (18 pages, 194382 bytes).
+/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/
+public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroma
+n9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf></us
+r/share/texmf/fonts/opentype/public/lm/lmroman9-italic.otf></usr/share/texmf/fon
+ts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public
+/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-b
+old.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on elephant.pdf (19 pages, 209235 bytes).
 
-PDF statistics: 719 PDF objects out of 1000 (max. 8388607)
- 665 compressed objects within 7 object streams
- 184 named destinations out of 1000 (max. 131072)
+PDF statistics: 783 PDF objects out of 1000 (max. 8388607)
+ 724 compressed objects within 8 object streams
+ 198 named destinations out of 1000 (max. 131072)
  176 words of extra memory for PDF output out of 10000 (max. 100000000)
 
