@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  10 FEB 2026 12:29
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  17 FEB 2026 17:09
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1282,76 +1282,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 447--448
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 474--475
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 490--491
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--475
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
 
  []
 
 [4]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 579--580
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 595--596
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 579--580
+Underfull \hbox (badness 10000) in paragraph at lines 595--596
 
  []
 
 [5]
-Overfull \hbox (106.36998pt too wide) in paragraph at lines 759--776
+Overfull \hbox (316.58199pt too wide) in paragraph at lines 826--838
+[]\TU/lmr/m/n/10 And in-deed scury, an-other state cre-at-ing ”weak struc-tura
+l pro-teins”  []
+ []
+
+
+Overfull \hbox (106.36998pt too wide) in paragraph at lines 839--859
 \TU/lmr/m/n/10 Norodisk prod-uct [[]]  []
  []
 
 
-Overfull \hbox (11.25pt too wide) in paragraph at lines 759--776
+Overfull \hbox (11.25pt too wide) in paragraph at lines 839--859
 \TU/lmtt/m/n/10 sciencehub.novonordisk.com/content/dam/sciencehub/global/en/cong
 resses-[]and-[]scientific-[]publications/
  []
 
-
-Overfull \hbox (357.37201pt too wide) in paragraph at lines 839--854
+[6]
+Overfull \hbox (357.37201pt too wide) in paragraph at lines 925--943
 \TU/lmr/m/n/10 ac-tive. In-deed, spec-u-la-tion on ben-e-fi-cial ty-ro-sine anal
 ogs can not be dis-missed.  []
  []
 
-[6] [7]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1047--1048
+[7]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1158--1159
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1047--1048
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1159
 
  []
 
-[8] (./nutrient_table.tex)
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1216--1239
+[8] (./nutrient_table.tex [9])
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1338--1361
 [][]
  []
 
-[9] (./elephant.bbl [10] [11] [12]
-Underfull \hbox (badness 3128) in paragraph at lines 526--531
+[10] (./elephant.bbl [11] [12] [13]
+Underfull \hbox (badness 3128) in paragraph at lines 631--636
 []\TU/lmr/m/n/9 Jule Klot-ter.  Niaci-namide (nicoti-namide) and alzheimer’s 
 dis-ease.  \TU/lmr/m/it/9 Townsend Let-ter\TU/lmr/m/n/9 , 12 2010.  URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--531
+Underfull \hbox (badness 10000) in paragraph at lines 631--636
 [][]$\TU/lmtt/m/n/9 https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleS
 cholar&v=2.1&it=r&linkaccess=abs&issn=
  []
 
-
-Underfull \hbox (badness 4859) in paragraph at lines 597--609
+[14]
+Underfull \hbox (badness 4859) in paragraph at lines 720--732
 []\TU/lmr/m/n/9 Bowen Lin, Yu Hasegawa, Koki Takane, Nobu-taka Koibuchi, Cheng 
 Cao, and Shokei Kim-Mit-suyama.
  []
 
-[13] [14] [15]) [16] [17] Including 'mdpicomment' comment.
+[15] [16] [17]) [18] Including 'mdpicomment' comment.
 \openout4 = comment.cut
 
 Straight input of comment.cut. (./comment.cut)
@@ -1365,10 +1371,10 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 89--94
 []$[]$ 
  []
 
-Excluding 'comment' comment. [18]
+Excluding 'comment' comment. [19]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 108.
- (./elephant.bundle_checksums [19])) [20]
+ (./elephant.bundle_checksums [20])) [21]
 (./elephant.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1379,16 +1385,16 @@ Package rerunfilecheck Info: File `elephant.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35436 strings out of 475512
- 745240,1373583 words of node,token memory allocated
- 1280 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 71 attribute, 80 glue_spe
-c, 71 attribute_list, 59 pdf_action nodes
-   avail lists: 1:2,2:5367,3:1282,4:339,5:16189,6:181,7:25673,8:185,9:32798,10:3
+ 35527 strings out of 475512
+ 745239,1373583 words of node,token memory allocated
+ 1360 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 79 attribute, 80 glue_spe
+c, 79 attribute_list, 67 pdf_action nodes
+   avail lists: 1:2,2:5368,3:1228,4:325,5:16189,6:181,7:25673,8:184,9:32798,10:3
 2,11:1998
- 57299 multiletter control sequences out of 65536+600000
+ 57367 multiletter control sequences out of 65536+600000
  80 fonts using 5512239 bytes
- 124i,12n,116p,553b,1552s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,553b,1649s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroma
@@ -1398,10 +1404,10 @@ ts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public
 /lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-b
 old.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on elephant.pdf (20 pages, 218801 bytes).
+Output written on elephant.pdf (21 pages, 237867 bytes).
 
-PDF statistics: 832 PDF objects out of 1000 (max. 8388607)
- 772 compressed objects within 8 object streams
- 212 named destinations out of 1000 (max. 131072)
+PDF statistics: 932 PDF objects out of 1000 (max. 8388607)
+ 870 compressed objects within 9 object streams
+ 235 named destinations out of 1000 (max. 131072)
  176 words of extra memory for PDF output out of 10000 (max. 100000000)
 

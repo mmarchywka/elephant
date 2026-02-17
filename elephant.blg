@@ -11,54 +11,60 @@ Database file #1: elephantNotes.bib
 Database file #2: elephant.bib
 Warning--entry type for "xxx_Popular_obesity_drug_fails_2025" isn't style-file defined
 --line 5659 of file elephant.bib
+Warning--I'm ignoring doi:10.1021/acsomega.5c09713's extra "url" field
+--line 6980 of file elephant.bib
+Warning--I'm ignoring doi:10.1021/acs.iecr.9b03588's extra "url" field
+--line 7114 of file elephant.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--entry type for "PMC7041773" isn't style-file defined
+--line 8366 of file elephant.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
 Warning--to sort, need author or key in xxx_Popular_obesity_drug_fails_2025
 Warning--can't use both author and editor fields in Dryden2004
-Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--empty year in Kekki_Samloff_Ihamaki_Related_
 Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
 Warning--empty journal in team_Semaglutide_Mental_Side_Effects_2026
 Warning--can't use both author and editor fields in Varma2023
-You've used 129 entries,
+You've used 151 entries,
             2943 wiz_defined-function locations,
-            1719 strings with 63910 characters,
-and the built_in function-call counts, 73758 in all, are:
-= -- 7579
-> -- 4356
-< -- 18
-+ -- 1665
-- -- 1494
-* -- 5515
-:= -- 11145
-add.period$ -- 514
-call.type$ -- 129
-change.case$ -- 1132
+            1898 strings with 78273 characters,
+and the built_in function-call counts, 87389 in all, are:
+= -- 8984
+> -- 5178
+< -- 24
++ -- 1976
+- -- 1780
+* -- 6521
+:= -- 13154
+add.period$ -- 601
+call.type$ -- 151
+change.case$ -- 1341
 chr.to.int$ -- 0
-cite$ -- 135
-duplicate$ -- 1590
-empty$ -- 5191
-format.name$ -- 1494
-if$ -- 17790
+cite$ -- 157
+duplicate$ -- 1928
+empty$ -- 6121
+format.name$ -- 1780
+if$ -- 21100
 int.to.chr$ -- 0
-int.to.str$ -- 129
-missing$ -- 128
-newline$ -- 775
-num.names$ -- 256
-pop$ -- 1543
+int.to.str$ -- 151
+missing$ -- 149
+newline$ -- 906
+num.names$ -- 300
+pop$ -- 1845
 preamble$ -- 1
-purify$ -- 1005
+purify$ -- 1192
 quote$ -- 0
-skip$ -- 4576
+skip$ -- 5433
 stack$ -- 0
-substring$ -- 2047
-swap$ -- 564
-text.length$ -- 298
+substring$ -- 2400
+swap$ -- 720
+text.length$ -- 348
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 512
+type$ -- 600
 warning$ -- 6
-while$ -- 327
-width$ -- 132
-write$ -- 1712
-(There were 7 warnings)
+while$ -- 383
+width$ -- 154
+write$ -- 2005
+(There were 10 warnings)
