@@ -17,7 +17,9 @@ Warning--I'm ignoring doi:10.1021/acs.iecr.9b03588's extra "url" field
 --line 7114 of file elephant.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "PMC7041773" isn't style-file defined
---line 8366 of file elephant.bib
+--line 8527 of file elephant.bib
+Warning--entry type for "PMC5292330" isn't style-file defined
+--line 8642 of file elephant.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
 Warning--to sort, need author or key in xxx_Popular_obesity_drug_fails_2025
@@ -26,45 +28,45 @@ Warning--empty year in Kekki_Samloff_Ihamaki_Related_
 Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
 Warning--empty journal in team_Semaglutide_Mental_Side_Effects_2026
 Warning--can't use both author and editor fields in Varma2023
-You've used 151 entries,
+You've used 156 entries,
             2943 wiz_defined-function locations,
-            1898 strings with 78273 characters,
-and the built_in function-call counts, 87389 in all, are:
-= -- 8984
-> -- 5178
-< -- 24
-+ -- 1976
-- -- 1780
-* -- 6521
-:= -- 13154
-add.period$ -- 601
-call.type$ -- 151
-change.case$ -- 1341
+            1940 strings with 80959 characters,
+and the built_in function-call counts, 90056 in all, are:
+= -- 9265
+> -- 5310
+< -- 25
++ -- 2027
+- -- 1824
+* -- 6705
+:= -- 13540
+add.period$ -- 621
+call.type$ -- 156
+change.case$ -- 1378
 chr.to.int$ -- 0
-cite$ -- 157
-duplicate$ -- 1928
-empty$ -- 6121
-format.name$ -- 1780
-if$ -- 21100
+cite$ -- 162
+duplicate$ -- 1990
+empty$ -- 6334
+format.name$ -- 1824
+if$ -- 21768
 int.to.chr$ -- 0
-int.to.str$ -- 151
-missing$ -- 149
-newline$ -- 906
-num.names$ -- 300
-pop$ -- 1845
+int.to.str$ -- 156
+missing$ -- 153
+newline$ -- 936
+num.names$ -- 310
+pop$ -- 1908
 preamble$ -- 1
-purify$ -- 1192
+purify$ -- 1224
 quote$ -- 0
-skip$ -- 5433
+skip$ -- 5606
 stack$ -- 0
-substring$ -- 2400
-swap$ -- 720
-text.length$ -- 348
+substring$ -- 2478
+swap$ -- 742
+text.length$ -- 361
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 600
+type$ -- 620
 warning$ -- 6
-while$ -- 383
-width$ -- 154
-write$ -- 2005
-(There were 10 warnings)
+while$ -- 396
+width$ -- 159
+write$ -- 2071
+(There were 11 warnings)
