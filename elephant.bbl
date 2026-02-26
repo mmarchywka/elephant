@@ -1,5 +1,11 @@
 \begin{thebibliography}{100}
 
+\bibitem{xxx_Malabsorption_Syndromes_Influence_}
+Malabsorption syndromes' influence on chronic wound healing in patients with
+  gastrointestinal resection.
+\newblock \href {https://doi.org/10.71010/ajcmr.2025-e227}
+  {\path{doi:10.71010/ajcmr.2025-e227}}.
+
 \bibitem{xxx_Popular_obesity_drug_fails_2025}
 Popular obesity drug fails in hotly anticipated alzheimer's trials, 11 2025.
 \newblock \href {https://doi.org/10.1126/science.zvgswf0}
@@ -169,6 +175,13 @@ Alejandra Camacho-Soto, Irene Faust, Osvaldo~J. Laurido-Soto, Jordan~A.
 \newblock {\em Neurodegenerative Diseases}, 05 2025.
 \newblock \href {https://doi.org/10.1159/000546589}
   {\path{doi:10.1159/000546589}}.
+
+\bibitem{Camilleri_aging_gastrointestinal_tract_2022}
+Michael Camilleri.
+\newblock The aging gastrointestinal tract: digestive and motility problems, 04
+  2022.
+\newblock \href {https://doi.org/10.1002/9781119600206.ch26}
+  {\path{doi:10.1002/9781119600206.ch26}}.
 
 \bibitem{CARMEL2008225}
 Ralph Carmel.
@@ -475,6 +488,14 @@ Zaw~Myo Hein, Barani Karikalan, Prarthana~Kalerammana Gopalakrishna, Krina
 \newblock \href {https://doi.org/10.1007/s12035-025-05602-0}
   {\path{doi:10.1007/s12035-025-05602-0}}.
 
+\bibitem{Hinssen_Mensink_Huppertz_Impact_aging_NBSPon_2025}
+Fenna Hinssen, Marco Mensink, Thom Huppertz, and Nikkie~van der Wielen.
+\newblock Impact of aging on the digestive system related to protein digestion
+  { in vivo}.
+\newblock {\em Critical Reviews in Food Science and Nutrition}, 65, 10 2025.
+\newblock \href {https://doi.org/10.1080/10408398.2024.2433598}
+  {\path{doi:10.1080/10408398.2024.2433598}}.
+
 \bibitem{Holt_Intestinal_Malabsorption_2007}
 Peter~R. Holt.
 \newblock Intestinal malabsorption in the elderly.
@@ -626,6 +647,20 @@ Takele~Adugna Kassegn, Zhancheng Tian, Junzheng Du, Qingli Niu, Jifei Yang,
   American Societies for Experimental Biology}, page e71526, Feb 2026.
 \newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/41693302/}, \href
   {https://doi.org/10.1096/fj.202503827R} {\path{doi:10.1096/fj.202503827R}}.
+
+\bibitem{UDwPBAAAQBAJ}
+Timothy~L. Kauffman, Ronald~W. Scott, John~O. Barr, and Michael~L. Moran.
+\newblock {\em A Comprehensive Guide to Geriatric Rehabilitation E-Book}.
+\newblock Elsevier Health Sciences, 09 2014.
+\newblock URL:
+  \url{https://www.google.com/books/edition/A_Comprehensive_Guide_to_Geriatric_Rehab/UDwPBAAAQBAJ?hl=en&gbpv=1&dq=digestive+malabsorption+elderly+&pg=PA45&printsec=frontcover}.
+
+\bibitem{Kawamoto_Vivar_Camandola_Physiology_Pathology_2012}
+Elisa~Mitiko Kawamoto, Carmen Vivar, and Simonetta Camandola.
+\newblock Physiology and pathology of calcium signaling in the brain.
+\newblock {\em Frontiers in Pharmacology}, 3, 2012.
+\newblock \href {https://doi.org/10.3389/fphar.2012.00061}
+  {\path{doi:10.3389/fphar.2012.00061}}.
 
 \bibitem{Kaye_Thomassen_Mashaw_Vitamin_upalpha_Tocopherol_2025}
 Alan~D Kaye, Austin~S Thomassen, Sydney~A Mashaw, Ellie~M MacDonald, Aubert
@@ -799,6 +834,16 @@ Timoth~J. Maher, Paul~J. Kiritsy, Fernando~A. Moya-Huff, Franco Casacci, Franco
   \href {https://doi.org/10.1002/jps.2600790807}
   {\path{doi:10.1002/jps.2600790807}}.
 
+\bibitem{marchywka-MJM-2022-010-0.80}
+Mike~J Marchywka.
+\newblock Vitamin d: Towards a conflict resolving hypothesis.
+\newblock techreport MJM-2022-010, not institutionalized, independent, 306
+  Charles Cox , Canton GA 30115, 7 2022.
+\newblock URL:
+  \url{https://www.researchgate.net/publication/362303875_Vitamin_D_Towards_A_Conflict_Resolving_Hypothesis},
+  \href {https://doi.org/10.5281/zenodo.6922402}
+  {\path{doi:10.5281/zenodo.6922402}}.
+
 \bibitem{marchywka-MJM-2023-008-0.30rg}
 Mike~J Marchywka.
 \newblock Brain microbiome : Make your garden grow? feed your head.
@@ -820,6 +865,15 @@ Mike~J Marchywka.
   \href {https://doi.org/10.5281/zenodo.15785347}
   {\path{doi:10.5281/zenodo.15785347}}.
 
+\bibitem{mmarchywka-MJM-2020-002-0.12rg}
+M.J. Marchywka.
+\newblock On the age distribution of sars-cov-2 patients.
+\newblock Technical Report MJM-2020-002-0.12, not institutionalized ,
+  independent, 306 Charles Cox , Canton GA 30115, 3 2021.
+\newblock Version 0.10 , may change signficantly if less than 1.00.
+\newblock URL:
+  \url{https://www.researchgate.net/publication/350021196_On_the_age_distribution_of_covid-19_patients}.
+
 \bibitem{Marra_Gomes_Liu_Effects_herpes_zoster_2025}
 Fawziah Marra, Kyle Gomes, Emily Liu, Nirma~Khatri Vadlamudi, Kathryn
   Richardson, and Jacquelyn~J. Cragg.
@@ -837,6 +891,16 @@ Shinji Matsunaga, Taro Kishi, Peter Annas, Hans Basun, Harald Hampel, and Nakao
 \newblock {\em Journal of Alzheimer's Disease}, 48, 09 2015.
 \newblock \href {https://doi.org/10.3233/jad-150437}
   {\path{doi:10.3233/jad-150437}}.
+
+\bibitem{PMID12591115}
+Louis~D Matzel, Yu~Han, Mauricio Lavie, and Chetan~C Gandhi.
+\newblock Calcium 'leak' through somatic l-type channels has multiple
+  deleterious effects on regulated transmitter release from an invertebrate
+  hair cell.
+\newblock {\em Brain research}, pages 9--20, Mar 2003.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/12591115/}, \href
+  {https://doi.org/10.1016/s0006-8993(02)03883-0}
+  {\path{doi:10.1016/s0006-8993(02)03883-0}}.
 
 \bibitem{MazurkiewiczKwilecki_Nsonwah_Changes_regional_1989}
 I.~M. Mazurkiewicz-Kwilecki and S.~Nsonwah.
@@ -1035,6 +1099,16 @@ Lili Qiu, Qianqian Huang, Wenhao Li, Qian Zhang, Jun Zhou, Juan Chen, Yixuan
 \newblock {\em Biogerontology}, 26(4):146, Jul 2025.
 \newblock \href {https://doi.org/10.1007/s10522-025-10289-w}
   {\path{doi:10.1007/s10522-025-10289-w}}.
+
+\bibitem{Qiu_Shi_Wu_Altered_Digestive_Absorptive_2026}
+Zehui Qiu, Yuyao Shi, Yi~Wu, Yao Zheng, Wenzheng Shi, Mingyu Yin, Long Zhang,
+  and Xichang Wang.
+\newblock Altered digestive and absorptive characteristics of food proteins in
+  older adults: Mechanisms, model applications, and innovative strategies.
+\newblock {\em Comprehensive Reviews in Food Science and Food Safety}, 25, 01
+  2026.
+\newblock \href {https://doi.org/10.1111/1541-4337.70364}
+  {\path{doi:10.1111/1541-4337.70364}}.
 
 \bibitem{quUx1ed1badcharvv7889cLuong_Hoang_Role_Thiamine_2011}
 Khanh~vinh quUx1ed1[bad char~vv=7889]c Lu'o'ng and Lan~Thi Ho\`{a}ng
@@ -1374,6 +1448,17 @@ Andrew~E. Welchman and Zoe Kourtzi.
   \url{https://www.sciencedirect.com/science/article/pii/S2274580725003395},
   \href {https://doi.org/10.1016/j.tjpad.2025.100397}
   {\path{doi:10.1016/j.tjpad.2025.100397}}.
+
+\bibitem{WU2025273}
+Peng Wu, Ping Zhang, and Xiao~Dong Chen.
+\newblock Chapter five - assessing food digestion in the elderly using in vitro
+  gastrointestinal models.
+\newblock volume 114 of {\em Advances in Food and Nutrition Research}, pages
+  273--300. Academic Press, 2025.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S1043452624000986},
+  \href {https://doi.org/10.1016/bs.afnr.2024.09.004}
+  {\path{doi:10.1016/bs.afnr.2024.09.004}}.
 
 \bibitem{10.1039/c7mt00074j}
 Jingshu Xu, Stephanie~J Church, Stefano Patassini, Paul Begley, Henry~J
