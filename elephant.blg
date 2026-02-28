@@ -21,9 +21,9 @@ Warning--entry type for "xxx_Malabsorption_Syndromes_Influence_" isn't style-fil
 --line 7679 of file elephant.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "PMC7041773" isn't style-file defined
---line 8958 of file elephant.bib
+--line 9017 of file elephant.bib
 Warning--entry type for "PMC5292330" isn't style-file defined
---line 9073 of file elephant.bib
+--line 9132 of file elephant.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
 Warning--to sort, need author or key in xxx_Popular_obesity_drug_fails_2025
@@ -34,45 +34,45 @@ Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
 Warning--empty journal in team_Semaglutide_Mental_Side_Effects_2026
 Warning--can't use both author and editor fields in Varma2023
 Warning--empty booktitle in WU2025273
-You've used 166 entries,
+You've used 168 entries,
             2943 wiz_defined-function locations,
-            2020 strings with 84416 characters,
-and the built_in function-call counts, 94684 in all, are:
-= -- 9766
-> -- 5494
-< -- 30
-+ -- 2099
-- -- 1882
-* -- 6984
-:= -- 14189
-add.period$ -- 660
-call.type$ -- 166
-change.case$ -- 1436
+            2036 strings with 85523 characters,
+and the built_in function-call counts, 95852 in all, are:
+= -- 9892
+> -- 5554
+< -- 31
++ -- 2121
+- -- 1902
+* -- 7060
+:= -- 14354
+add.period$ -- 668
+call.type$ -- 168
+change.case$ -- 1452
 chr.to.int$ -- 0
-cite$ -- 174
-duplicate$ -- 2114
-empty$ -- 6742
-format.name$ -- 1882
-if$ -- 22973
+cite$ -- 176
+duplicate$ -- 2150
+empty$ -- 6825
+format.name$ -- 1902
+if$ -- 23268
 int.to.chr$ -- 0
-int.to.str$ -- 166
-missing$ -- 160
-newline$ -- 994
-num.names$ -- 328
-pop$ -- 2021
+int.to.str$ -- 168
+missing$ -- 162
+newline$ -- 1006
+num.names$ -- 332
+pop$ -- 2046
 preamble$ -- 1
-purify$ -- 1273
+purify$ -- 1287
 quote$ -- 0
-skip$ -- 5940
+skip$ -- 6025
 stack$ -- 0
-substring$ -- 2591
-swap$ -- 783
-text.length$ -- 384
+substring$ -- 2617
+swap$ -- 802
+text.length$ -- 389
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 658
+type$ -- 666
 warning$ -- 8
-while$ -- 418
-width$ -- 169
-write$ -- 2199
+while$ -- 423
+width$ -- 171
+write$ -- 2226
 (There were 15 warnings)

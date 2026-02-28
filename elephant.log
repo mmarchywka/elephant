@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  26 FEB 2026 18:49
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  27 FEB 2026 19:12
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1302,73 +1302,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 595--596
  []
 
 [5]
-Overfull \hbox (316.58199pt too wide) in paragraph at lines 826--838
+Overfull \hbox (316.58199pt too wide) in paragraph at lines 836--848
 []\TU/lmr/m/n/10 And in-deed scury, an-other state cre-at-ing ”weak struc-tura
 l pro-teins”  []
  []
 
 
-Overfull \hbox (106.36998pt too wide) in paragraph at lines 839--859
+Overfull \hbox (106.36998pt too wide) in paragraph at lines 849--869
 \TU/lmr/m/n/10 Norodisk prod-uct [[]]  []
  []
 
 
-Overfull \hbox (11.25pt too wide) in paragraph at lines 839--859
+Overfull \hbox (11.25pt too wide) in paragraph at lines 849--869
 \TU/lmtt/m/n/10 sciencehub.novonordisk.com/content/dam/sciencehub/global/en/cong
 resses-[]and-[]scientific-[]publications/
  []
 
 [6]
-Overfull \hbox (357.37201pt too wide) in paragraph at lines 925--943
+Overfull \hbox (357.37201pt too wide) in paragraph at lines 935--953
 \TU/lmr/m/n/10 ac-tive. In-deed, spec-u-la-tion on ben-e-fi-cial ty-ro-sine anal
 ogs can not be dis-missed.  []
  []
 
 [7] [8]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1167--1168
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1180--1181
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1167--1168
+Underfull \hbox (badness 10000) in paragraph at lines 1180--1181
 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1211--1212
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1224--1225
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1211--1212
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
 
  []
 
 [9] (./nutrient_table.tex) [10]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1413--1436
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1430--1453
 [][]
  []
 
 (./elephant.bbl [11] [12] [13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 652--657
+Underfull \hbox (badness 10000) in paragraph at lines 661--666
 \TU/lmtt/m/n/9 Comprehensive_Guide_to_Geriatric_Rehab/UDwPBAAAQBAJ?hl=en&gbpv=1&
 dq=digestive+malabsorption+elderly+
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 693--698
+Underfull \hbox (badness 3128) in paragraph at lines 702--707
 []\TU/lmr/m/n/9 Jule Klot-ter.  Niaci-namide (nicoti-namide) and alzheimer’s 
 dis-ease.  \TU/lmr/m/it/9 Townsend Let-ter\TU/lmr/m/n/9 , 12 2010.  URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 693--698
+Underfull \hbox (badness 10000) in paragraph at lines 702--707
 [][]$\TU/lmtt/m/n/9 https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleS
 cholar&v=2.1&it=r&linkaccess=abs&issn=
  []
 
 [15]
-Underfull \hbox (badness 4859) in paragraph at lines 782--794
+Underfull \hbox (badness 4859) in paragraph at lines 791--803
 []\TU/lmr/m/n/9 Bowen Lin, Yu Hasegawa, Koki Takane, Nobu-taka Koibuchi, Cheng 
 Cao, and Shokei Kim-Mit-suyama.
  []
@@ -1401,16 +1401,16 @@ Package rerunfilecheck Info: File `elephant.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35592 strings out of 475512
- 745240,1373583 words of node,token memory allocated
- 1440 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 87 attribute, 80 glue_spe
-c, 87 attribute_list, 75 pdf_action nodes
-   avail lists: 1:1,2:5400,3:1270,4:328,5:16297,6:181,7:25679,8:184,9:33014,10:3
+ 35601 strings out of 475512
+ 745239,1373583 words of node,token memory allocated
+ 1450 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 88 attribute, 80 glue_spe
+c, 88 attribute_list, 76 pdf_action nodes
+   avail lists: 1:2,2:5391,3:1283,4:328,5:16270,6:181,7:25676,8:184,9:32960,10:3
 2,11:1998
- 57414 multiletter control sequences out of 65536+600000
+ 57421 multiletter control sequences out of 65536+600000
  81 fonts using 5643927 bytes
- 124i,12n,116p,553b,1753s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,553b,1743s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroma
@@ -1424,10 +1424,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy7.pfb>
-Output written on elephant.pdf (23 pages, 274052 bytes).
+Output written on elephant.pdf (23 pages, 276215 bytes).
 
-PDF statistics: 1025 PDF objects out of 1200 (max. 8388607)
- 954 compressed objects within 10 object streams
- 253 named destinations out of 1000 (max. 131072)
+PDF statistics: 1037 PDF objects out of 1200 (max. 8388607)
+ 966 compressed objects within 10 object streams
+ 255 named destinations out of 1000 (max. 131072)
  184 words of extra memory for PDF output out of 10000 (max. 100000000)
 
