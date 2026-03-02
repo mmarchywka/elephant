@@ -34,45 +34,45 @@ Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
 Warning--empty journal in team_Semaglutide_Mental_Side_Effects_2026
 Warning--can't use both author and editor fields in Varma2023
 Warning--empty booktitle in WU2025273
-You've used 168 entries,
+You've used 169 entries,
             2943 wiz_defined-function locations,
-            2036 strings with 85523 characters,
-and the built_in function-call counts, 95852 in all, are:
-= -- 9892
-> -- 5554
+            2044 strings with 86173 characters,
+and the built_in function-call counts, 96278 in all, are:
+= -- 9940
+> -- 5569
 < -- 31
-+ -- 2121
-- -- 1902
-* -- 7060
-:= -- 14354
-add.period$ -- 668
-call.type$ -- 168
-change.case$ -- 1452
++ -- 2126
+- -- 1906
+* -- 7085
+:= -- 14414
+add.period$ -- 672
+call.type$ -- 169
+change.case$ -- 1457
 chr.to.int$ -- 0
-cite$ -- 176
-duplicate$ -- 2150
-empty$ -- 6825
-format.name$ -- 1902
-if$ -- 23268
+cite$ -- 177
+duplicate$ -- 2162
+empty$ -- 6864
+format.name$ -- 1906
+if$ -- 23381
 int.to.chr$ -- 0
-int.to.str$ -- 168
-missing$ -- 162
-newline$ -- 1006
-num.names$ -- 332
-pop$ -- 2046
+int.to.str$ -- 169
+missing$ -- 163
+newline$ -- 1012
+num.names$ -- 334
+pop$ -- 2057
 preamble$ -- 1
-purify$ -- 1287
+purify$ -- 1291
 quote$ -- 0
-skip$ -- 6025
+skip$ -- 6058
 stack$ -- 0
-substring$ -- 2617
-swap$ -- 802
-text.length$ -- 389
+substring$ -- 2624
+swap$ -- 805
+text.length$ -- 391
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 666
+type$ -- 670
 warning$ -- 8
-while$ -- 423
-width$ -- 171
-write$ -- 2226
+while$ -- 425
+width$ -- 172
+write$ -- 2239
 (There were 15 warnings)

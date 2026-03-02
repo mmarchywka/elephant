@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  27 FEB 2026 19:12
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  1 MAR 2026 19:16
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1271,6 +1271,10 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 415--420
 []$[]$ 
  []
 
+
+Overfull \vbox (1.35669pt too high) has occurred while \output is active []
+
+
 [2] [3]
 Overfull \hbox (23.45999pt too wide) in paragraph at lines 447--448
 [][]
@@ -1325,50 +1329,50 @@ ogs can not be dis-missed.  []
  []
 
 [7] [8]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1180--1181
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1183--1184
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1180--1181
+Underfull \hbox (badness 10000) in paragraph at lines 1183--1184
 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1224--1225
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1227--1228
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1228
 
  []
 
 [9] (./nutrient_table.tex) [10]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1430--1453
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1439--1462
 [][]
  []
 
-(./elephant.bbl [11] [12] [13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 661--666
+[11] (./elephant.bbl [12] [13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 669--674
 \TU/lmtt/m/n/9 Comprehensive_Guide_to_Geriatric_Rehab/UDwPBAAAQBAJ?hl=en&gbpv=1&
 dq=digestive+malabsorption+elderly+
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 702--707
+Underfull \hbox (badness 3128) in paragraph at lines 710--715
 []\TU/lmr/m/n/9 Jule Klot-ter.  Niaci-namide (nicoti-namide) and alzheimer’s 
 dis-ease.  \TU/lmr/m/it/9 Townsend Let-ter\TU/lmr/m/n/9 , 12 2010.  URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--707
+Underfull \hbox (badness 10000) in paragraph at lines 710--715
 [][]$\TU/lmtt/m/n/9 https://go.gale.com/ps/i.do?id=GALE%7CA243290423&sid=googleS
 cholar&v=2.1&it=r&linkaccess=abs&issn=
  []
 
 [15]
-Underfull \hbox (badness 4859) in paragraph at lines 791--803
+Underfull \hbox (badness 4859) in paragraph at lines 799--811
 []\TU/lmr/m/n/9 Bowen Lin, Yu Hasegawa, Koki Takane, Nobu-taka Koibuchi, Cheng 
 Cao, and Shokei Kim-Mit-suyama.
  []
@@ -1397,18 +1401,18 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `elephant.out' has not changed.
-(rerunfilecheck)             Checksum: 3D4546AC058135D3260D25F4D1715980;3632.
+(rerunfilecheck)             Checksum: 3B2158E91B1B603604DBDBDDEA3405A6;3862.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35601 strings out of 475512
- 745239,1373583 words of node,token memory allocated
+ 35609 strings out of 475512
+ 745240,1373583 words of node,token memory allocated
  1450 words of node memory still in use:
    11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 88 attribute, 80 glue_spe
 c, 88 attribute_list, 76 pdf_action nodes
-   avail lists: 1:2,2:5391,3:1283,4:328,5:16270,6:181,7:25676,8:184,9:32960,10:3
-2,11:1998
- 57421 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:5391,3:1287,4:330,5:16270,6:181,7:25656,8:184,9:32960,10:3
+2,11:1994
+ 57427 multiletter control sequences out of 65536+600000
  81 fonts using 5643927 bytes
  124i,12n,116p,553b,1743s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texm
@@ -1424,10 +1428,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy7.pfb>
-Output written on elephant.pdf (23 pages, 276215 bytes).
+Output written on elephant.pdf (23 pages, 276704 bytes).
 
-PDF statistics: 1037 PDF objects out of 1200 (max. 8388607)
- 966 compressed objects within 10 object streams
- 255 named destinations out of 1000 (max. 131072)
- 184 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1050 PDF objects out of 1200 (max. 8388607)
+ 979 compressed objects within 10 object streams
+ 257 named destinations out of 1000 (max. 131072)
+ 192 words of extra memory for PDF output out of 10000 (max. 100000000)
 
