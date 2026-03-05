@@ -1603,3 +1603,54 @@ toobib-date={2026-03-03:17:08:43 Tue Mar 3 05:08:43 PM EST 2026}
 }
 
 
+% mjmhandler: toobib guesspmc
+% date 2026-03-05:12:39:43 Thu Mar 5 12:39:43 PM EST 2026
+% srcurl: https://pmc.ncbi.nlm.nih.gov/articles/PMC10015576/
+% citeurl: eutilsnew -out "/tmp/filet87OqG.outguesses" -v -db pmc -report medline PMC10015576
+
+%CRDT = {2023/03/20 04:04},
+%DCOM = {20230327},
+%DP = {2023 Feb},
+%EDAT = {2023/03/21 06:00},
+%JID = {101477617},
+%LA = {eng},
+%LR = {20240914},
+%MH = {*Alzheimer Disease/history},
+%MHDA = {2023/03/22 06:00},
+%OWN = {NLM},
+%PL = {Romania},
+%PMCR = {2023/02/01},
+%PST = {ppublish},
+%PT = {Editorial},
+%SB = {IM},
+%SO = {J Med Life. 2023 Feb;16(2):173-177. doi: 10.25122/jml-2022-0111.},
+%STAT = {MEDLINE},
+%TA = {J Med Life}
+@missing{PMC10015576,
+X_TooBib = {urldate: FixBeKvp s= cmd=date "+%Y-%m-%d" d=2026-03-05 dn=urldate},
+X_TooBib = {publisher: ReWriteParse be.get(s)= be.get(dest)=},
+X_TooBib = {author: Ciurea , Vlad Alexandru and Covache-Busuioc , Razvan-Adrian and Mohan , Aurel George and Costin , Horia Petre and Voicu , Victor},
+address = {Neurosurgery Department, Carol Davila University of Medicine and Pharmacy, Bucharest, Romania.Neurosurgery Department, Sanador Clinical Hospital, Bucharest, Romania.Carol Davila University of Medicine and Pharmacy, Bucharest, Romania.Department of Neurosurgery, Bihor County Emergency Clinical Hospital, Oradea, Romania.Neurosurgery Department, Faculty of Medicine, Oradea University, Oradea, Romania.Carol Davila University of Medicine and Pharmacy, Bucharest, Romania.Pharmacology, Toxicology and Clinical Psychopharmacology Department, Carol Davila University of Medicine and Pharmacy, Bucharest, Romania.Romanian Academy, Bucharest, Romania.},
+author = {Ciurea , Vlad Alexandru and Covache-Busuioc , Razvan-Adrian and Mohan , Aurel George and Costin , Horia Petre and Voicu , Victor},
+author_orig = {Ciurea, Vlad Alexandru and Covache-Busuioc, Razvan-Adrian and Mohan, Aurel George and Costin, Horia Petre and Voicu, Victor},
+doi = {10.25122/jml-2022-0111},
+issue = {1844-3117 (Electronic)1844-122X (Print)1844-122X (Linking)2},
+journal = {Journal of medicine and life},
+month = {Feb},
+pages = {173-177},
+phst = {2022/09/26 00:00 [received] , 2022/12/29 00:00 [accepted] , 2023/03/20 04:04 [entrez] , 2023/03/21 06:00 [pubmed] , 2023/03/22 06:00 [medline] , 2023/02/01 00:00 [pmc-release]},
+pubtype = {Editorial},
+title = {Alzheimer's disease: 120 years of research and progress.},
+url = {https://pmc.ncbi.nlm.nih.gov/articles/PMC10015576/},
+urldate = {2026-03-05},
+voiume = {16},
+year = {2023},
+final_assembly ={ TooBib handler guesspmc},
+srcurl={https://pmc.ncbi.nlm.nih.gov/articles/PMC10015576/},
+xsrcurl={https://pmc.ncbi.nlm.nih.gov/articles/PMC10015576/},
+citeurl={eutilsnew},
+toobib-date={2026-03-05:12:39:43 Thu Mar 5 12:39:43 PM EST 2026}
+
+}
+
+
