@@ -119,6 +119,14 @@ Liviu Aron, Zhen~Kai Ngian, Chenxi Qiu, Jaejoon Choi, Marianna Liang, Derek~M.
   {https://doi.org/10.1038/s41586-025-09335-x}
   {\path{doi:10.1038/s41586-025-09335-x}}.
 
+\bibitem{Baranova_Cao_Zhang_Causal_effect_COVID19_2023}
+Ancha Baranova, Hongbao Cao, and Fuquan Zhang.
+\newblock Causal effect of covid19 on alzheimer's disease: A mendelian
+  randomization study.
+\newblock {\em Journal of Medical Virology}, 95, 01 2023.
+\newblock \href {https://doi.org/10.1002/jmv.28107}
+  {\path{doi:10.1002/jmv.28107}}.
+
 \bibitem{Behfar2022}
 Q.~Behfar, A.~Ramirez~Zuniga, and Pamela~V. Martino-Adami.
 \newblock Aging, senescence, and dementia.
@@ -143,6 +151,20 @@ Stacie~Z. Berg and Jonathan Berg.
 \newblock {\em Frontiers in Immunology}, 14, 09 2023.
 \newblock \href {https://doi.org/10.3389/fimmu.2023.1228530}
   {\path{doi:10.3389/fimmu.2023.1228530}}.
+
+\bibitem{BernardRaichon_Venzon_Klein_microbiome_dysbiosis_2022}
+Lucie Bernard-Raichon, Mericien Venzon, Jon Klein, Jordan~E. Axelrad, Chenzhen
+  Zhang, Alexis~P. Sullivan, Grant~A. Hussey, Arnau Casanovas-Massana, Maria~G.
+  Noval, Ana~M. Valero-Jimenez, Juan Gago, Gregory Putzel, Alejandro Pironti,
+  Evan Wilder, Lorna~E. Thorpe, Dan~R. Littman, Meike Dittmann, Kenneth~A.
+  Stapleford, Bo~Shopsin, Victor~J. Torres, Albert~I. Ko, Akiko Iwasaki, Ken
+  Cadwell, and Jonas Schluter.
+\newblock Gut microbiome dysbiosis in antibiotic-treated covid-19 patients is
+  associated with microbial translocation and bacteremia.
+\newblock {\em Nature Communications}, 13, 11 2022.
+\newblock URL: \url{https://www.nature.com/articles/s41467-022-33395-6}, \href
+  {https://doi.org/10.1038/s41467-022-33395-6}
+  {\path{doi:10.1038/s41467-022-33395-6}}.
 
 \bibitem{Dementia_CognitiveImprovementGroup_Cholinesterase_inhibitors_Alzheimer_2016}
 Jacqueline~S Birks.
@@ -198,6 +220,15 @@ Maria Jo\~{a}o Botelho, Jelena Milinovic, Narcisa~M. Bandarra, and Carlos Vale.
 \newblock \href {https://doi.org/10.3390/md20040253}
   {\path{doi:10.3390/md20040253}}.
 
+\bibitem{Brickell_Steinbart_Rumbaugh_Early_Onset_Alzheimer_Disease_2006}
+Kiri~L. Brickell, Ellen~J. Steinbart, Malia Rumbaugh, Haydeh Payami, Gerard~D.
+  Schellenberg, Vivianna~Van Deerlin, Wuxing Yuan, and Thomas~D. Bird.
+\newblock Early-onset alzheimer disease in families with late-onset alzheimer
+  disease.
+\newblock {\em Archives of Neurology}, 63, 09 2006.
+\newblock \href {https://doi.org/10.1001/archneur.63.9.1307}
+  {\path{doi:10.1001/archneur.63.9.1307}}.
+
 \bibitem{Brutkiewicz_Cao_Morgan_What_would_take_2025}
 Randy~R. Brutkiewicz, Wei Cao, David Morgan, Roberta~Souza Dos~Reis, Vidyani
   Suryadevara, Auriel~A. Willette, Sara~A. Willette, Season~K. Wyatt-Johnson,
@@ -207,6 +238,21 @@ Randy~R. Brutkiewicz, Wei Cao, David Morgan, Roberta~Souza Dos~Reis, Vidyani
 \newblock {\em Trends in Neurosciences}, 48, 08 2025.
 \newblock \href {https://doi.org/10.1016/j.tins.2025.05.009}
   {\path{doi:10.1016/j.tins.2025.05.009}}.
+
+\bibitem{Burslem_Gottesman_Newkirk_Energy_requirements_critically_2022}
+Ryan Burslem, Kimberly Gottesman, Melanie Newkirk, and Jane Ziegler.
+\newblock Energy requirements for critically ill patients with covid19.
+\newblock {\em Nutrition in Clinical Practice}, 37, 06 2022.
+\newblock \href {https://doi.org/10.1002/ncp.10852}
+  {\path{doi:10.1002/ncp.10852}}.
+
+\bibitem{Cairns_Itzhaki_Kaplan_Potential_Involvement_Varicella_2022}
+Dana~M. Cairns, Ruth~F. Itzhaki, and David~L. Kaplan.
+\newblock Potential involvement of varicella zoster virus in alzheimer's
+  disease via reactivation of quiescent herpes simplex virus type 1.
+\newblock {\em Journal of Alzheimer's Disease}, 88, 08 2022.
+\newblock \href {https://doi.org/10.3233/jad-220287}
+  {\path{doi:10.3233/jad-220287}}.
 
 \bibitem{CamachoSoto_Faust_LauridoSoto_Risk_developing_Alzheimer_2025}
 Alejandra Camacho-Soto, Irene Faust, Osvaldo~J. Laurido-Soto, Jordan~A.
@@ -243,6 +289,17 @@ Federica Cavalcoli, Alessandra Zilli, Dario Conte, and Sara Massironi.
   \href {https://doi.org/10.3748/wjg.v23.i4.563}
   {\path{doi:10.3748/wjg.v23.i4.563}}.
 
+\bibitem{Chacko_Delbaz_Walkden_Chlamydia_pneumoniae_infect_2022}
+Anu Chacko, Ali Delbaz, Heidi Walkden, Souptik Basu, Charles~W. Armitage, Tanja
+  Eindorf, Logan~K. Trim, Edith Miller, Nicholas~P. West, James~A. St~John,
+  Kenneth~W. Beagley, and Jenny~K. Ekberg.
+\newblock Chlamydia pneumoniae can infect the central nervous system via the
+  olfactory and trigeminal nerves and contributes to alzheimer's disease risk.
+\newblock {\em Scientific Reports}, 12, 02 2022.
+\newblock URL: \url{https://www.nature.com/articles/s41598-022-06749-9}, \href
+  {https://doi.org/10.1038/s41598-022-06749-9}
+  {\path{doi:10.1038/s41598-022-06749-9}}.
+
 \bibitem{Chandra_Coile_Mommaerts_What_Economics_2023}
 Amitabh Chandra, Courtney Coile, and Corina Mommaerts.
 \newblock What can economics say about alzheimer's disease?
@@ -278,6 +335,15 @@ He~Chen, Sixing Liu, Shuai Gao, Hangyu Shi, Yan Yan, Yixing Xu, Jiufei Fang,
 \newblock URL: \url{https://www.nature.com/articles/s41598-025-01206-9}, \href
   {https://doi.org/10.1038/s41598-025-01206-9}
   {\path{doi:10.1038/s41598-025-01206-9}}.
+
+\bibitem{Cheng_Peng_Lu_Relationship_between_copper_2022}
+Fu~Cheng, Geng Peng, Yan Lu, Kang Wang, Qinuo Ju, Yongle Ju, and Manzhao
+  Ouyang.
+\newblock Relationship between copper and immunity: The potential role of
+  copper in tumor immunity.
+\newblock {\em Frontiers in Oncology}, 12, 11 2022.
+\newblock \href {https://doi.org/10.3389/fonc.2022.1019153}
+  {\path{doi:10.3389/fonc.2022.1019153}}.
 
 \bibitem{Chojnacki_charvv261siorowska_charvv322awski_Beneficial_Effect_Increased_2023}
 Cezary Chojnacki, Anita~GUx0105[bad char vv=261]siorowska, Tomasz~PopUx0142[bad
@@ -543,6 +609,13 @@ Serena Gali\`{e}, Silvia Canudas, Jananee Muralidharan, Jes\'{u}s
   \href {https://doi.org/10.1093/advances/nmz107}
   {\path{doi:10.1093/advances/nmz107}}.
 
+\bibitem{Ganz2022}
+Tal Ganz, Nina Fainstein, and Tamir Ben-Hur.
+\newblock When the infectious environment meets the ad brain.
+\newblock {\em Molecular Neurodegeneration}, 17(1):53, Aug 2022.
+\newblock \href {https://doi.org/10.1186/s13024-022-00559-3}
+  {\path{doi:10.1186/s13024-022-00559-3}}.
+
 \bibitem{Garibotto_Tessari_Verzola_metabolic_conversion_2002}
 Giacomo Garibotto, Paolo Tessari, Daniela Verzola, and Laura Dertenois.
 \newblock The metabolic conversion of phenylalanine into tyrosine in the human
@@ -579,6 +652,15 @@ Lorenzo Grimaldi, Rosaria~A. Cavallaro, Domenico~De Angelis, Andrea Fuso, and
 \newblock \href {https://doi.org/10.3390/molecules30051027}
   {\path{doi:10.3390/molecules30051027}}.
 
+\bibitem{Grobler_Tongeren_Gettemans_Alzheimer_Disease_2023}
+Corlia Grobler, Marvi~van Tongeren, Jan Gettemans, Douglas~B. Kell, and
+  Etheresia Pretorius.
+\newblock Alzheimer's disease: A systems view provides a unifying explanation
+  of its development.
+\newblock {\em Journal of Alzheimer's Disease}, 91, 01 2023.
+\newblock \href {https://doi.org/10.3233/jad-220720}
+  {\path{doi:10.3233/jad-220720}}.
+
 \bibitem{10.1371/journal.pone.0206155}
 Jiang Haowei, Newman Morgan, and Michael Lardelli.
 \newblock The zebrafish orthologue of familial alzheimer's disease gene
@@ -605,6 +687,15 @@ Zaw~Myo Hein, Barani Karikalan, Prarthana~Kalerammana Gopalakrishna, Krina
 \newblock {\em Molecular Neurobiology}, 63(1):282, Dec 2025.
 \newblock \href {https://doi.org/10.1007/s12035-025-05602-0}
   {\path{doi:10.1007/s12035-025-05602-0}}.
+
+\bibitem{Hernandez-Ruiz2022}
+Virgilio Hernandez-Ruiz, Luc Letenneur, Tamas F{\"u}l{\"o}p, Catherine Helmer,
+  Claire Roubaud-Baudron, Jos{\'e}-Alberto Avila-Funes, and H{\'e}l{\`e}ne
+  Amieva.
+\newblock Infectious diseases and cognition: do we have to worry?
+\newblock {\em Neurological Sciences}, 43(11):6215--6224, Nov 2022.
+\newblock \href {https://doi.org/10.1007/s10072-022-06280-9}
+  {\path{doi:10.1007/s10072-022-06280-9}}.
 
 \bibitem{Hinssen_Mensink_Huppertz_Impact_aging_NBSPon_2025}
 Fenna Hinssen, Marco Mensink, Thom Huppertz, and Nikkie~van der Wielen.
@@ -660,6 +751,15 @@ Aryeh Hurwitz.
   1997.
 \newblock \href {https://doi.org/10.1001/jama.1997.03550080069041}
   {\path{doi:10.1001/jama.1997.03550080069041}}.
+
+\bibitem{10.1371/journal.ppat.1010929}
+Vojtechova Iveta, Machacek Tomas, Kristofikova Zdenka, Stuchlik Ales, and Tomas
+  Petrasek.
+\newblock Infectious origin of alzheimer's disease: Amyloid beta as a component
+  of brain antimicrobial immunity.
+\newblock {\em PLOS Pathogens}, 18(11):1--25, 11 2022.
+\newblock \href {https://doi.org/10.1371/journal.ppat.1010929}
+  {\path{doi:10.1371/journal.ppat.1010929}}.
 
 \bibitem{Jablonski_Chaplin_Human_skin_pigmentation_migration_2012}
 Nina~G. Jablonski and George Chaplin.
@@ -780,6 +880,13 @@ Chrysoula-Evangelia Karachaliou and Evangelia Livaniou.
 \newblock {\em International Journal of Molecular Sciences}, 25, 06 2024.
 \newblock \href {https://doi.org/10.3390/ijms25126578}
   {\path{doi:10.3390/ijms25126578}}.
+
+\bibitem{Karagas_Young_Blue_Spectrum_Genetic_2025}
+Nicholas Karagas, Jessica~E. Young, Elizabeth~E. Blue, and Suman Jayadev.
+\newblock The spectrum of genetic risk in alzheimer disease.
+\newblock {\em Neurology Genetics}, 11, 02 2025.
+\newblock \href {https://doi.org/10.1212/nxg.0000000000200224}
+  {\path{doi:10.1212/nxg.0000000000200224}}.
 
 \bibitem{Karthika2022}
 Chenmala Karthika, Anoop~Pattanoor Appu, Rokeya Akter, Md.~Habibur Rahman,
@@ -1082,6 +1189,14 @@ Paula Martinez-Feduchi, Peng Jin, and Bing Yao.
 \newblock \href {https://doi.org/10.3389/fnmol.2024.1398026}
   {\path{doi:10.3389/fnmol.2024.1398026}}.
 
+\bibitem{Masir_Shirvaliloo_Symptomatology_microbiology_2022}
+Mohamad~Norouzi Masir and Milad Shirvaliloo.
+\newblock Symptomatology and microbiology of the gastrointestinal tract in
+  <scp>postcovid</scp> conditions.
+\newblock {\em JGH Open}, 6, 10 2022.
+\newblock \href {https://doi.org/10.1002/jgh3.12811}
+  {\path{doi:10.1002/jgh3.12811}}.
+
 \bibitem{Matsunaga_Kishi_Annas_Lithium_Treatment_2015}
 Shinji Matsunaga, Taro Kishi, Peter Annas, Hans Basun, Harald Hampel, and Nakao
   Iwata.
@@ -1147,6 +1262,17 @@ Abraham~S. Meijnikman, Max Nieuwdorp, and Bernd Schnabl.
   {https://doi.org/10.1038/s41575-024-00937-w}
   {\path{doi:10.1038/s41575-024-00937-w}}.
 
+\bibitem{Milano_Hoxhaj_Chicca_Alzheimer_Disease_2023}
+Chiara Milano, Domeniko Hoxhaj, Marta~Del Chicca, Alessia Pascazio, Davide
+  Paoli, Luca Tommasini, Andrea Vergallo, Chiara Pizzanelli, Gloria Tognoni,
+  Angelo Nuti, Roberto Ceravolo, Gabriele Siciliano, Harald Hampel, and Filippo
+  Baldacci.
+\newblock Alzheimer's disease and neurosyphilis: Meaningful commonalities and
+  differences of clinical phenotype and pathophysiological biomarkers.
+\newblock {\em Journal of Alzheimer's Disease}, 94, 07 2023.
+\newblock \href {https://doi.org/10.3233/jad-230170}
+  {\path{doi:10.3233/jad-230170}}.
+
 \bibitem{Minalyan2017}
 Artem Minalyan, Lilit Gabrielyan, David Scott, Jonathan Jacobs, and Joseph~R.
   Pisegna.
@@ -1176,12 +1302,30 @@ Mariya~Timotey Miteva, Davide Laurenti, Roberto Mattioli, Daniel Di~Risola,
   {https://doi.org/10.3389/fnut.2026.1676497}
   {\path{doi:10.3389/fnut.2026.1676497}}.
 
+\bibitem{Mostyka_Shia_Neumann_Clinicopathologic_Features_Varicella_2021}
+Maria Mostyka, Jinru Shia, William~L. Neumann, Christa~L. Whitney-Miller,
+  Michael Feely, and Rhonda~K. Yantiss.
+\newblock Clinicopathologic features of varicella zoster virus infection of the
+  upper gastrointestinal tract.
+\newblock {\em American Journal of Surgical Pathology}, 45, 2021.
+\newblock \href {https://doi.org/10.1097/pas.0000000000001576}
+  {\path{doi:10.1097/pas.0000000000001576}}.
+
 \bibitem{Mudher_Lovestone_Alzheimer_disease_2002}
 Amritpal Mudher and Simon Lovestone.
 \newblock Alzheimer's disease - do tauists and baptists finally shake hands?
 \newblock {\em Trends in Neurosciences}, 25, 01 2002.
 \newblock \href {https://doi.org/10.1016/s0166-2236(00)02031-2}
   {\path{doi:10.1016/s0166-2236(00)02031-2}}.
+
+\bibitem{Murdoch_Skaar_Nutritional_immunity_battle_2022}
+Caitlin~C. Murdoch and Eric~P. Skaar.
+\newblock Nutritional immunity: the battle for nutrient metals at the
+  host-pathogen interface.
+\newblock {\em Nature Reviews Microbiology}, 20, 11 2022.
+\newblock URL: \url{https://www.nature.com/articles/s41579-022-00745-6}, \href
+  {https://doi.org/10.1038/s41579-022-00745-6}
+  {\path{doi:10.1038/s41579-022-00745-6}}.
 
 \bibitem{Neto_Esper_Ux201c_char_2025}
 Thomaz~Funari Neto and Emanuela~Ferreira Esper.
@@ -1247,6 +1391,15 @@ Francesco Panza, Vittorio Dibello, Rodolfo Sardone, Roberta Zupo, Fabio
 \newblock \href {https://doi.org/10.1080/14712598.2025.2463963}
   {\path{doi:10.1080/14712598.2025.2463963}}.
 
+\bibitem{Park2022}
+Ah-Mee Park and Ikuo Tsunoda.
+\newblock Helicobacter pylori infection in the stomach induces
+  neuroinflammation: the potential roles of bacterial outer membrane vesicles
+  in an animal model of alzheimer's disease.
+\newblock {\em Inflammation and Regeneration}, 42(1):39, Sep 2022.
+\newblock \href {https://doi.org/10.1186/s41232-022-00224-8}
+  {\path{doi:10.1186/s41232-022-00224-8}}.
+
 \bibitem{PAUL2011895}
 Ligi Paul.
 \newblock Diet, nutrition and telomere length.
@@ -1275,6 +1428,15 @@ Jacob~M. Pfaffinger, Kallie~E. Hays, Jason Seeley, Priyadharshine~Ramesh Babu,
 \newblock {\em Frontiers in Neuroscience}, 19, 08 2025.
 \newblock \href {https://doi.org/10.3389/fnins.2025.1600148}
   {\path{doi:10.3389/fnins.2025.1600148}}.
+
+\bibitem{Piekut_vv322aj_Banaszek_Infectious_agents_Alzheimer_2022}
+Thomas Piekut, MikoUx0142[bad~char vv=322]aj HurUx0142[bad~char vv=322]a,
+  Natalia Banaszek, Paulina Szejn, Jolanta Dorszewska, Wojciech Kozubski, and
+  MichaUx0142[bad~char vv=322] Prendecki.
+\newblock Infectious agents and alzheimer's disease.
+\newblock {\em Journal of Integrative Neuroscience}, 21, 2022.
+\newblock \href {https://doi.org/10.31083/j.jin2102073}
+  {\path{doi:10.31083/j.jin2102073}}.
 
 \bibitem{Poeggeler_Singh_Pappolla_Tryptophan_Nutrition_2022}
 Burkhard Poeggeler, Sandeep~Kumar Singh, and Miguel~A. Pappolla.
@@ -1316,6 +1478,26 @@ Joseph~R. Prohaska and Bruce Brokate.
 \newblock {\em Experimental Biology and Medicine}, 226, 03 2001.
 \newblock \href {https://doi.org/10.1177/153537020122600307}
   {\path{doi:10.1177/153537020122600307}}.
+
+\bibitem{Putcha2025}
+Deepti Putcha, Yuta Katsumi, Alexandra Touroutoglou, Ani Eloyan, Alexander
+  Taurone, Maryanne Thangarajah, Paul Aisen, Jeffrey~L. Dage, Tatiana Foroud,
+  Clifford~R. Jack, Joel~H. Kramer, Kelly~H. Nudelman, Rema Raman, Prashanthi
+  Vemuri, Alireza Atri, Gregory~S. Day, Ranjan Duara, Neill~R. Graff-Radford,
+  Ian~M. Grant, Lawrence~S. Honig, Erik~B. Johnson, David~T. Jones, Joseph~C.
+  Masdeu, Mario~F. Mendez, Erik Musiek, Chiadi~U. Onyike, Meghan Riddle, Emily
+  Rogalski, Stephen Salloway, Sharon Sha, R.~Scott Turner, Thomas~S. Wingo,
+  David~A. Wolk, Kyle Womack, Maria~C. Carrillo, Gil~D. Rabinovici, Bradford~C.
+  Dickerson, Liana~G. Apostolova, Dustin~B. Hammers, {the LEADS Consortium},
+  Laurel Beckett, Bernardino Ghetti, Lea~T. Grinberg, Dustin Hammers,
+  Clifford~R. Jack, Kala Kirby, Robert Koeppe, Walter~A. Kukull, Renaud
+  La~Joie, Julien Lagarde, Melissa~E. Murray, Kathy Newell, Angelina
+  Polsinelli, Arthur Toga, David Clark, Ian Grant, and Lawrence~S. Honig.
+\newblock Heterogeneous clinical phenotypes of sporadic early-onset alzheimer's
+  disease: a neuropsychological data-driven approach.
+\newblock {\em Alzheimer's Research {\&} Therapy}, 17(1):38, Feb 2025.
+\newblock \href {https://doi.org/10.1186/s13195-025-01689-8}
+  {\path{doi:10.1186/s13195-025-01689-8}}.
 
 \bibitem{Qiu2025}
 Lili Qiu, Qianqian Huang, Wenhao Li, Qian Zhang, Jun Zhou, Juan Chen, Yixuan
@@ -1703,6 +1885,15 @@ Andrew~E. Welchman and Zoe Kourtzi.
   \href {https://doi.org/10.1016/j.tjpad.2025.100397}
   {\path{doi:10.1016/j.tjpad.2025.100397}}.
 
+\bibitem{Wu2025}
+Maodong Wu, Lijuan Gao, Qinglun Su, Haibing Wang, Qin Zhao, and Hongxing Wang.
+\newblock Global burden, spatiotemporal disparities, and sex-specific trends of
+  early- and late-onset alzheimer's disease and other dementias: a comparative
+  analysis and projections to 2035.
+\newblock {\em BMC Neurology}, 26(1):1, Nov 2025.
+\newblock \href {https://doi.org/10.1186/s12883-025-04530-9}
+  {\path{doi:10.1186/s12883-025-04530-9}}.
+
 \bibitem{Wu_Pu_Jiang_Enhancing_food_digestion_2025}
 Peng Wu, Shao-Xiu Pu, Mao-Shuai Jiang, Ze-Jun Hu, Chang-Yong Li, Didier Dupont,
   and Xiao-Dong Chen.
@@ -1800,6 +1991,15 @@ Kyung~Man You, Claire-Lise Rosenfield, and Douglas~C. Knipple.
 \newblock {\em Applied and Environmental Microbiology}, 69, 03 2003.
 \newblock \href {https://doi.org/10.1128/aem.69.3.1499-1503.2003}
   {\path{doi:10.1128/aem.69.3.1499-1503.2003}}.
+
+\bibitem{Zhang2024_trp}
+Jingpu Zhang, Yanlei Liu, Xiao Zhi, Li~Xu, Jie Tao, Daxiang Cui, and Tie~Fu
+  Liu.
+\newblock Tryptophan catabolism via the kynurenine pathway regulates infection
+  and inflammation: from mechanisms to biomarkers and therapies.
+\newblock {\em Inflammation Research}, 73(6):979--996, Jun 2024.
+\newblock \href {https://doi.org/10.1007/s00011-024-01878-5}
+  {\path{doi:10.1007/s00011-024-01878-5}}.
 
 \bibitem{PMID41679193}
 Junhan Zhang, Celi Yang, Yuefeng Tan, Muzi Na, Evaniya Shakya, Da~Zhang,
