@@ -4,40 +4,49 @@
 \contentsline {section}{\numberline {}Contents}{2}{section*.3}%
 \tocdepth@restore 
 \contentsline {section}{\numberline {I}Introduction }{4}{section*.4}%
-\contentsline {subsection}{\numberline {I.1} Accumulated Damage Theories }{4}{section*.5}%
-\contentsline {subsection}{\numberline {I.2}Genetic Causes}{5}{section*.6}%
-\contentsline {subsection}{\numberline {I.3}Clues from Transcriptional Associations }{5}{section*.7}%
-\contentsline {subsection}{\numberline {I.4}Infection Hypothesis including Cumulative Damage }{6}{section*.8}%
-\contentsline {subsection}{\numberline {I.5}Gut-Brain Axis Hypotheses }{6}{section*.9}%
-\contentsline {subsection}{\numberline {I.6} Metabolic or Nutrient Hypotheses }{6}{section*.10}%
-\contentsline {subsection}{\numberline {I.7} Various Toxin Hypotheses }{7}{section*.11}%
-\contentsline {section}{\numberline {II} The Present Hypothesis }{7}{section*.12}%
-\contentsline {subsection}{\numberline {II.1}Copper}{10}{section*.13}%
-\contentsline {subsection}{\numberline {II.2}Vitamin K }{10}{section*.14}%
-\contentsline {subsection}{\numberline {II.3}NAD+ }{10}{section*.15}%
-\contentsline {subsection}{\numberline {II.4}Choline }{11}{section*.16}%
-\contentsline {subsection}{\numberline {II.5}Taurine }{11}{section*.17}%
-\contentsline {subsection}{\numberline {II.6}SMVT Substrates }{11}{section*.18}%
-\contentsline {subsection}{\numberline {II.7}Thiamine }{11}{section*.19}%
-\contentsline {subsection}{\numberline {II.8}Lithium }{11}{section*.20}%
-\contentsline {subsection}{\numberline {II.9}Bicarbonate, Chloride, Phosphate }{11}{section*.21}%
-\contentsline {section}{\numberline {III}Common Age-Related Digestion Defects }{12}{section*.22}%
-\contentsline {section}{\numberline {IV}Meal Engineering Considerations }{12}{section*.23}%
-\contentsline {subsection}{\numberline {IV.1} Reduced toxins : chloride and benzoate}{13}{section*.24}%
-\contentsline {subsection}{\numberline {IV.2} Solubility : chloride, protons, phosphate, emulsifiers}{13}{section*.25}%
-\contentsline {subsection}{\numberline {IV.3} Free nutrients }{13}{section*.26}%
-\contentsline {section}{\numberline {V}Candidate Ingredients}{13}{section*.27}%
-\contentsline {section}{\numberline {VI}Development Paths}{13}{section*.28}%
-\contentsline {section}{\numberline {VII}Biggest Problems }{14}{section*.29}%
-\contentsline {section}{\numberline {VIII}Conclusions}{14}{section*.30}%
-\contentsline {section}{\numberline {IX}Supplemental Information}{14}{section*.31}%
-\contentsline {subsection}{\numberline {IX.1}Computer Code}{15}{section*.32}%
-\contentsline {section}{\numberline {X}Bibliography}{15}{section*.33}%
-\contentsline {section}{\numberline {}References}{15}{section*.34}%
-\contentsline {section}{\numberline {}Acknowledgments}{26}{section*.35}%
+\contentsline {subsection}{\numberline {I.1} Some stumbling blocks }{4}{section*.5}%
+\contentsline {subsection}{\numberline {I.2} Accumulated Damage Theories }{5}{section*.6}%
+\contentsline {subsection}{\numberline {I.3}Genetic Causes}{5}{section*.7}%
+\contentsline {subsection}{\numberline {I.4}Clues from Transcriptional Associations }{6}{section*.8}%
+\contentsline {subsection}{\numberline {I.5}Infection Hypothesis including Cumulative Damage }{6}{section*.9}%
+\contentsline {subsection}{\numberline {I.6}Gut-Brain Axis Hypotheses }{7}{section*.10}%
+\contentsline {subsection}{\numberline {I.7} Metabolic or Nutrient Hypotheses }{7}{section*.11}%
+\contentsline {subsection}{\numberline {I.8} Various Toxin Hypotheses }{8}{section*.12}%
+\contentsline {section}{\numberline {II} The Present Hypothesis }{8}{section*.13}%
+\contentsline {subsection}{\numberline {II.1}brain microbiome }{8}{section*.14}%
+\contentsline {subsection}{\numberline {II.2}methanol and auto brewery syndrome }{8}{section*.15}%
+\contentsline {subsection}{\numberline {II.3}benzoate}{9}{section*.16}%
+\contentsline {subsection}{\numberline {II.4}tryptophan}{9}{section*.17}%
+\contentsline {subsection}{\numberline {II.5}histidine}{9}{section*.18}%
+\contentsline {subsection}{\numberline {II.6}arginine}{9}{section*.19}%
+\contentsline {subsection}{\numberline {II.7}glp-1}{10}{section*.20}%
+\contentsline {subsection}{\numberline {II.8}race and sex }{10}{section*.21}%
+\contentsline {subsection}{\numberline {II.9}Copper}{11}{section*.22}%
+\contentsline {subsection}{\numberline {II.10}Vitamin K }{11}{section*.23}%
+\contentsline {subsection}{\numberline {II.11}NAD+ }{12}{section*.24}%
+\contentsline {subsection}{\numberline {II.12}Choline }{12}{section*.25}%
+\contentsline {subsection}{\numberline {II.13}Taurine }{12}{section*.26}%
+\contentsline {subsection}{\numberline {II.14}SMVT Substrates }{12}{section*.27}%
+\contentsline {subsection}{\numberline {II.15}Thiamine }{12}{section*.28}%
+\contentsline {subsection}{\numberline {II.16}Lithium }{12}{section*.29}%
+\contentsline {subsection}{\numberline {II.17}Bicarbonate, Chloride, Phosphate }{13}{section*.30}%
+\contentsline {section}{\numberline {III}Common Age-Related Digestion Defects }{13}{section*.31}%
+\contentsline {section}{\numberline {IV}Meal Engineering Considerations }{14}{section*.32}%
+\contentsline {subsection}{\numberline {IV.1} Reduced toxins : chloride and benzoate}{14}{section*.33}%
+\contentsline {subsection}{\numberline {IV.2} Solubility : chloride, protons, phosphate, emulsifiers}{14}{section*.34}%
+\contentsline {subsection}{\numberline {IV.3} Free nutrients }{14}{section*.35}%
+\contentsline {section}{\numberline {V}Candidate Ingredients}{14}{section*.36}%
+\contentsline {section}{\numberline {VI}Development Paths}{15}{section*.37}%
+\contentsline {section}{\numberline {VII}Biggest Problems }{15}{section*.38}%
+\contentsline {section}{\numberline {VIII}Conclusions}{16}{section*.39}%
+\contentsline {section}{\numberline {IX}Supplemental Information}{16}{section*.40}%
+\contentsline {subsection}{\numberline {IX.1}Computer Code}{16}{section*.41}%
+\contentsline {section}{\numberline {X}Bibliography}{16}{section*.42}%
+\contentsline {section}{\numberline {}References}{16}{section*.43}%
+\contentsline {section}{\numberline {}Acknowledgments}{28}{section*.44}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{27}{section*.36}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{27}{section*.37}%
-\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{27}{section*.38}%
-\contentsline {section}{\numberline {D}General caveats and disclaimer }{27}{section*.39}%
-\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{27}{section*.40}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{29}{section*.45}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{29}{section*.46}%
+\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{29}{section*.47}%
+\contentsline {section}{\numberline {D}General caveats and disclaimer }{29}{section*.48}%
+\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{29}{section*.49}%
