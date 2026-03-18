@@ -7,7 +7,7 @@ Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 11776 items from 5000.
+Reallocated field_info (elt_size=4) to 11832 items from 5000.
 Database file #1: elephantNotes.bib
 Database file #2: elephant.bib
 Warning--entry type for "xxx_Popular_obesity_drug_fails_2025" isn't style-file defined
@@ -22,11 +22,11 @@ Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "xxx_Malabsorption_Syndromes_Influence_" isn't style-file defined
 --line 7679 of file elephant.bib
 Warning--entry type for "PMC7041773" isn't style-file defined
---line 13117 of file elephant.bib
+--line 13251 of file elephant.bib
 Warning--entry type for "PMC5292330" isn't style-file defined
---line 13232 of file elephant.bib
+--line 13366 of file elephant.bib
 Warning--entry type for "PMC10015576" isn't style-file defined
---line 13506 of file elephant.bib
+--line 13640 of file elephant.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
 Warning--to sort, need author or key in xxx_Popular_obesity_drug_fails_2025
@@ -38,45 +38,45 @@ Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
 Warning--empty journal in team_Semaglutide_Mental_Side_Effects_2026
 Warning--can't use both author and editor fields in Varma2023
 Warning--empty booktitle in WU2025273
-You've used 242 entries,
+You've used 244 entries,
             2943 wiz_defined-function locations,
-            2573 strings with 119127 characters,
-and the built_in function-call counts, 139444 in all, are:
-= -- 14236
-> -- 8540
+            2589 strings with 120004 characters,
+and the built_in function-call counts, 140403 in all, are:
+= -- 14336
+> -- 8595
 < -- 32
-+ -- 3261
-- -- 2950
-* -- 10518
-:= -- 21170
-add.period$ -- 963
-call.type$ -- 242
-change.case$ -- 2198
++ -- 3281
+- -- 2968
+* -- 10584
+:= -- 21318
+add.period$ -- 971
+call.type$ -- 244
+change.case$ -- 2213
 chr.to.int$ -- 0
-cite$ -- 251
-duplicate$ -- 2953
-empty$ -- 9627
-format.name$ -- 2950
-if$ -- 33470
+cite$ -- 253
+duplicate$ -- 2973
+empty$ -- 9695
+format.name$ -- 2968
+if$ -- 33705
 int.to.chr$ -- 0
-int.to.str$ -- 242
-missing$ -- 235
-newline$ -- 1449
-num.names$ -- 480
-pop$ -- 2986
+int.to.str$ -- 244
+missing$ -- 237
+newline$ -- 1461
+num.names$ -- 484
+pop$ -- 3005
 preamble$ -- 1
-purify$ -- 1959
+purify$ -- 1972
 quote$ -- 0
-skip$ -- 8554
+skip$ -- 8622
 stack$ -- 0
-substring$ -- 3571
-swap$ -- 1043
-text.length$ -- 548
+substring$ -- 3585
+swap$ -- 1049
+text.length$ -- 552
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 962
+type$ -- 970
 warning$ -- 9
-while$ -- 600
-width$ -- 245
-write$ -- 3199
+while$ -- 604
+width$ -- 247
+write$ -- 3225
 (There were 17 warnings)
