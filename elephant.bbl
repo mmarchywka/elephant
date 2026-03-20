@@ -119,6 +119,16 @@ Liviu Aron, Zhen~Kai Ngian, Chenxi Qiu, Jaejoon Choi, Marianna Liang, Derek~M.
   {https://doi.org/10.1038/s41586-025-09335-x}
   {\path{doi:10.1038/s41586-025-09335-x}}.
 
+\bibitem{PMC10837625}
+Silina Awad, William Skipper, William Vostrejs, Kendall Ozorowski, Kristen Min,
+  Liva Pfuhler, Darshan Mehta, and Amy Cooke.
+\newblock The ybx3 rna-binding protein posttranscriptionally controls slc1a5
+  mrna in proliferating and differentiating skeletal muscle cells.
+\newblock {\em The Journal of biological chemistry}, page 105602, 12 2023.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC10837625/}, \href
+  {https://doi.org/10.1016/j.jbc.2023.105602}
+  {\path{doi:10.1016/j.jbc.2023.105602}}.
+
 \bibitem{Baranova_Cao_Zhang_Causal_effect_COVID19_2023}
 Ancha Baranova, Hongbao Cao, and Fuquan Zhang.
 \newblock Causal effect of covid19 on alzheimer's disease: A mendelian
@@ -238,6 +248,16 @@ Kiri~L. Brickell, Ellen~J. Steinbart, Malia Rumbaugh, Haydeh Payami, Gerard~D.
 \newblock {\em Archives of Neurology}, 63, 09 2006.
 \newblock \href {https://doi.org/10.1001/archneur.63.9.1307}
   {\path{doi:10.1001/archneur.63.9.1307}}.
+
+\bibitem{PMID41855455}
+Jean-Baptiste Brunet~de Courssou, Myriam Edjlali, Jihene Abdelhedi, Anis Neji,
+  Nicolas Villain, Pierre-Adrien Vion, Aurelie Kas, and Sandrine Deltour.
+\newblock Iatrogenic cerebral amyloid angiopathy after cardiac surgery: Two
+  case reports.
+\newblock {\em Neurology}, page e214819, 03 2026.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/41855455/}, \href
+  {https://doi.org/10.1212/WNL.0000000000214819}
+  {\path{doi:10.1212/WNL.0000000000214819}}.
 
 \bibitem{Brutkiewicz_Cao_Morgan_What_would_take_2025}
 Randy~R. Brutkiewicz, Wei Cao, David Morgan, Roberta~Souza Dos~Reis, Vidyani
@@ -401,6 +421,16 @@ Tara Conway, Karin Seidler, and Michelle Barrow.
   \url{https://www.sciencedirect.com/science/article/pii/S2405457724013287},
   \href {https://doi.org/10.1016/j.clnesp.2024.09.024}
   {\path{doi:10.1016/j.clnesp.2024.09.024}}.
+
+\bibitem{Cooke_Schwarzl_Huppertz_Binding_Protein_2019}
+Amy Cooke, Thomas Schwarzl, Ina Huppertz, Gertjan Kramer, Panagiotis Mantas,
+  Anne-Marie Alleaume, Wolfgang Huber, Jeroen Krijgsveld, and Matthias~W.
+  Hentze.
+\newblock The rna-binding protein ybx3 controls amino acid levels by regulating
+  slc mrna abundance.
+\newblock {\em Cell Reports}, 27, 06 2019.
+\newblock \href {https://doi.org/10.1016/j.celrep.2019.05.039}
+  {\path{doi:10.1016/j.celrep.2019.05.039}}.
 
 \bibitem{Cooper_P3400_Biotin_deficiency_2008}
 Janelle~L. Cooper.
@@ -1142,6 +1172,15 @@ Hongwei Li, Changhua Shi, Keya Li, Xinjing Fu, Ying Lyu, Yanfeng Xu, Yunlin
   \url{https://onlinelibrary.wiley.com/doi/full/10.1002/ame2.70142}, \href
   {https://doi.org/10.1002/ame2.70142} {\path{doi:10.1002/ame2.70142}}.
 
+\bibitem{Li_Wang_Ma_Alternative_splicing_aging_2017}
+Huan Li, Ziyue Wang, Tianyi Ma, Gang Wei, and Ting Ni.
+\newblock Alternative splicing in aging and age-related diseases.
+\newblock {\em Translational Medicine of Aging}, 1:32--40, 2017.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S246850111730007X},
+  \href {https://doi.org/10.1016/j.tma.2017.09.005}
+  {\path{doi:10.1016/j.tma.2017.09.005}}.
+
 \bibitem{Li_Mou_Yao_Brain_Axis_2025}
 Jinhe Li, Huilin Mou, and Ranran Yao.
 \newblock Gut-brain axis and a systematic approach to alzheimer's disease
@@ -1236,6 +1275,15 @@ Jiankang Liu and Bruce~N. Ames.
 \newblock {\em Nutritional Neuroscience}, 8.
 \newblock \href {https://doi.org/10.1080/10284150500047161}
   {\path{doi:10.1080/10284150500047161}}.
+
+\bibitem{Love_Hayden_Rohn_Alternative_Splicing_Alzheimer_2015}
+Julia~E Love, Eric~J Hayden, and Troy~T Rohn.
+\newblock Alternative splicing in alzheimer's disease.
+\newblock {\em Journal of Parkinson's disease and Alzheimer's disease}, 08
+  2015.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC4772657/}, \href
+  {https://doi.org/10.13188/2376-922X.1000010}
+  {\path{doi:10.13188/2376-922X.1000010}}.
 
 \bibitem{Lyu_Meng_Hu_Mechanisms_mitophagy_2024}
 Yujie Lyu, Zhipeng Meng, Yunyun Hu, Bing Jiang, Jiao Yang, Yiqin Chen, Jun
@@ -1867,6 +1915,16 @@ Harsh Shah, Fereshteh Dehghani, Marjan Ramezan, Ritchel~B. Gannaban,
 \newblock \href {https://doi.org/10.3390/antiox12020415}
   {\path{doi:10.3390/antiox12020415}}.
 
+\bibitem{Shahnaee_Liu_Ngo_isoform_diversity_splicing_2026}
+Anis Shahnaee, Christine~S. Liu, Tony Ngo, Carter~R. Palmer, Derya Ziomek,
+  Chris Park, Valerie~P. Tan, Natalia~L. Jimenez, and Jerold Chun.
+\newblock Rna isoform diversity, splicing variants and switching in single
+  cells of the alzheimer's disease brain.
+\newblock {\em Communications Biology}, 03 2026.
+\newblock URL: \url{https://www.nature.com/articles/s42003-026-09759-9}, \href
+  {https://doi.org/10.1038/s42003-026-09759-9}
+  {\path{doi:10.1038/s42003-026-09759-9}}.
+
 \bibitem{Shannon_Mathers_Stevenson_Healthy_dietary_patterns_cognition_2025}
 Oliver~M. Shannon, John~C. Mathers, Emma Stevenson, and Mario Siervo.
 \newblock Healthy dietary patterns, cognition and dementia risk: current
@@ -2086,6 +2144,16 @@ Natascha Verhagen, Andy~Wiranata Wijaya, Attila Teleki, Muhammad Fadhlullah,
 \newblock {\em Engineering in life sciences}, pages 384--394, 06 2020.
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC7481768/}, \href
   {https://doi.org/10.1002/elsc.202000017} {\path{doi:10.1002/elsc.202000017}}.
+
+\bibitem{PMC12626415}
+David Wang, Matthew~R Gazzara, San Jewell, Benjamin~D Wales-McGrath, Kevin
+  Yang, Christopher~D Brown, Peter~S Choi, and Yoseph Barash.
+\newblock A deep dive into statistical modeling of rna splicing qtls reveals
+  variants that explain neurodegenerative disease.
+\newblock {\em American journal of human genetics}, pages 3010--3029, 11 2025.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC12626415/}, \href
+  {https://doi.org/10.1016/j.ajhg.2025.10.012}
+  {\path{doi:10.1016/j.ajhg.2025.10.012}}.
 
 \bibitem{doi:10.1161/HYPERTENSIONAHA.116.08581}
 Xiaodi Wang, Wen Chen, Jie Zhang, Aiman Khan, Liangpeng Li, Fuhua Huang,
