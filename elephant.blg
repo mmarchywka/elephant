@@ -7,7 +7,7 @@ Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 11832 items from 5000.
+Reallocated field_info (elt_size=4) to 11860 items from 5000.
 Database file #1: elephantNotes.bib
 Database file #2: elephant.bib
 Warning--entry type for "xxx_Popular_obesity_drug_fails_2025" isn't style-file defined
@@ -29,6 +29,7 @@ Warning--entry type for "PMC10015576" isn't style-file defined
 --line 13640 of file elephant.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
+Warning--I didn't find a database entry for "Li_Wang_Ma_Alternative_splicing_aging_2017"
 Warning--to sort, need author or key in xxx_Popular_obesity_drug_fails_2025
 Warning--to sort, need author or key in xxx_Malabsorption_Syndromes_Influence_
 Warning--can't use both author and editor fields in Dryden2004
@@ -40,7 +41,7 @@ Warning--can't use both author and editor fields in Varma2023
 Warning--empty booktitle in WU2025273
 You've used 244 entries,
             2943 wiz_defined-function locations,
-            2589 strings with 120004 characters,
+            2591 strings with 120088 characters,
 and the built_in function-call counts, 140403 in all, are:
 = -- 14336
 > -- 8595
@@ -79,4 +80,4 @@ warning$ -- 9
 while$ -- 604
 width$ -- 247
 write$ -- 3225
-(There were 17 warnings)
+(There were 18 warnings)
