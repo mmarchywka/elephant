@@ -211,6 +211,14 @@ John~P. Blass.
 \newblock \href {https://doi.org/10.1001/archneur.1988.00520320019008}
   {\path{doi:10.1001/archneur.1988.00520320019008}}.
 
+\bibitem{Blonz_Alzheimer_Disease_2017}
+Edward~R. Blonz.
+\newblock Alzheimer's disease as the product of a progressive energy deficiency
+  syndrome in the central nervous system: The neuroenergetic hypothesis.
+\newblock {\em Journal of Alzheimer's Disease}, 60, 11 2017.
+\newblock \href {https://doi.org/10.3233/jad-170549}
+  {\path{doi:10.3233/jad-170549}}.
+
 \bibitem{Blum_Badgaiyan_Dunston_DRD2_Taq1A_2018}
 Kenneth Blum, Rajendra~D. Badgaiyan, Georgia~M. Dunston, David Baron, Edward~J.
   Modestino, Thomas McLaughlin, Bruce Steinberg, Mark~S. Gold, and Marjorie~C.
@@ -520,6 +528,13 @@ Akila De~Silva and Stephen~R Bloom.
   {https://doi.org/10.5009/gnl.2012.6.1.10}
   {\path{doi:10.5009/gnl.2012.6.1.10}}.
 
+\bibitem{Demetrius_Simon_inverse_Warburg_effect_2012}
+Lloyd~A. Demetrius and David~K. Simon.
+\newblock An inverse-warburg effect and the origin of alzheimer's disease.
+\newblock {\em Biogerontology}, 13, 12 2012.
+\newblock \href {https://doi.org/10.1007/s10522-012-9403-6}
+  {\path{doi:10.1007/s10522-012-9403-6}}.
+
 \bibitem{Dhapola2024}
 Rishika Dhapola, Prajjwal Sharma, Sneha Kumari, Jasvinder~Singh Bhatti, and
   Dibbanti HariKrishnaReddy.
@@ -599,6 +614,14 @@ Ebru Emekli-Alturfan and A.~Ata Alturfan.
 \newblock {\em Molecular Biology Reports}, 50(1):815--828, Jan 2023.
 \newblock \href {https://doi.org/10.1007/s11033-022-07925-w}
   {\path{doi:10.1007/s11033-022-07925-w}}.
+
+\bibitem{Erol_Integrated_Unifying_2008}
+Adnan Erol.
+\newblock An integrated and unifying hypothesis for the metabolic basis of
+  sporadic alzheimer's disease.
+\newblock {\em Journal of Alzheimer's Disease}, 13, 04 2008.
+\newblock \href {https://doi.org/10.3233/jad-2008-13302}
+  {\path{doi:10.3233/jad-2008-13302}}.
 
 \bibitem{Fallows_Malnutrition_with_2025}
 Ellen Fallows.
@@ -800,6 +823,25 @@ Fenna Hinssen, Marco Mensink, Thom Huppertz, and Nikkie~van der Wielen.
 \newblock \href {https://doi.org/10.1080/10408398.2024.2433598}
   {\path{doi:10.1080/10408398.2024.2433598}}.
 
+\bibitem{PMID41860361}
+Poul~F Hoilund-Carlsen, Abass Alavi, Tommaso Costa, Rachael~L Neve,
+  Mona-Elisabeth Revheim, and Jorge~R Barrio.
+\newblock Serious doubts about amyloid-beta (abeta) biomarkers and anti-abeta
+  immunotherapy., 03 2026.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/41860361/}, \href
+  {https://doi.org/10.1177/13872877261417548}
+  {\path{doi:10.1177/13872877261417548}}.
+
+\bibitem{Hölscher2025}
+Christian H{\"o}lscher.
+\newblock Incretin hormones glp-1 and gip normalize energy utilization and
+  reduce inflammation in the brain in alzheimer's disease and parkinson's
+  disease: From repurposed glp-1 receptor agonists to novel dual glp-1/gip
+  receptor agonists as potential disease-modifying therapies.
+\newblock {\em CNS Drugs}, 39(12):1201--1220, Dec 2025.
+\newblock \href {https://doi.org/10.1007/s40263-025-01226-z}
+  {\path{doi:10.1007/s40263-025-01226-z}}.
+
 \bibitem{Holt_Intestinal_Malabsorption_2007}
 Peter~R. Holt.
 \newblock Intestinal malabsorption in the elderly.
@@ -855,6 +897,13 @@ Vojtechova Iveta, Machacek Tomas, Kristofikova Zdenka, Stuchlik Ales, and Tomas
 \newblock {\em PLOS Pathogens}, 18(11):1--25, 11 2022.
 \newblock \href {https://doi.org/10.1371/journal.ppat.1010929}
   {\path{doi:10.1371/journal.ppat.1010929}}.
+
+\bibitem{JMurray_Proza_Sohrabji_Vascular_metabolic_dysfunction_2011}
+Ian~V J~Murray, Joseph~F Proza, Farida Sohrabji, and John~M Lawler.
+\newblock Vascular and metabolic dysfunction in alzheimer's disease: a review.
+\newblock {\em Experimental Biology and Medicine}, 236, 07 2011.
+\newblock \href {https://doi.org/10.1258/ebm.2011.010355}
+  {\path{doi:10.1258/ebm.2011.010355}}.
 
 \bibitem{Jablonski_Chaplin_Human_skin_pigmentation_migration_2012}
 Nina~G. Jablonski and George Chaplin.
@@ -1198,6 +1247,14 @@ S~W Li, M~Arita, A~Fertala, Y~Bao, G~C Kopen, T~K Lngsj, M~M Hyttinen, H~J
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC1221736/}, \href
   {https://doi.org/10.1042/0264-6021:3550271}
   {\path{doi:10.1042/0264-6021:3550271}}.
+
+\bibitem{Li_Huang_Wang_2025}
+Shujun Li, Nanqu Huang, Mei Wang, Wendi Huang, Jingshan Shi, Yong Luo, and Juan
+  Huang.
+\newblock Glp-1r as a potential link between diabetes and alzheimer's disease.
+\newblock {\em Frontiers in Aging Neuroscience}, 17, 07 2025.
+\newblock \href {https://doi.org/10.3389/fnagi.2025.1601602}
+  {\path{doi:10.3389/fnagi.2025.1601602}}.
 
 \bibitem{Li2025}
 Zuguang Li, Juan Zhang, Zhiqiang Liu, Lu~Yu, Chunqing Yang, Luoman Zhang,
@@ -1802,6 +1859,14 @@ May~J Reed, Mamatha Damodarasamy, and William~A Banks.
   {https://doi.org/10.1080/21688370.2019.1651157}
   {\path{doi:10.1080/21688370.2019.1651157}}.
 
+\bibitem{Reser_Alzheimer_disease_2009}
+Jared~Edward Reser.
+\newblock Alzheimer's disease and natural cognitive aging may represent
+  adaptive metabolism reduction programs.
+\newblock {\em Behavioral and Brain Functions}, 5(1):13, Feb 2009.
+\newblock \href {https://doi.org/10.1186/1744-9081-5-13}
+  {\path{doi:10.1186/1744-9081-5-13}}.
+
 \bibitem{PMC6502219}
 Kryssia~Isabel Rodriguez-Castro, Marilisa Franceschi, Antonino Noto, Chiara
   Miraglia, Antonio Nouvenne, Gioacchino Leandro, Tiziana Meschi, Gian~Luigi
@@ -2154,6 +2219,14 @@ David Wang, Matthew~R Gazzara, San Jewell, Benjamin~D Wales-McGrath, Kevin
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC12626415/}, \href
   {https://doi.org/10.1016/j.ajhg.2025.10.012}
   {\path{doi:10.1016/j.ajhg.2025.10.012}}.
+
+\bibitem{Wang_Shi_Xin_Exploring_role_2025}
+Shilei Wang, Yuqing Shi, Rui Xin, Hailan Kang, Huazhong Xiong, and Jixiang Ren.
+\newblock Exploring the role of insulin resistance in bridging the metabolic
+  syndrome and alzheimer's disease-a review of mechanistic studies.
+\newblock {\em Frontiers in Endocrinology}, 16, 10 2025.
+\newblock \href {https://doi.org/10.3389/fendo.2025.1614006}
+  {\path{doi:10.3389/fendo.2025.1614006}}.
 
 \bibitem{doi:10.1161/HYPERTENSIONAHA.116.08581}
 Xiaodi Wang, Wen Chen, Jie Zhang, Aiman Khan, Liangpeng Li, Fuhua Huang,

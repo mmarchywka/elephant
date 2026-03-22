@@ -7,7 +7,7 @@ Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 12028 items from 5000.
+Reallocated field_info (elt_size=4) to 12280 items from 5000.
 Database file #1: elephantNotes.bib
 Database file #2: elephant.bib
 Warning--entry type for "xxx_Popular_obesity_drug_fails_2025" isn't style-file defined
@@ -22,13 +22,16 @@ Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "xxx_Malabsorption_Syndromes_Influence_" isn't style-file defined
 --line 7679 of file elephant.bib
 Warning--entry type for "PMC7041773" isn't style-file defined
---line 13456 of file elephant.bib
+--line 13909 of file elephant.bib
 Warning--entry type for "PMC5292330" isn't style-file defined
---line 13571 of file elephant.bib
+--line 14024 of file elephant.bib
 Warning--entry type for "PMC10015576" isn't style-file defined
---line 13845 of file elephant.bib
+--line 14298 of file elephant.bib
+Warning--entry type for "PMID41860361" isn't style-file defined
+--line 14528 of file elephant.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Warning--to sort, need author or key in xxx_Popular_obesity_drug_fails_2025
 Warning--to sort, need author or key in xxx_Malabsorption_Syndromes_Influence_
 Warning--can't use both author and editor fields in Dryden2004
@@ -38,45 +41,45 @@ Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
 Warning--empty journal in team_Semaglutide_Mental_Side_Effects_2026
 Warning--can't use both author and editor fields in Varma2023
 Warning--empty booktitle in WU2025273
-You've used 251 entries,
+You've used 260 entries,
             2943 wiz_defined-function locations,
-            2646 strings with 126445 characters,
-and the built_in function-call counts, 145103 in all, are:
-= -- 14823
-> -- 8880
+            2708 strings with 130032 characters,
+and the built_in function-call counts, 149187 in all, are:
+= -- 15259
+> -- 9065
 < -- 35
-+ -- 3393
-- -- 3068
-* -- 10929
-:= -- 22001
-add.period$ -- 999
-call.type$ -- 251
-change.case$ -- 2284
++ -- 3462
+- -- 3126
+* -- 11198
+:= -- 22605
+add.period$ -- 1034
+call.type$ -- 260
+change.case$ -- 2340
 chr.to.int$ -- 0
-cite$ -- 260
-duplicate$ -- 3098
-empty$ -- 10011
-format.name$ -- 3068
-if$ -- 34848
+cite$ -- 269
+duplicate$ -- 3189
+empty$ -- 10343
+format.name$ -- 3126
+if$ -- 35875
 int.to.chr$ -- 0
-int.to.str$ -- 251
-missing$ -- 244
-newline$ -- 1503
-num.names$ -- 498
-pop$ -- 3114
+int.to.str$ -- 260
+missing$ -- 252
+newline$ -- 1556
+num.names$ -- 516
+pop$ -- 3197
 preamble$ -- 1
-purify$ -- 2036
+purify$ -- 2083
 quote$ -- 0
-skip$ -- 8908
+skip$ -- 9208
 stack$ -- 0
-substring$ -- 3716
-swap$ -- 1109
-text.length$ -- 571
+substring$ -- 3818
+swap$ -- 1136
+text.length$ -- 589
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 998
+type$ -- 1034
 warning$ -- 9
-while$ -- 623
-width$ -- 254
-write$ -- 3320
-(There were 17 warnings)
+while$ -- 644
+width$ -- 263
+write$ -- 3435
+(There were 18 warnings)
