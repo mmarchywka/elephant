@@ -7,7 +7,7 @@ Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 12280 items from 5000.
+Reallocated field_info (elt_size=4) to 12420 items from 5000.
 Database file #1: elephantNotes.bib
 Database file #2: elephant.bib
 Warning--entry type for "xxx_Popular_obesity_drug_fails_2025" isn't style-file defined
@@ -16,22 +16,22 @@ Warning--I'm ignoring doi:10.1021/acsomega.5c09713's extra "url" field
 --line 6980 of file elephant.bib
 Warning--I'm ignoring doi:10.1021/acs.iecr.9b03588's extra "url" field
 --line 7114 of file elephant.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "Camilleri_aging_gastrointestinal_tract_2022" isn't style-file defined
 --line 7388 of file elephant.bib
-Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "xxx_Malabsorption_Syndromes_Influence_" isn't style-file defined
 --line 7679 of file elephant.bib
 Warning--entry type for "PMC7041773" isn't style-file defined
---line 13909 of file elephant.bib
+--line 14015 of file elephant.bib
 Warning--entry type for "PMC5292330" isn't style-file defined
---line 14024 of file elephant.bib
+--line 14130 of file elephant.bib
 Warning--entry type for "PMC10015576" isn't style-file defined
---line 14298 of file elephant.bib
+--line 14404 of file elephant.bib
 Warning--entry type for "PMID41860361" isn't style-file defined
---line 14528 of file elephant.bib
+--line 14634 of file elephant.bib
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
-Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Warning--to sort, need author or key in xxx_Popular_obesity_drug_fails_2025
 Warning--to sort, need author or key in xxx_Malabsorption_Syndromes_Influence_
 Warning--can't use both author and editor fields in Dryden2004
@@ -41,45 +41,45 @@ Warning--empty year in Liu_Ames_Reducing_mitochondrial_decay_with_
 Warning--empty journal in team_Semaglutide_Mental_Side_Effects_2026
 Warning--can't use both author and editor fields in Varma2023
 Warning--empty booktitle in WU2025273
-You've used 260 entries,
+You've used 265 entries,
             2943 wiz_defined-function locations,
-            2708 strings with 130032 characters,
-and the built_in function-call counts, 149187 in all, are:
-= -- 15259
-> -- 9065
-< -- 35
-+ -- 3462
-- -- 3126
-* -- 11198
-:= -- 22605
-add.period$ -- 1034
-call.type$ -- 260
-change.case$ -- 2340
+            2748 strings with 135603 characters,
+and the built_in function-call counts, 152144 in all, are:
+= -- 15566
+> -- 9240
+< -- 36
++ -- 3529
+- -- 3186
+* -- 11413
+:= -- 23043
+add.period$ -- 1054
+call.type$ -- 265
+change.case$ -- 2385
 chr.to.int$ -- 0
-cite$ -- 269
-duplicate$ -- 3189
-empty$ -- 10343
-format.name$ -- 3126
-if$ -- 35875
+cite$ -- 274
+duplicate$ -- 3262
+empty$ -- 10552
+format.name$ -- 3186
+if$ -- 36597
 int.to.chr$ -- 0
-int.to.str$ -- 260
-missing$ -- 252
-newline$ -- 1556
-num.names$ -- 516
-pop$ -- 3197
+int.to.str$ -- 265
+missing$ -- 257
+newline$ -- 1586
+num.names$ -- 526
+pop$ -- 3267
 preamble$ -- 1
-purify$ -- 2083
+purify$ -- 2123
 quote$ -- 0
-skip$ -- 9208
+skip$ -- 9391
 stack$ -- 0
-substring$ -- 3818
-swap$ -- 1136
-text.length$ -- 589
+substring$ -- 3885
+swap$ -- 1164
+text.length$ -- 602
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1034
+type$ -- 1054
 warning$ -- 9
-while$ -- 644
-width$ -- 263
-write$ -- 3435
+while$ -- 656
+width$ -- 268
+write$ -- 3502
 (There were 18 warnings)

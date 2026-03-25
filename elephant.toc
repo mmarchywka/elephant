@@ -10,50 +10,50 @@
 \contentsline {subsection}{\numberline {I.4}Clues from Transcriptional Associations }{7}{section*.8}%
 \contentsline {subsection}{\numberline {I.5}Infection Hypothesis including Cumulative Damage }{8}{section*.9}%
 \contentsline {subsection}{\numberline {I.6}Gut-Brain Axis Hypotheses }{8}{section*.10}%
-\contentsline {subsection}{\numberline {I.7} Metabolic theories }{8}{section*.11}%
+\contentsline {subsection}{\numberline {I.7} Metabolic theories }{9}{section*.11}%
 \contentsline {subsection}{\numberline {I.8} Nutrient Hypotheses }{9}{section*.12}%
 \contentsline {subsection}{\numberline {I.9} Various Toxin Hypotheses }{9}{section*.13}%
-\contentsline {section}{\numberline {II} The Present Hypothesis }{9}{section*.14}%
+\contentsline {section}{\numberline {II} The Present Hypothesis }{10}{section*.14}%
 \contentsline {subsection}{\numberline {II.1}brain microbiome }{10}{section*.15}%
 \contentsline {subsection}{\numberline {II.2}methanol and auto brewery syndrome }{10}{section*.16}%
-\contentsline {subsection}{\numberline {II.3}benzoate}{10}{section*.17}%
-\contentsline {subsection}{\numberline {II.4}tryptophan}{10}{section*.18}%
+\contentsline {subsection}{\numberline {II.3}benzoate}{11}{section*.17}%
+\contentsline {subsection}{\numberline {II.4}tryptophan}{11}{section*.18}%
 \contentsline {subsection}{\numberline {II.5}histidine}{11}{section*.19}%
-\contentsline {subsection}{\numberline {II.6}arginine}{11}{section*.20}%
-\contentsline {subsection}{\numberline {II.7}glp-1}{11}{section*.21}%
+\contentsline {subsection}{\numberline {II.6}arginine}{12}{section*.20}%
+\contentsline {subsection}{\numberline {II.7}glp-1}{12}{section*.21}%
 \contentsline {subsection}{\numberline {II.8}race and sex }{12}{section*.22}%
 \contentsline {subsection}{\numberline {II.9}Copper}{13}{section*.23}%
-\contentsline {subsection}{\numberline {II.10}Vitamin K }{13}{section*.24}%
-\contentsline {subsection}{\numberline {II.11}NAD+ }{13}{section*.25}%
-\contentsline {subsection}{\numberline {II.12}Choline }{13}{section*.26}%
-\contentsline {subsection}{\numberline {II.13}Taurine }{13}{section*.27}%
+\contentsline {subsection}{\numberline {II.10}Vitamin K }{14}{section*.24}%
+\contentsline {subsection}{\numberline {II.11}NAD+ }{14}{section*.25}%
+\contentsline {subsection}{\numberline {II.12}Choline }{14}{section*.26}%
+\contentsline {subsection}{\numberline {II.13}Taurine }{14}{section*.27}%
 \contentsline {subsection}{\numberline {II.14}SMVT Substrates }{14}{section*.28}%
 \contentsline {subsection}{\numberline {II.15}Thiamine }{14}{section*.29}%
 \contentsline {subsection}{\numberline {II.16}Lithium }{14}{section*.30}%
-\contentsline {subsection}{\numberline {II.17}Bicarbonate, Chloride, Phosphate }{14}{section*.31}%
-\contentsline {section}{\numberline {III}Common Age-Related Digestion Defects }{14}{section*.32}%
-\contentsline {subsection}{\numberline {III.1} GI chemistry }{15}{section*.33}%
-\contentsline {subsection}{\numberline {III.2} incomplete digestion }{15}{section*.34}%
-\contentsline {subsection}{\numberline {III.3} neutralization of any possible ingested toxins. }{15}{section*.35}%
-\contentsline {subsection}{\numberline {III.4}insoluble formation, solubility enhanacement }{15}{section*.36}%
-\contentsline {subsection}{\numberline {III.5} microbial or spontaneous toxin formation }{15}{section*.37}%
-\contentsline {subsection}{\numberline {III.6} GI surface quality and transporter expression }{15}{section*.38}%
+\contentsline {subsection}{\numberline {II.17}Bicarbonate, Chloride, Phosphate }{15}{section*.31}%
+\contentsline {section}{\numberline {III}Common Age-Related Digestion Defects }{15}{section*.32}%
+\contentsline {subsection}{\numberline {III.1} GI chemistry }{16}{section*.33}%
+\contentsline {subsection}{\numberline {III.2} incomplete digestion }{16}{section*.34}%
+\contentsline {subsection}{\numberline {III.3} neutralization of any possible ingested toxins. }{16}{section*.35}%
+\contentsline {subsection}{\numberline {III.4}insoluble formation, solubility enhanacement }{16}{section*.36}%
+\contentsline {subsection}{\numberline {III.5} microbial or spontaneous toxin formation }{16}{section*.37}%
+\contentsline {subsection}{\numberline {III.6} GI surface quality and transporter expression }{16}{section*.38}%
 \contentsline {section}{\numberline {IV}Meal Engineering Considerations }{16}{section*.39}%
 \contentsline {subsection}{\numberline {IV.1} Reduced toxins : chloride and benzoate}{16}{section*.40}%
 \contentsline {subsection}{\numberline {IV.2} Solubility : chloride, protons, phosphate, emulsifiers}{16}{section*.41}%
 \contentsline {subsection}{\numberline {IV.3} Free nutrients }{16}{section*.42}%
 \contentsline {section}{\numberline {V}Candidate Ingredients}{16}{section*.43}%
 \contentsline {section}{\numberline {VI}Development Paths}{17}{section*.44}%
-\contentsline {section}{\numberline {VII}Biggest Problems }{17}{section*.45}%
-\contentsline {section}{\numberline {VIII}Conclusions}{17}{section*.46}%
+\contentsline {section}{\numberline {VII}Biggest Problems }{18}{section*.45}%
+\contentsline {section}{\numberline {VIII}Conclusions}{18}{section*.46}%
 \contentsline {section}{\numberline {IX}Supplemental Information}{18}{section*.47}%
 \contentsline {subsection}{\numberline {IX.1}Computer Code}{18}{section*.48}%
-\contentsline {section}{\numberline {X}Bibliography}{18}{section*.49}%
-\contentsline {section}{\numberline {}References}{18}{section*.50}%
-\contentsline {section}{\numberline {}Acknowledgments}{31}{section*.51}%
+\contentsline {section}{\numberline {X}Bibliography}{19}{section*.49}%
+\contentsline {section}{\numberline {}References}{19}{section*.50}%
+\contentsline {section}{\numberline {}Acknowledgments}{32}{section*.51}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{32}{section*.52}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{32}{section*.53}%
-\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{32}{section*.54}%
-\contentsline {section}{\numberline {D}General caveats and disclaimer }{32}{section*.55}%
-\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{32}{section*.56}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{33}{section*.52}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{33}{section*.53}%
+\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{33}{section*.54}%
+\contentsline {section}{\numberline {D}General caveats and disclaimer }{33}{section*.55}%
+\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{33}{section*.56}%
