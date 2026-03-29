@@ -393,6 +393,17 @@ He~Chen, Sixing Liu, Shuai Gao, Hangyu Shi, Yan Yan, Yixing Xu, Jiufei Fang,
   {https://doi.org/10.1038/s41598-025-01206-9}
   {\path{doi:10.1038/s41598-025-01206-9}}.
 
+\bibitem{Chen_Zhong_Antibacterial_activity_acidified_2018}
+Huaiqiong Chen and Qixin Zhong.
+\newblock Antibacterial activity of acidified sodium benzoate against
+  escherichia coli o157:h7, salmonella enterica, and listeria monocytogenes in
+  tryptic soy broth and on cherry tomatoes.
+\newblock {\em International Journal of Food Microbiology}, 274:38--44, 2018.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0168160518301016},
+  \href {https://doi.org/10.1016/j.ijfoodmicro.2018.03.017}
+  {\path{doi:10.1016/j.ijfoodmicro.2018.03.017}}.
+
 \bibitem{Cheng_Peng_Lu_Relationship_between_copper_2022}
 Fu~Cheng, Geng Peng, Yan Lu, Kang Wang, Qinuo Ju, Yongle Ju, and Manzhao
   Ouyang.
@@ -528,6 +539,14 @@ Suzanne~M. de~la Monte and Ming Tong.
 \newblock {\em Journal of Alzheimer's Disease}, 97, 02 2024.
 \newblock \href {https://doi.org/10.3233/jad-230881}
   {\path{doi:10.3233/jad-230881}}.
+
+\bibitem{deOliveiraSouza_Roychaudhuri_Belleroche_Amino_acids_2023}
+Isis~Nem de~Oliveira~Souza, Robin Roychaudhuri, Jacqueline~de Belleroche, and
+  Jean-Pierre Mothet.
+\newblock d-amino acids: new clinical pathways for brain diseases.
+\newblock {\em Trends in Molecular Medicine}, 29, 12 2023.
+\newblock \href {https://doi.org/10.1016/j.molmed.2023.09.001}
+  {\path{doi:10.1016/j.molmed.2023.09.001}}.
 
 \bibitem{PMC3286726}
 Akila De~Silva and Stephen~R Bloom.
@@ -835,6 +854,19 @@ Virgilio Hernandez-Ruiz, Luc Letenneur, Tamas F{\"u}l{\"o}p, Catherine Helmer,
 \newblock {\em Neurological Sciences}, 43(11):6215--6224, Nov 2022.
 \newblock \href {https://doi.org/10.1007/s10072-022-06280-9}
   {\path{doi:10.1007/s10072-022-06280-9}}.
+
+\bibitem{Hertel_Fassler_Heinken_Metabolomics_Reveal_Urine_2022}
+Johannes Hertel, Daniel F\"{a}ssler, Almut Heinken, Frank Wei\ss, Malte
+  R\"{u}hlemann, Corinna Bang, Andre Franke, Kathrin Budde, Ann-Kristin
+  Henning, Astrid Petersmann, Uwe V\"{o}lker, Henry V\"{o}lzke, Ines Thiele,
+  Hans-J\"{o}rgen Grabe, Markus Lerch, Matthias Nauck, Nele Friedrich, and
+  Fabian Frost.
+\newblock Nmr metabolomics reveal urine markers of microbiome diversity and
+  identify benzoate metabolism as a mediator between high microbial alpha
+  diversity and metabolic health.
+\newblock {\em Metabolites}, 12, 04 2022.
+\newblock \href {https://doi.org/10.3390/metabo12040308}
+  {\path{doi:10.3390/metabo12040308}}.
 
 \bibitem{Hinssen_Mensink_Huppertz_Impact_aging_NBSPon_2025}
 Fenna Hinssen, Marco Mensink, Thom Huppertz, and Nikkie~van der Wielen.
@@ -1862,6 +1894,14 @@ Aneela Rahman, Hande Jackson, Hollie Hristov, Richard~S. Isaacson, Nabeel Saif,
 \newblock {\em Frontiers in Aging Neuroscience}, 11, 11 2019.
 \newblock \href {https://doi.org/10.3389/fnagi.2019.00315}
   {\path{doi:10.3389/fnagi.2019.00315}}.
+
+\bibitem{PMC13026079}
+Maria~Jesus Ramirez-Exposito, Cristina Cueto-Urena, and Jose~Manuel
+  Martinez-Martos.
+\newblock Neurotransmitter systems in alzheimer's disease.
+\newblock {\em Current issues in molecular biology}, 03 2026.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/41899485/}, \href
+  {https://doi.org/10.3390/cimb48030334} {\path{doi:10.3390/cimb48030334}}.
 
 \bibitem{Raut_Singh_Sanghvi_Chloride_ions_health_2024}
 Satish~K. Raut, Kulwinder Singh, Shridhar Sanghvi, Veronica Loyo-Celis, Liyah
