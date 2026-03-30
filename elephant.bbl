@@ -11,6 +11,15 @@ Popular obesity drug fails in hotly anticipated alzheimer's trials, 11 2025.
 \newblock \href {https://doi.org/10.1126/science.zvgswf0}
   {\path{doi:10.1126/science.zvgswf0}}.
 
+\bibitem{Abbasi_Higashino_Sato_Maximizing_Oral_Bioavailability_2021}
+Saed Abbasi, Haruki Higashino, Yusuke Sato, Keiko Minami, Makoto Kataoka,
+  Shinji Yamashita, and Hideyoshi Harashima.
+\newblock Maximizing the oral bioavailability of poorly water-soluble drugs
+  using novel oil-like materials in lipid-based formulations.
+\newblock {\em Molecular Pharmaceutics}, 18, 09 2021.
+\newblock \href {https://doi.org/10.1021/acs.molpharmaceut.1c00197}
+  {\path{doi:10.1021/acs.molpharmaceut.1c00197}}.
+
 \bibitem{Adekunle_Balogun_Tryptophan_Supplementation_2025}
 Hakeem Adekunle and Olalekan Balogun.
 \newblock Tryptophan and htp supplementation in the treatment of cognitive and
@@ -610,6 +619,18 @@ Gerald~W. Dryden and Stephen~A. McClave.
 \newblock \href {https://doi.org/10.1007/978-1-59259-391-0_25}
   {\path{doi:10.1007/978-1-59259-391-0_25}}.
 
+\bibitem{DUARTE2017296}
+Ana Rita~C. Duarte, Ana Sofia~D. Ferreira, Susana Barreiros, Eurico Cabrita,
+  Rui~L. Reis, and Alexandre Paiva.
+\newblock A comparison between pure active pharmaceutical ingredients and
+  therapeutic deep eutectic solvents: Solubility and permeability studies.
+\newblock {\em European Journal of Pharmaceutics and Biopharmaceutics},
+  114:296--304, 2017.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0939641116306701},
+  \href {https://doi.org/10.1016/j.ejpb.2017.02.003}
+  {\path{doi:10.1016/j.ejpb.2017.02.003}}.
+
 \bibitem{Eble_Hu_Signals_Information_}
 Alex Eble and Feng Hu.
 \newblock Signals, information, and the value of college names.
@@ -659,6 +680,16 @@ Ellen Fallows.
 \newblock {\em BMJ}, 390, 07 2025.
 \newblock \href {https://doi.org/10.1136/bmj.r1512}
   {\path{doi:10.1136/bmj.r1512}}.
+
+\bibitem{FERREIRA2025114332}
+In\^{e}s~J. Ferreira, Cl\'{a}udio~C. Fernandes, and Ana Rita~C. Duarte.
+\newblock Acidic deep eutectic systems and their capacity to increase drug
+  bioavailability.
+\newblock {\em Fluid Phase Equilibria}, 593:114332, 2025.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0378381225000032},
+  \href {https://doi.org/10.1016/j.fluid.2025.114332}
+  {\path{doi:10.1016/j.fluid.2025.114332}}.
 
 \bibitem{Fessel_Supplemental_thiamine_2021}
 Jeffrey Fessel.
@@ -1264,6 +1295,16 @@ Johanna M.~S. Lemons, Jenni Firrman, Karley~K. Mahalak, LinShu Liu, Adrienne~B.
 \newblock \href {https://doi.org/10.3390/foods14172949}
   {\path{doi:10.3390/foods14172949}}.
 
+\bibitem{Li_Innes_Ribeiro_sequencing_analysis_2026}
+Boning Li, Dave~J. Innes, Eduardo~S. Ribeiro, John Doelman, Sergio~A. Burgos,
+  and John~P. Cant.
+\newblock An rna-sequencing analysis to determine potential upstream
+  transcriptional regulators of essential amino acid deficiency responses in
+  bovine mammary epithelial cells.
+\newblock {\em BMC Genomics}, Mar 2026.
+\newblock \href {https://doi.org/10.1186/s12864-026-12791-y}
+  {\path{doi:10.1186/s12864-026-12791-y}}.
+
 \bibitem{Li_Shi_Li_Chronic_methanol_exposure_induces_2026}
 Hongwei Li, Changhua Shi, Keya Li, Xinjing Fu, Ying Lyu, Yanfeng Xu, Yunlin
   Han, Wei Liang, Qin Chuan, and Ling Zhang.
@@ -1651,6 +1692,16 @@ Mariya~Timotey Miteva, Davide Laurenti, Roberto Mattioli, Daniel Di~Risola,
   {https://doi.org/10.3389/fnut.2026.1676497}
   {\path{doi:10.3389/fnut.2026.1676497}}.
 
+\bibitem{MORRISON2009136}
+Henry~G. Morrison, Changquan~C. Sun, and Sesha Neervannan.
+\newblock Characterization of thermal behavior of deep eutectic solvents and
+  their potential as drug solubilization vehicles.
+\newblock {\em International Journal of Pharmaceutics}, 378(1):136--139, 2009.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0378517309003469},
+  \href {https://doi.org/10.1016/j.ijpharm.2009.05.039}
+  {\path{doi:10.1016/j.ijpharm.2009.05.039}}.
+
 \bibitem{Mostyka_Shia_Neumann_Clinicopathologic_Features_Varicella_2021}
 Maria Mostyka, Jinru Shia, William~L. Neumann, Christa~L. Whitney-Miller,
   Michael Feely, and Rhonda~K. Yantiss.
@@ -1675,6 +1726,15 @@ Caitlin~C. Murdoch and Eric~P. Skaar.
 \newblock URL: \url{https://www.nature.com/articles/s41579-022-00745-6}, \href
   {https://doi.org/10.1038/s41579-022-00745-6}
   {\path{doi:10.1038/s41579-022-00745-6}}.
+
+\bibitem{Mustafa_Spelbos_Witkamp_Solubility_Stability_2021}
+Natali Mustafa, Vincent Spelbos, Geert-Jan Witkamp, Robert Verpoorte, and Young
+  Choi.
+\newblock Solubility and stability of some pharmaceuticals in natural deep
+  eutectic solvents-based formulations.
+\newblock {\em Molecules}, 26, 05 2021.
+\newblock \href {https://doi.org/10.3390/molecules26092645}
+  {\path{doi:10.3390/molecules26092645}}.
 
 \bibitem{Neto_Esper_Ux201c_char_2025}
 Thomaz~Funari Neto and Emanuela~Ferreira Esper.
@@ -2005,6 +2065,18 @@ Crystal Sang, Sasha~A. Philbert, Danielle Hartland, Richard.~D Unwin, Andrew~W.
 \newblock \href {https://doi.org/10.3389/fnagi.2022.893159}
   {\path{doi:10.3389/fnagi.2022.893159}}.
 
+\bibitem{SANGIORGI2025126369}
+Stefano Sangiorgi, Matilde Mancinelli, Serena Bertoni, Massimiliano~Pio {Di
+  Cagno}, Nadia Passerini, and Beatrice Albertini.
+\newblock Choline chloride-malic acid natural deep eutectic solvent containing
+  hydrophobic drugs: Insights into solubility and permeability behavior in
+  digestive tract models.
+\newblock {\em International Journal of Pharmaceutics}, 686:126369, 2025.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0378517325012062},
+  \href {https://doi.org/10.1016/j.ijpharm.2025.126369}
+  {\path{doi:10.1016/j.ijpharm.2025.126369}}.
+
 \bibitem{Saw_Yi_Tan_Evidence_Suggesting_That_Alzheimer_2025}
 Genevieve Saw, Ling-Xiao Yi, Eng~King Tan, and Zhi~Dong Zhou.
 \newblock Evidence suggesting that alzheimer's disease may be a transmissible
@@ -2266,6 +2338,15 @@ Jorge Urbina, Luis~Eduardo SalinasRuiz, C\'{e}sar Valenciano, and Benjamin
 \newblock {\em Clinical Obesity}, 16, 02 2026.
 \newblock \href {https://doi.org/10.1111/cob.70070}
   {\path{doi:10.1111/cob.70070}}.
+
+\bibitem{vanKempen_Boerboom_intestinal_mucous_2023}
+Theo~A.T.G. van Kempen and Gavin~M. Boerboom.
+\newblock Is the intestinal mucous layer a natural deep eutectic solvent-based
+  digestion matrix?
+\newblock {\em American Journal of Physiology-Gastrointestinal and Liver
+  Physiology}, 324, 06 2023.
+\newblock \href {https://doi.org/10.1152/ajpgi.00006.2023}
+  {\path{doi:10.1152/ajpgi.00006.2023}}.
 
 \bibitem{Varma2023}
 Tanmaykumar Varma, Pradnya Kamble, Madhavi Kumari, Vineet Diwakar, and Prabha
