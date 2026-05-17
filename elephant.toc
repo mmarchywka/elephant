@@ -14,51 +14,52 @@
 \contentsline {subsection}{\numberline {I.8} Nutrient Hypotheses }{9}{section*.12}%
 \contentsline {subsection}{\numberline {I.9} Various Toxin Hypotheses }{10}{section*.13}%
 \contentsline {section}{\numberline {II} The Present Hypothesis }{10}{section*.14}%
-\contentsline {subsection}{\numberline {II.1}Contrast to classical starvation and malnutrition }{10}{section*.15}%
+\contentsline {subsection}{\numberline {II.1}Contrast to classical starvation and malnutrition }{11}{section*.15}%
 \contentsline {subsection}{\numberline {II.2}brain microbiome }{11}{section*.16}%
 \contentsline {subsection}{\numberline {II.3}methanol and auto brewery syndrome }{11}{section*.17}%
-\contentsline {subsection}{\numberline {II.4}Neurotransmitter precursors etc }{11}{section*.18}%
+\contentsline {subsection}{\numberline {II.4}Neurotransmitter precursors etc }{12}{section*.18}%
 \contentsline {subsubsection}{\numberline {II.4.1}Choline }{12}{section*.19}%
 \contentsline {subsubsection}{\numberline {II.4.2}tryptophan}{12}{section*.20}%
-\contentsline {subsubsection}{\numberline {II.4.3}histidine}{12}{section*.21}%
+\contentsline {subsubsection}{\numberline {II.4.3}histidine}{13}{section*.21}%
 \contentsline {subsection}{\numberline {II.5}benzoate}{13}{section*.22}%
 \contentsline {subsection}{\numberline {II.6}arginine}{13}{section*.23}%
 \contentsline {subsection}{\numberline {II.7}glp-1}{13}{section*.24}%
 \contentsline {subsection}{\numberline {II.8}race and sex }{14}{section*.25}%
-\contentsline {subsection}{\numberline {II.9}Copper}{14}{section*.26}%
-\contentsline {subsection}{\numberline {II.10}Vitamin K }{15}{section*.27}%
-\contentsline {subsection}{\numberline {II.11}NAD+ }{15}{section*.28}%
-\contentsline {subsection}{\numberline {II.12}Taurine }{15}{section*.29}%
-\contentsline {subsection}{\numberline {II.13}SMVT Substrates }{15}{section*.30}%
-\contentsline {subsection}{\numberline {II.14}Thiamine }{15}{section*.31}%
-\contentsline {subsection}{\numberline {II.15}Lithium }{16}{section*.32}%
-\contentsline {subsection}{\numberline {II.16}Bicarbonate, Chloride, Phosphate }{16}{section*.33}%
-\contentsline {section}{\numberline {III}Common Age-Related Digestion Defects }{16}{section*.34}%
-\contentsline {subsection}{\numberline {III.1} GI chemistry }{17}{section*.35}%
-\contentsline {subsection}{\numberline {III.2} incomplete digestion }{17}{section*.36}%
-\contentsline {subsection}{\numberline {III.3} neutralization of any possible ingested toxins. }{17}{section*.37}%
-\contentsline {subsection}{\numberline {III.4}insoluble formation, solubility enhanacement }{17}{section*.38}%
-\contentsline {subsection}{\numberline {III.5} microbial or spontaneous toxin formation }{17}{section*.39}%
-\contentsline {subsection}{\numberline {III.6} GI surface quality and transporter expression }{17}{section*.40}%
-\contentsline {section}{\numberline {IV}Meal Engineering Considerations }{17}{section*.41}%
-\contentsline {subsection}{\numberline {IV.1} Reduced toxins : chloride and benzoate}{18}{section*.42}%
-\contentsline {subsection}{\numberline {IV.2} Solubility : chloride, protons, phosphate, emulsifiers}{18}{section*.43}%
-\contentsline {subsection}{\numberline {IV.3} Free nutrients }{18}{section*.44}%
-\contentsline {section}{\numberline {V}Candidate Ingredients}{18}{section*.45}%
-\contentsline {subsection}{\numberline {V.1} fermented foods}{18}{section*.46}%
-\contentsline {subsection}{\numberline {V.2} olive and oleic acid and essential fatty acids }{18}{section*.47}%
-\contentsline {subsection}{\numberline {V.3} choline, DES, and chloride }{18}{section*.48}%
-\contentsline {section}{\numberline {VI}Development Paths}{19}{section*.49}%
-\contentsline {section}{\numberline {VII}Biggest Problems }{19}{section*.50}%
-\contentsline {section}{\numberline {VIII}Conclusions}{20}{section*.51}%
-\contentsline {section}{\numberline {IX}Supplemental Information}{20}{section*.52}%
-\contentsline {subsection}{\numberline {IX.1}Computer Code}{20}{section*.53}%
-\contentsline {section}{\numberline {X}Bibliography}{20}{section*.54}%
-\contentsline {section}{\numberline {}References}{20}{section*.55}%
-\contentsline {section}{\numberline {}Acknowledgments}{35}{section*.56}%
+\contentsline {subsection}{\numberline {II.9}Various metals - Calcium and Iron }{15}{section*.26}%
+\contentsline {subsection}{\numberline {II.10}Copper}{15}{section*.27}%
+\contentsline {subsection}{\numberline {II.11}Vitamin K }{16}{section*.28}%
+\contentsline {subsection}{\numberline {II.12}NAD+ }{16}{section*.29}%
+\contentsline {subsection}{\numberline {II.13}Taurine }{16}{section*.30}%
+\contentsline {subsection}{\numberline {II.14}SMVT Substrates }{16}{section*.31}%
+\contentsline {subsection}{\numberline {II.15}Thiamine }{16}{section*.32}%
+\contentsline {subsection}{\numberline {II.16}Lithium }{16}{section*.33}%
+\contentsline {subsection}{\numberline {II.17}Bicarbonate, Chloride, Phosphate }{17}{section*.34}%
+\contentsline {section}{\numberline {III} Approach to a Solution }{17}{section*.35}%
+\contentsline {subsection}{\numberline {III.1} GI chemistry }{18}{section*.36}%
+\contentsline {subsection}{\numberline {III.2} incomplete digestion }{18}{section*.37}%
+\contentsline {subsection}{\numberline {III.3} neutralization of any possible ingested toxins. }{18}{section*.38}%
+\contentsline {subsection}{\numberline {III.4}insoluble formation, solubility enhanacement }{18}{section*.39}%
+\contentsline {subsection}{\numberline {III.5} microbial or spontaneous toxin formation }{18}{section*.40}%
+\contentsline {subsection}{\numberline {III.6} GI surface quality and transporter expression }{18}{section*.41}%
+\contentsline {section}{\numberline {IV}Meal Engineering Considerations }{18}{section*.42}%
+\contentsline {subsection}{\numberline {IV.1} Reduced toxins : chloride and benzoate}{18}{section*.43}%
+\contentsline {subsection}{\numberline {IV.2} Solubility : chloride, protons, phosphate, emulsifiers}{18}{section*.44}%
+\contentsline {subsection}{\numberline {IV.3} Free nutrients }{18}{section*.45}%
+\contentsline {section}{\numberline {V}Candidate Ingredients}{18}{section*.46}%
+\contentsline {subsection}{\numberline {V.1} fermented foods}{19}{section*.47}%
+\contentsline {subsection}{\numberline {V.2} olive and oleic acid and essential fatty acids }{19}{section*.48}%
+\contentsline {subsection}{\numberline {V.3} choline, DES, and chloride }{19}{section*.49}%
+\contentsline {section}{\numberline {VI}Development Paths}{20}{section*.50}%
+\contentsline {section}{\numberline {VII}Biggest Problems }{20}{section*.51}%
+\contentsline {section}{\numberline {VIII}Conclusions}{21}{section*.52}%
+\contentsline {section}{\numberline {IX}Supplemental Information}{21}{section*.53}%
+\contentsline {subsection}{\numberline {IX.1}Computer Code}{21}{section*.54}%
+\contentsline {section}{\numberline {X}Bibliography}{21}{section*.55}%
+\contentsline {section}{\numberline {}References}{21}{section*.56}%
+\contentsline {section}{\numberline {}Acknowledgments}{37}{section*.57}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{36}{section*.57}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{36}{section*.58}%
-\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{36}{section*.59}%
-\contentsline {section}{\numberline {D}General caveats and disclaimer }{36}{section*.60}%
-\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{36}{section*.61}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{38}{section*.58}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{38}{section*.59}%
+\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{38}{section*.60}%
+\contentsline {section}{\numberline {D}General caveats and disclaimer }{38}{section*.61}%
+\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{38}{section*.62}%
