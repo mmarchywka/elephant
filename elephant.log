@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  17 MAY 2026 14:17
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  19 MAY 2026 20:45
  restricted system commands enabled.
  file:line:error style messages enabled.
 **elephant.tex
@@ -1243,21 +1243,21 @@ Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 292.
 
 \openout3 = elephantNotes.bib
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 353--354
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 362--363
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 427
+LaTeX Font Info:    Trying to load font information for U+msa on input line 436
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 427
+LaTeX Font Info:    Trying to load font information for U+msb on input line 436
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1267,194 +1267,194 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 \openout7 = elephant.toc
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 437--442
+Overfull \hbox (10.0pt too wide) in paragraph at lines 446--451
 []$[]$ 
  []
 
 [3] [4]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 554--555
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 563--564
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 554--555
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
 
  []
 
 [5] [6]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1195--1195
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1202--1202
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1195--1195
+Underfull \hbox (badness 10000) in paragraph at lines 1202--1202
 
  []
 
 [7]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1197--1197
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1204--1204
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1197--1197
+Underfull \hbox (badness 10000) in paragraph at lines 1204--1204
 
  []
 
 [8]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1199--1199
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1206--1206
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1199--1199
+Underfull \hbox (badness 10000) in paragraph at lines 1206--1206
 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1200--1200
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1207--1207
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1200--1200
+Underfull \hbox (badness 10000) in paragraph at lines 1207--1207
 
  []
 
 [9]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1208--1209
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1215--1216
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1208--1209
+Underfull \hbox (badness 10000) in paragraph at lines 1215--1216
 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1264--1265
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1271--1272
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1264--1265
+Underfull \hbox (badness 10000) in paragraph at lines 1271--1272
 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1295--1296
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1302--1303
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1296
+Underfull \hbox (badness 10000) in paragraph at lines 1302--1303
 
  []
 
 [10]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1389--1390
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1396--1397
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1389--1390
+Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
 
  []
 
 [11]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1422--1423
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1429--1430
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1422--1423
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 
  []
 
 [12]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1633--1634
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1640--1641
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1633--1634
+Underfull \hbox (badness 10000) in paragraph at lines 1640--1641
 
  []
 
 [13]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1656--1657
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1663--1664
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1656--1657
+Underfull \hbox (badness 10000) in paragraph at lines 1663--1664
 
  []
 
 
-Overfull \hbox (11.25pt too wide) in paragraph at lines 1658--1668
+Overfull \hbox (11.25pt too wide) in paragraph at lines 1665--1675
 \TU/lmtt/m/n/10 sciencehub.novonordisk.com/content/dam/sciencehub/global/en/cong
 resses-[]and-[]scientific-[]publications/
  []
 
 [14] [15]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1956--1957
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1963--1964
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1956--1957
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1964
 
  []
 
 [16]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 2073--2074
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 2080--2081
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2073--2074
+Underfull \hbox (badness 10000) in paragraph at lines 2080--2081
 
  []
 
 [17]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 2153--2154
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 2160--2161
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
+Underfull \hbox (badness 10000) in paragraph at lines 2160--2161
 
  []
 
 [18]
-Overfull \hbox (404.22891pt too wide) in paragraph at lines 2256--2265
+Overfull \hbox (404.22891pt too wide) in paragraph at lines 2263--2272
 \TU/lmr/m/n/10 deep eu-tec-tic sol-vents(NADES) have been pro-posed to be part 
 of this over-all sys-tem [[]].  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2256--2265
+Underfull \hbox (badness 10000) in paragraph at lines 2263--2272
 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 2293--2294
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 2300--2301
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2293--2294
+Underfull \hbox (badness 10000) in paragraph at lines 2300--2301
 
  []
 
 (./nutrient_table.tex) [19]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 2351--2352
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 2358--2359
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2351--2352
+Underfull \hbox (badness 10000) in paragraph at lines 2358--2359
 
  []
 
@@ -1515,8 +1515,8 @@ Here is how much of LuaTeX's memory you used:
  1910 words of node memory still in use:
    11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 134 attribute, 80 glue_sp
 ec, 134 attribute_list, 122 pdf_action nodes
-   avail lists: 2:5376,3:1326,4:352,5:16216,6:181,7:25922,8:185,9:32852,10:30,11
-:1991
+   avail lists: 1:2,2:5359,3:1325,4:351,5:16162,6:181,7:25866,8:184,9:32744,10:3
+0,11:2027
  57885 multiletter control sequences out of 65536+600000
  81 fonts using 5643927 bytes
  124i,12n,116p,618b,2247s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1533,7 +1533,7 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy7.pfb>
-Output written on elephant.pdf (40 pages, 409286 bytes).
+Output written on elephant.pdf (40 pages, 408723 bytes).
 
 PDF statistics: 1875 PDF objects out of 2073 (max. 8388607)
  1779 compressed objects within 18 object streams
