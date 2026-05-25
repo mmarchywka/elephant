@@ -61,7 +61,8 @@ This is tech report \mjmtrno.
 Version & Date & Comments  &  \\
 0.01 & \mjmmakedate  &  Create from empty.tex template  &  \\
 -  & \today & version  \mjmversion { }   \mjmtrno  &  \\
-1.0 & 20xx-xx-xx & First revision for distribution &  \\
+.001 & 2026-05-23 & Final note form not continuing for now   &  \\
+%1.0 & 20xx-xx-xx & First revision for distribution &  \\
 \end{tabular}
 \end{table}
 
