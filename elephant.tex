@@ -52,7 +52,7 @@ breaklines=true
 %At the command-line, you can do \def\MYFLAG{} and then test if \MYFLAG is defined in your document (or an included style file) with \ifdefined\MYFLAG ... \else ... \fi.
 % needs trailing space for the sample bibtex doh
 % leading spaces mess up the entry thought 
-\def\xxmjmrelease{0.10 }
+\def\mjmrelease{0.001 }
 \ifdefined\mjmrelease
 \newcommand{\mjmstatus}{ PUBLIC NOTES }
 \newcommand{\mjmversion}{\mjmrelease} %%%%%%%%%%%%%
@@ -117,6 +117,7 @@ breaklines=true
 
 \newcommand{\mjmbibname}{marchywka-\mjmbib}
 \mjmstartbib{\mjmbibtype}{\mjmbibname}
+\newcommand{\mjmdoi}{10.5281/zenodo.20360482}
 
 
 \newcommand{\mjmemail}{marchywka@hotmail.com}
@@ -140,6 +141,7 @@ breaklines=true
 \mjmaddbib{day}{\mjmmakebibday}
 \mjmaddbib{month}{\mjmmakebibmo}
 \mjmaddbib{year}{\mjmmakebibyear}
+\mjmaddbib{doi}{\mjmdoi}
 
 \mjmaddbib{author1email}{\mjmemail}
 \mjmaddbib{contact}{\mjmemail}
@@ -303,16 +305,16 @@ I've got too many distractions now,
  lost interest in the topic and got tired of reading this
 stuff but the ideas seem important and fairly simple
 so I'm releasing this as-is. 
-The AD literature seems to  present new initially encouraging results   
+The AD literature presents initially encouraging results   
 daily with little attempt to integrate new results with old  observations.
 There are now a lot of data poitns to put  together with cause and effect 
 like any TV detective would do or as described in fables like the 
-blind men and the elephant even though apparently  Natalie Merchant set
-that fable  to music ( the subtitle refers to the band 10000 Maniacs 
-also suggestive of a mental disturbance). 
+blind men and the elephant  (  Natalie Merchant set
+that fable  to music and the subtitle refers to the band 10000 Maniacs 
+also suggestive of a mental disturbance ). 
 This work  proposes  
- that all these stalled approaches  can be causally  explained by 
-well known issues such as age related digestive defects.
+ that all these unrelated  approaches can be causally  explained by 
+age related digestive defects.
 Suggestions are further supported by in-house work on 
 optimization of dog diets demonstrating apparent safety
 and utility of out of favor vitamins that could be impacted
@@ -363,14 +365,14 @@ but because less organized and specific.
 
 \begin{abstract}
 Effective treatments for Alzheimer's Disease(AD) have been difficult
-to create despite its well known morbidity. Much effort has been 
+to create despite significant effort to mitigate impact on 
+an aging population. Much effort has been 
 directed at amyloid beta removal
 with minimal clinical benefits demonstrated.
 Several distinct hypotheses  have  emerged that focus  
-on  things such as infection, vitamins,
-other various small molecules, meal or dietary selections,
-  toxin exposure, or GI tract 
-disturbances. 
+on  diverse things such as infection, vitamins,
+other miscellaneous small molecules, meal or dietary selections,
+  toxin exposure, or GI tract disturbances. 
 \mjmtolx{In the case of the infection hypothesis, 
  many pathogens appear to 
 cause AD and an  age related vulnerability may better explain
@@ -383,8 +385,8 @@ encouraging early results but no easily demonstrated robust
 patient benefits.  
 Taking  these results and other  observations
 together, similar to the fable of the blind men
-grasping different parts of an elephant, a plausible unifying
-cause is nutrient deficiency and toxin exposure  due to 
+grasping different parts of an elephant, the plausible unifying
+cause presented here is nutrient deficiency and toxin exposure  due to 
 age related digestive defects.
 Isolated profound nutrient deficiencies will not likely exist
 so obvious attribution of disease to single molecular entity is not
@@ -423,8 +425,8 @@ as amino acids and SMVT substrates all need to be included
 to replace the younger absorption profile.  However, brute
 force supplementation without regard to formulation
 may not work due to chemical and metabolic interactions.  
-Two important amino acids with solubility issues in particular,
-tyrosine and tryptophan, and critical but reactive metals such
+Two important amino acids with solubility issues ( 
+tyrosine and tryptophan ) and critical but reactive metals such
 as copper may require special attention.\mjmtolx{ There are also possible
 political concerns if there is a hesitancy to link tyrosine metabolism
 to dementia. However, as always, social influences will not change 
@@ -1734,7 +1736,7 @@ One obvious issue with skin pigment is tryosine metabolism.
 Both the depltion of tyrosine and generation of toxic analogs
 could be considered. It is possible that constituitive
 skin pigmentation (CSP)  evolved with adaptive mechanisms that
-may be instructive to investigate.   
+may be instructive to investigate if they mitigate any such issues.   
 CSP evolution is usually described as an issue of sun exposure
 with damage and vitamin D synthesis being driving forces in tone
 \cite{Jablonski_Chaplin_Human_skin_pigmentation_migration_2012}.
@@ -1742,15 +1744,15 @@ Recent work from 2026 tends to add support to a connection
 between pigmentation homeostasis and interferon in this case
 via  TRPM2 \cite{PMC13060961}.
 
-While CSP may predispose
-to various maladies, it may also be easily treated if
+If CSP predisposes
+to some maladies, it may also be easily treated if
 existing adpatations are not already active. Indeed,
 speculation on beneficial tyrosine analogs can not be dismissed.
 
 \mjmtolx{ goog ai went wild with "dementia skin pigmentation" but hard
 to track down source }
 
-And melanin itself is not inert once formed especially
+Melanin itself is not inert once formed especially
 in the presence of UV light 
 \cite{PMID41680087}.
 A link between dementia and melanin has been considered by
@@ -2352,10 +2354,10 @@ if any trends are observed with prescription medicines.
 
 \section{Biggest Problems }
 
-\mjmtol{ lot of issues here include off-target effects, 
+\mjmtol{ lot of issues here with PPI's include off-target effects, 
 accurate prescribing patterns, population differences between
 users and non uers, any real effect etc. AGA seems to be pushing
-this things probably get ad revenue lol } 
+these things  } 
 
 As proton concentration is thought to be a big issue, 
 it may be surprising that chronic PPI use does not 
@@ -2423,46 +2425,42 @@ It is not immediately clear however what factors influence
 their expression of if it is age or nutrient limited.
 
 
-
 However, the theory here is a bit empirical and recognizes other
 factors than pH alone may be important.  With a non-zero supply
 of most required molecules adaptive responses may be able
 to move the effects of the deficiencies around making the
 clinical presentation difficult to trace to original problem.
 
-
 Even if the theory is sound and eventually is proven useful
 as a starting point, social issues are a big problem.
-For whatever reason amyloid drugs appear to be getting a more
-favorable response than is supported by known data.
+For whatever reason amyloid drugs appear to be getting  more
+favorable acceptance than is supported by known data.
 Anything involving skin pigment will attract angry people.
 
-
-
-
 \section{Conclusions}
-The present work seeks to find a robust intvention against AD,
+This work  presents a specific cause that may allow
+the design of a robust intvention against AD,
 specifically LOAD but more generally most age related conditions,
 by engineering meals to mitigate or fix GI impairments that
 can reduce nutrient uptake and increase toxin production.
 It suggests that the sum of all the partial theories can best
 be described by this common source of failure or it identified
 the proverbial elephant from distinct observations of the pieces.
-One non-specific symptom is likely weak structural proteins
+One non-specific feature is likely weak structural proteins
 as amino acids and various factors will be deficient.
 Specific glib fallacies have been identified that may impede
 progress. 
 While several paths for investigation are possible, informal
-approaches by motivated parties may help avoid some problems of the
+approaches implemented by motivated parties may help avoid some problems of the
 past efforts such as clinging to a familiar target instead of following
-the evolving data and avoiding ill posed questions such as the action
+the evolving data. 
+Consideration of the action
 of a single molecular entity on a diverse randomized population
-instead of the components for even a single cure specialized to 
-even one person.  As a corollary, it may be that certain identifiable
+may be better replace with  a series of case reports looking at individual
+details.  As a corollary, it may be that certain identifiable
 groups are more susceptible to mental or physical injuries due to
 inappropriate meal design and attempts to just blame undefined 
 social pressures will be counterproductive for everyone.
-
 
 
 \section{Supplemental Information}
@@ -2581,7 +2579,8 @@ This is tech report \mjmtrno.
 Version & Date & Comments  &  \\
 0.01 & \mjmmakedate  &  Create from empty.tex template  &  \\
 -  & \today & version  \mjmversion { }   \mjmtrno  &  \\
-1.0 & 20xx-xx-xx & First revision for distribution &  \\
+.001 & 2026-05-23 & Final note form not continuing for now   &  \\
+%1.0 & 20xx-xx-xx & First revision for distribution &  \\
 \end{tabular}
 \end{table}
 
